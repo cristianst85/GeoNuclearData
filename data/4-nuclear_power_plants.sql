@@ -16,7 +16,7 @@ CREATE TABLE `nuclear_power_plants` (
   `construction_start_at` date DEFAULT NULL,
   `operational_from` date DEFAULT NULL,
   `operational_to` date DEFAULT NULL,
-  `capacity` int(4) unsigned DEFAULT NULL COMMENT 'in MW',
+  `capacity` int(4) unsigned DEFAULT NULL COMMENT 'in MWe',
   `source` varchar(64) COLLATE utf8_unicode_ci DEFAULT NULL,
   `last_updated_at` datetime DEFAULT NULL,
   PRIMARY KEY (`id`),

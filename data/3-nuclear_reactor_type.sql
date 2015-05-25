@@ -9,6 +9,7 @@ CREATE TABLE `nuclear_reactor_type` (
   `type` varchar(8) COLLATE utf8_unicode_ci NOT NULL,
   `description` varchar(80) COLLATE utf8_unicode_ci DEFAULT NULL,
   PRIMARY KEY (`id`),
+  UNIQUE KEY `idx_id` (`type`),
   UNIQUE KEY `idx_type` (`type`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
