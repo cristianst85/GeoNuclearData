@@ -6,7 +6,7 @@ This repository contains a database in MySQL format with information about nucle
 
 ###countries
 - `code` - ISO 3166-1 alpha-2 country code
-- `name` - country name in english
+- `name` - country name in English
  
 ### nuclear_power_plant_status_type
 - `id` - numeric id key
@@ -14,7 +14,7 @@ This repository contains a database in MySQL format with information about nucle
 
 ### nuclear_reactor_type
 - `id` - numeric id key
-- `type` - nuclear reactor type acronim
+- `type` - nuclear reactor type acronym
 - `description` - nuclear reactor type long form
  
 ### nuclear_power_plants
