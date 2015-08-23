@@ -37,11 +37,14 @@ This repository contains a database in MySQL format with information about nucle
 Do not use the data from `source` and `last_updated_at` columns as it is for maintenance purpose only.
  
 ## Usage
-    select npp.`id`, npp.`name`, npp.latitude, npp.longitude,
+	select npp.`id`, npp.`name`, npp.latitude, npp.longitude,
 	c.`name` 'country', s.type 'status', r.type 'reactor_type',
 	npp.reactor_model, npp.construction_start_at, npp.operational_from, npp.operational_to
-	from nuclear_power_plants npp, countries c, nuclear_power_plant_status_type s, nuclear_reactor_type r
-	where npp.country_code=c.`code` and npp.status_id=s.id and npp.reactor_type_id=r.id order by npp.`id`
+	from nuclear_power_plants npp
+	inner join countries as c on npp.country_code=c.`code` 
+	inner join nuclear_power_plant_status_type as s on npp.status_id=s.id
+	left outer join nuclear_reactor_type as r on npp.reactor_type_id=r.id
+	order by npp.`id`
 
 ## License
  The GeoNuclearData database is made available under the Open Database License whose full text can be found at http://opendatacommons.org/licenses/odbl/1.0/.
