@@ -29,7 +29,7 @@ INSERT INTO `nuclear_reactor_type` VALUES ('10', 'HTR-PM', 'High Temperature Rea
 INSERT INTO `nuclear_reactor_type` VALUES ('11', 'HWGCR', 'Heavy Water Gas Cooled Reactor');
 INSERT INTO `nuclear_reactor_type` VALUES ('12', 'HWLWR', 'Heavy Water Light Water Reactor');
 INSERT INTO `nuclear_reactor_type` VALUES ('13', 'HWOCR', 'Heavy Water Organic Cooled Reactor');
-INSERT INTO `nuclear_reactor_type` VALUES ('14', 'LFR', 'Lead-cooler Fast Reactor');
+INSERT INTO `nuclear_reactor_type` VALUES ('14', 'LFR', 'Lead-cooled Fast Reactor');
 INSERT INTO `nuclear_reactor_type` VALUES ('15', 'LMFBR', 'Liquid Metal Fast Breeder Reactor');
 INSERT INTO `nuclear_reactor_type` VALUES ('16', 'LMFR', 'Liquid Metal Fast Reactor');
 INSERT INTO `nuclear_reactor_type` VALUES ('17', 'LWGR', 'Light Water Graphite Reactor');
