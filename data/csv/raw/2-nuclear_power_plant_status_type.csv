@@ -1,0 +1,9 @@
+Type;Id
+Unknown;0
+Planned;1
+Under Construction;2
+Operational;3
+Suspended Operation;4
+Shutdown;5
+Unfinished;6
+Never Built;7
