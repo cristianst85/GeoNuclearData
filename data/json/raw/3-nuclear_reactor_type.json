@@ -1,0 +1,127 @@
+[
+  {
+    "Type": "ABWR",
+    "Description": "Advanced Boiling Water Reactor",
+    "Id": 1
+  },
+  {
+    "Type": "APR",
+    "Description": "Advanced Power Reactor",
+    "Id": 2
+  },
+  {
+    "Type": "APWR",
+    "Description": "Advanced Pressurised Water Reactor",
+    "Id": 3
+  },
+  {
+    "Type": "AGR",
+    "Description": "Advanced Gas-cooled Reactor",
+    "Id": 4
+  },
+  {
+    "Type": "BWR",
+    "Description": "Boiling Water Reactor",
+    "Id": 5
+  },
+  {
+    "Type": "EPR",
+    "Description": "Evolutionary Power Reactor",
+    "Id": 6
+  },
+  {
+    "Type": "FBR",
+    "Description": "Fast Breeder Reactor",
+    "Id": 7
+  },
+  {
+    "Type": "GCR",
+    "Description": "Gas-Cooled Reactor",
+    "Id": 8
+  },
+  {
+    "Type": "HTGR",
+    "Description": "High-Temperature Gas-cooled Reactor",
+    "Id": 9
+  },
+  {
+    "Type": "HTR-PM",
+    "Description": "High Temperature Reactor - Pebble Module",
+    "Id": 10
+  },
+  {
+    "Type": "HWGCR",
+    "Description": "Heavy Water Gas Cooled Reactor",
+    "Id": 11
+  },
+  {
+    "Type": "HWLWR",
+    "Description": "Heavy Water Light Water Reactor",
+    "Id": 12
+  },
+  {
+    "Type": "HWOCR",
+    "Description": "Heavy Water Organic Cooled Reactor",
+    "Id": 13
+  },
+  {
+    "Type": "LFR",
+    "Description": "Lead-cooled Fast Reactor",
+    "Id": 14
+  },
+  {
+    "Type": "LMFBR",
+    "Description": "Liquid Metal Fast Breeder Reactor",
+    "Id": 15
+  },
+  {
+    "Type": "LMFR",
+    "Description": "Liquid Metal Fast Reactor",
+    "Id": 16
+  },
+  {
+    "Type": "LWGR",
+    "Description": "Light Water Graphite Reactor",
+    "Id": 17
+  },
+  {
+    "Type": "MSR",
+    "Description": "Molten Salt Reactor",
+    "Id": 18
+  },
+  {
+    "Type": "OCR",
+    "Description": "Organic Cooled Reactor",
+    "Id": 19
+  },
+  {
+    "Type": "PHWR",
+    "Description": "Pressurised Heavy Water Reactor",
+    "Id": 20
+  },
+  {
+    "Type": "PWR",
+    "Description": "Pressurised Water Reactor",
+    "Id": 21
+  },
+  {
+    "Type": "RBMK",
+    "Description": "High Power Channel-Type Reactor (Reaktor Bolshoy Moshchnosti Kanalniy)",
+    "Id": 22
+  },
+  {
+    "Type": "SGR",
+    "Description": "Sodium-Graphite Reactor",
+    "Id": 23
+  },
+  {
+    "Type": "SGHWR",
+    "Description": "Steam Generating Heavy Water Reactor",
+    "Id": 24
+  },
+  {
+    "Type": "TWR",
+    "Description": "Traveling-Wave Reactor",
+    "Id": 25
+  }
+]
