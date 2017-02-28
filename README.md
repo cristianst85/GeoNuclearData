@@ -2,6 +2,10 @@
 
 This repository contains a database in MySQL format with information about nuclear power plants around the world.
 
+### Data formats
+
+Data is also available in formats like JSON and CSV, including a denormalized form.
+
 ## Tables structure
 
 ###countries
@@ -47,13 +51,15 @@ Do not use the data from `source` and `last_updated_at` columns as it is for mai
 	order by npp.`id`
 
 ## License
- The GeoNuclearData database is made available under the Open Database License whose full text can be found at http://opendatacommons.org/licenses/odbl/1.0/.
+The GeoNuclearData database is made available under the Open Database License whose full text can be found at http://opendatacommons.org/licenses/odbl/1.0/.
  
- Any rights in individual contents of the database are licensed under the Database Contents License whose full text can be found at http://opendatacommons.org/licenses/dbcl/1.0/.
+Any rights in individual contents of the database are licensed under the Database Contents License whose full text can be found at http://opendatacommons.org/licenses/dbcl/1.0/.
  
 ## Sources
- Countries data is taken from Unicode Common Locale Data Repository: 
- https://github.com/unicode-cldr/cldr-localenames-full/blob/master/main/en/territories.json
+Countries data is taken from Unicode Common Locale Data Repository: 
+https://github.com/unicode-cldr/cldr-localenames-full/blob/master/main/en/territories.json
+
+Nuclear power plants data is taken from [WNA](http://www.world-nuclear.org/information-library/facts-and-figures/reactor-database.aspx)/[IAEA](https://www.iaea.org/pris/), but some of it comes from [Wikipedia](https://en.wikipedia.org/wiki/List_of_nuclear_power_stations).
  
- Nuclear power plants data is taken from WNA/IAEA, but some of it comes from Wikipedia.
- 
+## Showcase
+- [uRADMonitor - Global Environmental Monitoring Network](http://www.uradmonitor.com).
