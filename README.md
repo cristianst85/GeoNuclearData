@@ -8,7 +8,7 @@ Data is also available in formats like JSON and CSV, including a denormalized fo
 
 ## Tables structure
 
-###countries
+### countries
 - `code` - ISO 3166-1 alpha-2 country code
 - `name` - country name in English
  
