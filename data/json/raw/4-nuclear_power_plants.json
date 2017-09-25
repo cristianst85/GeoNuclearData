@@ -392,11 +392,11 @@
     "ReactorTypeId": 20,
     "ReactorModel": "PHWR KWU",
     "ConstructionStartAt": "1981-07-14",
-    "OperationalFrom": null,
+    "OperationalFrom": "2016-05-26",
     "OperationalTo": null,
     "Capacity": 692,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2015-05-24T04:50:07+03:00",
+    "LastUpdatedAt": "2017-09-25T03:19:13+03:00",
     "Id": 25
   },
   {
@@ -778,9 +778,9 @@
     "ConstructionStartAt": "2006-07-18",
     "OperationalFrom": "2016-10-31",
     "OperationalTo": null,
-    "Capacity": 789,
+    "Capacity": 820,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2017-02-10T23:57:04+02:00",
+    "LastUpdatedAt": "2017-09-25T03:19:53+03:00",
     "Id": 49
   },
   {
@@ -1338,9 +1338,9 @@
     "ConstructionStartAt": "1970-12-01",
     "OperationalFrom": "1977-09-01",
     "OperationalTo": null,
-    "Capacity": 696,
+    "Capacity": 732,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2015-05-24T04:50:37+03:00",
+    "LastUpdatedAt": "2017-09-25T03:19:26+03:00",
     "Id": 84
   },
   {
@@ -1994,9 +1994,9 @@
     "ConstructionStartAt": "2010-04-25",
     "OperationalFrom": "2015-12-25",
     "OperationalTo": null,
-    "Capacity": 610,
+    "Capacity": 601,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2016-03-09T18:44:09+02:00",
+    "LastUpdatedAt": "2017-09-25T03:20:42+03:00",
     "Id": 125
   },
   {
@@ -2010,9 +2010,9 @@
     "ConstructionStartAt": "2010-11-21",
     "OperationalFrom": "2016-08-12",
     "OperationalTo": null,
-    "Capacity": 610,
+    "Capacity": 601,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2016-10-03T22:05:32+03:00",
+    "LastUpdatedAt": "2017-09-25T03:20:43+03:00",
     "Id": 126
   },
   {
@@ -2120,11 +2120,11 @@
     "ReactorTypeId": 21,
     "ReactorModel": "CNP-300",
     "ConstructionStartAt": "2011-05-28",
-    "OperationalFrom": null,
+    "OperationalFrom": "2016-12-01",
     "OperationalTo": null,
     "Capacity": 315,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2017-02-10T23:59:37+02:00",
+    "LastUpdatedAt": "2017-09-25T03:20:45+03:00",
     "Id": 133
   },
   {
@@ -2132,7 +2132,7 @@
     "Latitude": 32.391944,
     "Longitude": 71.461667,
     "CountryCode": "PK",
-    "StatusId": 2,
+    "StatusId": 3,
     "ReactorTypeId": 21,
     "ReactorModel": "CNP-300",
     "ConstructionStartAt": "2011-12-18",
@@ -2140,7 +2140,7 @@
     "OperationalTo": null,
     "Capacity": 315,
     "Source": "IAEA",
-    "LastUpdatedAt": "2015-05-24T04:51:58+03:00",
+    "LastUpdatedAt": "2017-09-25T03:20:49+03:00",
     "Id": 134
   },
   {
@@ -3828,7 +3828,7 @@
     "Latitude": 25.720278,
     "Longitude": 119.383889,
     "CountryCode": "CN",
-    "StatusId": 2,
+    "StatusId": 3,
     "ReactorTypeId": 21,
     "ReactorModel": "CNP-1000",
     "ConstructionStartAt": "2012-11-17",
@@ -3836,7 +3836,7 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2016-03-09T18:44:01+02:00",
+    "LastUpdatedAt": "2017-09-25T03:20:40+03:00",
     "Id": 240
   },
   {
@@ -5146,9 +5146,9 @@
     "ConstructionStartAt": "2009-03-07",
     "OperationalFrom": "2015-08-16",
     "OperationalTo": null,
-    "Capacity": 1000,
+    "Capacity": 1061,
     "Source": "WNA/IAEA/GEO",
-    "LastUpdatedAt": "2015-08-23T03:28:28+03:00",
+    "LastUpdatedAt": "2017-09-25T03:20:36+03:00",
     "Id": 322
   },
   {
@@ -5160,11 +5160,11 @@
     "ReactorTypeId": 21,
     "ReactorModel": "CPR-1000",
     "ConstructionStartAt": "2009-08-15",
-    "OperationalFrom": null,
+    "OperationalFrom": "2016-09-19",
     "OperationalTo": null,
-    "Capacity": 1000,
+    "Capacity": 1061,
     "Source": "WNA/IAEA/GEO",
-    "LastUpdatedAt": "2016-07-08T21:13:20+03:00",
+    "LastUpdatedAt": "2017-09-25T03:20:37+03:00",
     "Id": 323
   },
   {
@@ -5178,9 +5178,9 @@
     "ConstructionStartAt": "2015-03-29",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": 1000,
+    "Capacity": 1061,
     "Source": "WNA/IAEA/GEO",
-    "LastUpdatedAt": "2015-08-23T03:28:28+03:00",
+    "LastUpdatedAt": "2017-09-25T03:20:44+03:00",
     "Id": 324
   },
   {
@@ -5194,9 +5194,9 @@
     "ConstructionStartAt": "2015-07-24",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": 1000,
+    "Capacity": 1061,
     "Source": "WNA/IAEA/GEO",
-    "LastUpdatedAt": "2015-08-23T03:28:28+03:00",
+    "LastUpdatedAt": "2017-09-25T03:20:51+03:00",
     "Id": 325
   },
   {
@@ -6086,13 +6086,13 @@
     "CountryCode": "UA",
     "StatusId": 2,
     "ReactorTypeId": 21,
-    "ReactorModel": "VVER V-392B",
+    "ReactorModel": "VVER",
     "ConstructionStartAt": "1986-03-01",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": 950,
+    "Capacity": 1035,
     "Source": "IAEA",
-    "LastUpdatedAt": "2015-05-24T05:20:28+03:00",
+    "LastUpdatedAt": "2017-09-25T03:20:02+03:00",
     "Id": 381
   },
   {
@@ -6102,13 +6102,13 @@
     "CountryCode": "UA",
     "StatusId": 2,
     "ReactorTypeId": 21,
-    "ReactorModel": "VVER V-392B",
+    "ReactorModel": "VVER",
     "ConstructionStartAt": "1987-02-01",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": 950,
+    "Capacity": 1035,
     "Source": "IAEA",
-    "LastUpdatedAt": "2015-05-24T05:20:28+03:00",
+    "LastUpdatedAt": "2017-09-25T03:20:09+03:00",
     "Id": 382
   },
   {
@@ -6228,15 +6228,15 @@
     "Latitude": 35.321000,
     "Longitude": 129.295000,
     "CountryCode": "KR",
-    "StatusId": 3,
+    "StatusId": 5,
     "ReactorTypeId": 21,
     "ReactorModel": "WH 60",
     "ConstructionStartAt": "1972-08-01",
     "OperationalFrom": "1978-04-29",
-    "OperationalTo": null,
+    "OperationalTo": "2017-06-18",
     "Capacity": 558,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2017-02-10T23:56:32+02:00",
+    "LastUpdatedAt": "2017-09-25T03:19:42+03:00",
     "Id": 390
   },
   {
@@ -6440,11 +6440,11 @@
     "ReactorTypeId": 21,
     "ReactorModel": "VVER V-412",
     "ConstructionStartAt": "2002-07-04",
-    "OperationalFrom": null,
+    "OperationalFrom": "2017-03-31",
     "OperationalTo": null,
     "Capacity": 917,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2016-10-03T22:05:16+03:00",
+    "LastUpdatedAt": "2017-09-25T03:20:10+03:00",
     "Id": 403
   },
   {
@@ -6452,15 +6452,15 @@
     "Latitude": 8.167050,
     "Longitude": 77.708000,
     "CountryCode": "IN",
-    "StatusId": 1,
+    "StatusId": 2,
     "ReactorTypeId": 21,
-    "ReactorModel": null,
-    "ConstructionStartAt": null,
+    "ReactorModel": "VVER V-412",
+    "ConstructionStartAt": "2017-06-29",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": null,
-    "Source": "WNA",
-    "LastUpdatedAt": null,
+    "Capacity": 917,
+    "Source": "WNA/IAEA",
+    "LastUpdatedAt": "2017-09-25T03:20:58+03:00",
     "Id": 404
   },
   {
@@ -6794,9 +6794,9 @@
     "ConstructionStartAt": "2008-10-25",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": 1085,
+    "Capacity": 1111,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2015-05-24T04:51:55+03:00",
+    "LastUpdatedAt": "2017-09-25T03:20:30+03:00",
     "Id": 425
   },
   {
@@ -6810,9 +6810,9 @@
     "ConstructionStartAt": "2010-04-15",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": 1085,
+    "Capacity": 1111,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2015-05-24T04:51:55+03:00",
+    "LastUpdatedAt": "2017-09-25T03:20:34+03:00",
     "Id": 426
   },
   {
@@ -7784,11 +7784,11 @@
     "ReactorTypeId": 21,
     "ReactorModel": "VVER V-392M",
     "ConstructionStartAt": "2008-06-24",
-    "OperationalFrom": "2016-12-31",
+    "OperationalFrom": "2017-02-27",
     "OperationalTo": null,
     "Capacity": 1114,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2017-02-10T23:59:27+02:00",
+    "LastUpdatedAt": "2017-09-25T03:20:23+03:00",
     "Id": 487
   },
   {
@@ -8180,15 +8180,15 @@
     "Latitude": 57.415000,
     "Longitude": 16.666000,
     "CountryCode": "SE",
-    "StatusId": 3,
+    "StatusId": 5,
     "ReactorTypeId": 5,
     "ReactorModel": "ABB-I",
     "ConstructionStartAt": "1966-08-01",
     "OperationalFrom": "1972-02-06",
-    "OperationalTo": null,
+    "OperationalTo": "2017-06-19",
     "Capacity": 440,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2015-05-24T04:51:37+03:00",
+    "LastUpdatedAt": "2017-09-25T03:19:55+03:00",
     "Id": 512
   },
   {
@@ -8196,15 +8196,15 @@
     "Latitude": 57.415000,
     "Longitude": 16.666000,
     "CountryCode": "SE",
-    "StatusId": 3,
+    "StatusId": 5,
     "ReactorTypeId": 5,
     "ReactorModel": "ABB-II",
     "ConstructionStartAt": "1969-09-01",
     "OperationalFrom": "1975-01-01",
-    "OperationalTo": null,
+    "OperationalTo": "2016-12-22",
     "Capacity": 580,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2015-05-24T04:51:37+03:00",
+    "LastUpdatedAt": "2017-09-25T03:19:59+03:00",
     "Id": 513
   },
   {
@@ -8906,9 +8906,9 @@
     "ConstructionStartAt": "1985-03-20",
     "OperationalFrom": "1994-04-01",
     "OperationalTo": null,
-    "Capacity": 288,
+    "Capacity": 289,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2015-05-24T04:50:39+03:00",
+    "LastUpdatedAt": "2017-09-25T03:19:32+03:00",
     "Id": 557
   },
   {
@@ -9530,9 +9530,9 @@
     "ConstructionStartAt": "2009-04-19",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": 1000,
+    "Capacity": 1157,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2015-05-24T04:51:52+03:00",
+    "LastUpdatedAt": "2017-09-25T03:20:16+03:00",
     "Id": 596
   },
   {
@@ -9546,9 +9546,9 @@
     "ConstructionStartAt": "2009-12-15",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": 1000,
+    "Capacity": 1157,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2015-05-24T04:51:52+03:00",
+    "LastUpdatedAt": "2017-09-25T03:20:19+03:00",
     "Id": 597
   },
   {
@@ -9620,15 +9620,15 @@
     "Latitude": 42.775000,
     "Longitude": -3.205000,
     "CountryCode": "ES",
-    "StatusId": 4,
+    "StatusId": 5,
     "ReactorTypeId": 5,
     "ReactorModel": "BWR-3",
     "ConstructionStartAt": "1966-09-01",
     "OperationalFrom": "1971-05-11",
-    "OperationalTo": null,
+    "OperationalTo": "2017-08-02",
     "Capacity": 440,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2015-05-24T04:50:49+03:00",
+    "LastUpdatedAt": "2017-09-25T03:19:35+03:00",
     "Id": 602
   },
   {
@@ -10042,9 +10042,9 @@
     "ConstructionStartAt": "2008-10-16",
     "OperationalFrom": "2016-12-20",
     "OperationalTo": null,
-    "Capacity": 1455,
+    "Capacity": 1340,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2017-02-10T23:59:26+02:00",
+    "LastUpdatedAt": "2017-09-25T03:20:21+03:00",
     "Id": 628
   },
   {
@@ -11078,13 +11078,13 @@
     "CountryCode": "CN",
     "StatusId": 2,
     "ReactorTypeId": 21,
-    "ReactorModel": "CPR-1000",
+    "ReactorModel": "CNP-1000",
     "ConstructionStartAt": "2016-09-07",
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": 1000,
     "Source": "WNA/wikipedia/IAEA",
-    "LastUpdatedAt": "2016-10-03T22:05:36+03:00",
+    "LastUpdatedAt": "2017-09-25T03:20:53+03:00",
     "Id": 693
   },
   {
@@ -11863,12 +11863,12 @@
     "StatusId": 3,
     "ReactorTypeId": 20,
     "ReactorModel": "CANDU 6",
-    "ConstructionStartAt": "1992-06-22",
+    "ConstructionStartAt": "1992-09-25",
     "OperationalFrom": "1997-07-01",
     "OperationalTo": null,
     "Capacity": 652,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2015-05-24T05:13:27+03:00",
+    "LastUpdatedAt": "2017-09-25T03:19:44+03:00",
     "Id": 742
   },
   {
@@ -12136,11 +12136,11 @@
     "ReactorTypeId": 21,
     "ReactorModel": "CPR-1000",
     "ConstructionStartAt": "2012-11-17",
-    "OperationalFrom": null,
+    "OperationalFrom": "2017-03-15",
     "OperationalTo": null,
     "Capacity": 1000,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2017-02-10T23:59:32+02:00",
+    "LastUpdatedAt": "2017-09-25T03:20:38+03:00",
     "Id": 759
   },
   {
