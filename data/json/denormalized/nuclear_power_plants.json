@@ -1,7 +1,7 @@
 [
   {
     "Id": 1,
-    "Name": "Agesta",
+    "Name": "Ågesta",
     "Latitude": 59.206000,
     "Longitude": 18.082900,
     "Country": "Sweden",
@@ -229,14 +229,14 @@
     "Latitude": -23.010000,
     "Longitude": -44.470000,
     "Country": "Brazil",
-    "Status": "Under Construction",
+    "Status": "Suspended Construction",
     "ReactorType": "PWR",
     "ReactorModel": "PRE KONVOI",
     "ConstructionStartAt": "2010-06-01",
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": 1245,
-    "LastUpdatedAt": "2015-05-24T04:50:20+03:00",
+    "LastUpdatedAt": "2018-03-10T14:56:07+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -567,12 +567,12 @@
     "Country": "Sweden",
     "Status": "Shutdown",
     "ReactorType": "BWR",
-    "ReactorModel": "ABB-II",
+    "ReactorModel": "AA-II",
     "ConstructionStartAt": "1971-02-01",
     "OperationalFrom": "1975-07-01",
     "OperationalTo": "1999-11-30",
     "Capacity": 570,
-    "LastUpdatedAt": "2015-05-24T04:51:37+03:00",
+    "LastUpdatedAt": "2018-03-10T14:52:00+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -583,12 +583,12 @@
     "Country": "Sweden",
     "Status": "Shutdown",
     "ReactorType": "BWR",
-    "ReactorModel": "ABB-II",
+    "ReactorModel": "AA-II",
     "ConstructionStartAt": "1973-01-01",
     "OperationalFrom": "1977-07-01",
     "OperationalTo": "2005-05-31",
     "Capacity": 570,
-    "LastUpdatedAt": "2015-05-24T04:51:38+03:00",
+    "LastUpdatedAt": "2018-03-10T14:52:02+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -632,11 +632,11 @@
     "Status": "Under Construction",
     "ReactorType": "PWR",
     "ReactorModel": "VVER V-491",
-    "ConstructionStartAt": "2013-11-06",
+    "ConstructionStartAt": "2013-11-08",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": 1109,
-    "LastUpdatedAt": "2015-05-24T04:51:58+03:00",
+    "Capacity": 1110,
+    "LastUpdatedAt": "2018-03-10T14:54:38+02:00",
     "Source": "IAEA"
   },
   {
@@ -648,11 +648,11 @@
     "Status": "Under Construction",
     "ReactorType": "PWR",
     "ReactorModel": "VVER V-491",
-    "ConstructionStartAt": "2014-04-26",
+    "ConstructionStartAt": "2014-04-27",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": 1109,
-    "LastUpdatedAt": "2015-05-24T04:51:58+03:00",
+    "Capacity": 1110,
+    "LastUpdatedAt": "2018-03-10T14:54:39+02:00",
     "Source": "IAEA"
   },
   {
@@ -661,15 +661,15 @@
     "Latitude": 43.624530,
     "Longitude": 25.186750,
     "Country": "Bulgaria",
-    "Status": "Planned",
+    "Status": "Cancelled Construction",
     "ReactorType": "PWR",
     "ReactorModel": null,
     "ConstructionStartAt": null,
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": null,
-    "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Capacity": 953,
+    "LastUpdatedAt": "2018-03-10T13:41:44+02:00",
+    "Source": "WNA/IAEA"
   },
   {
     "Id": 43,
@@ -677,15 +677,15 @@
     "Latitude": 43.624530,
     "Longitude": 25.186500,
     "Country": "Bulgaria",
-    "Status": "Planned",
+    "Status": "Cancelled Construction",
     "ReactorType": "PWR",
     "ReactorModel": null,
     "ConstructionStartAt": null,
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": null,
-    "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Capacity": 953,
+    "LastUpdatedAt": "2018-03-10T13:41:49+02:00",
+    "Source": "WNA/IAEA"
   },
   {
     "Id": 44,
@@ -2137,10 +2137,10 @@
     "ReactorType": "PWR",
     "ReactorModel": "CNP-300",
     "ConstructionStartAt": "2011-12-18",
-    "OperationalFrom": null,
+    "OperationalFrom": "2017-09-19",
     "OperationalTo": null,
-    "Capacity": 315,
-    "LastUpdatedAt": "2017-09-25T03:20:49+03:00",
+    "Capacity": 313,
+    "LastUpdatedAt": "2018-03-10T14:53:16+02:00",
     "Source": "IAEA"
   },
   {
@@ -3527,12 +3527,12 @@
     "Country": "Sweden",
     "Status": "Operational",
     "ReactorType": "BWR",
-    "ReactorModel": "ABB-III, BWR-2500",
+    "ReactorModel": "AA-III, BWR-2500",
     "ConstructionStartAt": "1973-06-01",
     "OperationalFrom": "1980-12-10",
     "OperationalTo": null,
     "Capacity": 900,
-    "LastUpdatedAt": "2015-05-24T04:54:07+03:00",
+    "LastUpdatedAt": "2018-03-10T14:52:03+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -3543,12 +3543,12 @@
     "Country": "Sweden",
     "Status": "Operational",
     "ReactorType": "BWR",
-    "ReactorModel": "ABB-III, BWR-2500",
+    "ReactorModel": "AA-III, BWR-2500",
     "ConstructionStartAt": "1975-01-01",
     "OperationalFrom": "1981-07-07",
     "OperationalTo": null,
     "Capacity": 900,
-    "LastUpdatedAt": "2015-05-24T04:54:07+03:00",
+    "LastUpdatedAt": "2018-03-10T14:51:47+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -3559,12 +3559,12 @@
     "Country": "Sweden",
     "Status": "Operational",
     "ReactorType": "BWR",
-    "ReactorModel": "ABB-III, BWR-3000",
+    "ReactorModel": "AA-IV, BWR-3000",
     "ConstructionStartAt": "1979-01-01",
     "OperationalFrom": "1985-08-18",
     "OperationalTo": null,
     "Capacity": 1050,
-    "LastUpdatedAt": "2015-05-24T04:54:07+03:00",
+    "LastUpdatedAt": "2018-03-10T14:51:53+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -3833,10 +3833,10 @@
     "ReactorType": "PWR",
     "ReactorModel": "CNP-1000",
     "ConstructionStartAt": "2012-11-17",
-    "OperationalFrom": null,
+    "OperationalFrom": "2017-09-17",
     "OperationalTo": null,
     "Capacity": 1000,
-    "LastUpdatedAt": "2017-09-25T03:20:40+03:00",
+    "LastUpdatedAt": "2018-03-10T14:52:08+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -4357,14 +4357,14 @@
     "Latitude": 48.513000,
     "Longitude": 10.401000,
     "Country": "Germany",
-    "Status": "Operational",
+    "Status": "Shutdown",
     "ReactorType": "BWR",
     "ReactorModel": "BWR-72",
     "ConstructionStartAt": "1976-07-20",
     "OperationalFrom": "1984-07-19",
-    "OperationalTo": null,
+    "OperationalTo": "2017-12-31",
     "Capacity": 1244,
-    "LastUpdatedAt": "2015-05-24T04:50:46+03:00",
+    "LastUpdatedAt": "2018-03-10T14:51:13+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -6587,8 +6587,8 @@
     "ConstructionStartAt": "1975-11-19",
     "OperationalFrom": "1981-12-28",
     "OperationalTo": null,
-    "Capacity": 951,
-    "LastUpdatedAt": "2015-05-24T04:51:39+03:00",
+    "Capacity": 948,
+    "LastUpdatedAt": "2018-03-10T14:52:04+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -6603,8 +6603,8 @@
     "ConstructionStartAt": "1976-03-15",
     "OperationalFrom": "1983-03-16",
     "OperationalTo": null,
-    "Capacity": 951,
-    "LastUpdatedAt": "2015-05-24T04:51:39+03:00",
+    "Capacity": 948,
+    "LastUpdatedAt": "2018-03-10T14:52:07+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -7413,14 +7413,14 @@
     "Latitude": 35.739000,
     "Longitude": 135.988000,
     "Country": "Japan",
-    "Status": "Suspended Operation",
+    "Status": "Shutdown",
     "ReactorType": "FBR",
     "ReactorModel": null,
     "ConstructionStartAt": "1986-05-10",
     "OperationalFrom": null,
-    "OperationalTo": null,
+    "OperationalTo": "2017-12-05",
     "Capacity": 246,
-    "LastUpdatedAt": "2015-05-24T04:51:28+03:00",
+    "LastUpdatedAt": "2018-03-10T14:51:35+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -8071,12 +8071,12 @@
     "Country": "Finland",
     "Status": "Operational",
     "ReactorType": "BWR",
-    "ReactorModel": "ABB-III, BWR-2500",
+    "ReactorModel": "AA-III, BWR-2500",
     "ConstructionStartAt": "1974-02-01",
     "OperationalFrom": "1979-10-10",
     "OperationalTo": null,
     "Capacity": 660,
-    "LastUpdatedAt": "2015-05-24T04:54:05+03:00",
+    "LastUpdatedAt": "2018-03-10T14:51:29+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -8087,12 +8087,12 @@
     "Country": "Finland",
     "Status": "Operational",
     "ReactorType": "BWR",
-    "ReactorModel": "ABB-III, BWR-2500",
+    "ReactorModel": "AA-III, BWR-2500",
     "ConstructionStartAt": "1975-11-01",
     "OperationalFrom": "1982-07-10",
     "OperationalTo": null,
     "Capacity": 660,
-    "LastUpdatedAt": "2015-05-24T04:54:05+03:00",
+    "LastUpdatedAt": "2018-03-10T14:51:33+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -8183,12 +8183,12 @@
     "Country": "Sweden",
     "Status": "Shutdown",
     "ReactorType": "BWR",
-    "ReactorModel": "ABB-I",
+    "ReactorModel": "AA-I",
     "ConstructionStartAt": "1966-08-01",
     "OperationalFrom": "1972-02-06",
     "OperationalTo": "2017-06-19",
     "Capacity": 440,
-    "LastUpdatedAt": "2017-09-25T03:19:55+03:00",
+    "LastUpdatedAt": "2018-03-10T14:51:55+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -8199,12 +8199,12 @@
     "Country": "Sweden",
     "Status": "Shutdown",
     "ReactorType": "BWR",
-    "ReactorModel": "ABB-II",
+    "ReactorModel": "AA-II",
     "ConstructionStartAt": "1969-09-01",
     "OperationalFrom": "1975-01-01",
     "OperationalTo": "2016-12-22",
     "Capacity": 580,
-    "LastUpdatedAt": "2017-09-25T03:19:59+03:00",
+    "LastUpdatedAt": "2018-03-10T14:51:56+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -8215,12 +8215,12 @@
     "Country": "Sweden",
     "Status": "Operational",
     "ReactorType": "BWR",
-    "ReactorModel": "ABB-III, BWR-3000",
+    "ReactorModel": "AA-IV, BWR-3000",
     "ConstructionStartAt": "1980-05-01",
     "OperationalFrom": "1985-08-15",
     "OperationalTo": null,
     "Capacity": 1050,
-    "LastUpdatedAt": "2015-05-24T04:54:07+03:00",
+    "LastUpdatedAt": "2018-03-10T14:51:50+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -9223,12 +9223,12 @@
     "Country": "Sweden",
     "Status": "Operational",
     "ReactorType": "BWR",
-    "ReactorModel": "ABB-I",
+    "ReactorModel": "AA-I",
     "ConstructionStartAt": "1969-02-01",
     "OperationalFrom": "1976-01-01",
     "OperationalTo": null,
     "Capacity": 760,
-    "LastUpdatedAt": "2015-05-24T04:51:37+03:00",
+    "LastUpdatedAt": "2018-03-10T14:51:57+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -9365,14 +9365,14 @@
     "Latitude": 47.599000,
     "Longitude": 42.373000,
     "Country": "Russian Federation",
-    "Status": "Under Construction",
+    "Status": "Operational",
     "ReactorType": "PWR",
     "ReactorModel": "VVER V-320",
     "ConstructionStartAt": "2010-06-16",
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": 1011,
-    "LastUpdatedAt": "2015-05-24T04:51:36+03:00",
+    "LastUpdatedAt": "2018-03-10T14:51:42+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -10069,15 +10069,15 @@
     "Latitude": 35.327000,
     "Longitude": 129.302000,
     "Country": "Korea, Republic of",
-    "Status": "Planned",
+    "Status": "Under Construction",
     "ReactorType": "PWR",
     "ReactorModel": "APR-1400",
-    "ConstructionStartAt": null,
+    "ConstructionStartAt": "2017-04-01",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": null,
-    "LastUpdatedAt": null,
-    "Source": "WNA/wikipedia"
+    "Capacity": 1340,
+    "LastUpdatedAt": "2018-03-10T14:54:40+02:00",
+    "Source": "WNA/wikipedia/IAEA"
   },
   {
     "Id": 631,
@@ -10581,14 +10581,14 @@
     "Latitude": 34.295833,
     "Longitude": -81.320278,
     "Country": "United States",
-    "Status": "Under Construction",
+    "Status": "Suspended Construction",
     "ReactorType": "PWR",
     "ReactorModel": "AP-1000",
     "ConstructionStartAt": "2013-03-09",
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": 1117,
-    "LastUpdatedAt": "2015-05-24T04:51:57+03:00",
+    "LastUpdatedAt": "2018-03-10T14:56:12+02:00",
     "Source": "IAEA"
   },
   {
@@ -10597,14 +10597,14 @@
     "Latitude": 34.295833,
     "Longitude": -81.320278,
     "Country": "United States",
-    "Status": "Under Construction",
+    "Status": "Suspended Construction",
     "ReactorType": "PWR",
     "ReactorModel": "AP-1000",
     "ConstructionStartAt": "2013-11-02",
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": 1117,
-    "LastUpdatedAt": "2015-05-24T04:51:57+03:00",
+    "LastUpdatedAt": "2018-03-10T14:56:13+02:00",
     "Source": "IAEA"
   },
   {
@@ -11029,14 +11029,14 @@
     "Latitude": 34.686800,
     "Longitude": 119.456000,
     "Country": "People's Republic of China",
-    "Status": "Under Construction",
+    "Status": "Operational",
     "ReactorType": "PWR",
     "ReactorModel": "VVER V-428M",
     "ConstructionStartAt": "2012-12-27",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": 990,
-    "LastUpdatedAt": "2015-05-24T04:51:57+03:00",
+    "Capacity": 1060,
+    "LastUpdatedAt": "2018-03-10T14:52:49+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -11051,8 +11051,8 @@
     "ConstructionStartAt": "2013-09-27",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": 990,
-    "LastUpdatedAt": "2015-05-24T04:51:57+03:00",
+    "Capacity": 1060,
+    "LastUpdatedAt": "2018-03-10T14:53:12+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -11851,8 +11851,8 @@
     "ConstructionStartAt": "1977-10-30",
     "OperationalFrom": "1983-04-22",
     "OperationalTo": null,
-    "Capacity": 670,
-    "LastUpdatedAt": "2015-12-27T17:05:00+02:00",
+    "Capacity": 629,
+    "LastUpdatedAt": "2018-03-10T14:51:40+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -11883,8 +11883,8 @@
     "ConstructionStartAt": "1994-03-17",
     "OperationalFrom": "1998-07-01",
     "OperationalTo": null,
-    "Capacity": 651,
-    "LastUpdatedAt": "2017-02-10T23:56:36+02:00",
+    "Capacity": 665,
+    "LastUpdatedAt": "2018-03-10T14:51:38+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -12496,26 +12496,10 @@
     "Source": "IAEA"
   },
   {
-    "Id": 782,
-    "Name": "K-2",
-    "Latitude": null,
-    "Longitude": null,
-    "Country": "Pakistan",
-    "Status": "Under Construction",
-    "ReactorType": "PWR",
-    "ReactorModel": "ACP-1000",
-    "ConstructionStartAt": "2015-08-20",
-    "OperationalFrom": null,
-    "OperationalTo": null,
-    "Capacity": 1014,
-    "LastUpdatedAt": "2016-07-08T21:13:25+03:00",
-    "Source": "IAEA"
-  },
-  {
     "Id": 783,
     "Name": "Kanupp-2",
-    "Latitude": null,
-    "Longitude": null,
+    "Latitude": 24.845000,
+    "Longitude": 66.790000,
     "Country": "Pakistan",
     "Status": "Under Construction",
     "ReactorType": "PWR",
@@ -12530,8 +12514,8 @@
   {
     "Id": 784,
     "Name": "Fangchenggang-4",
-    "Latitude": null,
-    "Longitude": null,
+    "Latitude": 21.600000,
+    "Longitude": 108.300000,
     "Country": "People's Republic of China",
     "Status": "Under Construction",
     "ReactorType": "PWR",
@@ -12546,8 +12530,8 @@
   {
     "Id": 785,
     "Name": "Kanupp-3",
-    "Latitude": null,
-    "Longitude": null,
+    "Latitude": 24.845000,
+    "Longitude": 66.790000,
     "Country": "Pakistan",
     "Status": "Under Construction",
     "ReactorType": "PWR",
@@ -12557,6 +12541,22 @@
     "OperationalTo": null,
     "Capacity": 1014,
     "LastUpdatedAt": "2017-02-10T23:59:39+02:00",
+    "Source": "IAEA"
+  },
+  {
+    "Id": 786,
+    "Name": "Rooppur-1",
+    "Latitude": 24.065556,
+    "Longitude": 89.047222,
+    "Country": "Bangladesh",
+    "Status": "Under Construction",
+    "ReactorType": "PWR",
+    "ReactorModel": "VVER V-523",
+    "ConstructionStartAt": "2017-11-30",
+    "OperationalFrom": null,
+    "OperationalTo": null,
+    "Capacity": 1080,
+    "LastUpdatedAt": "2018-03-10T20:52:25+02:00",
     "Source": "IAEA"
   }
 ]

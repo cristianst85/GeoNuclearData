@@ -30,5 +30,13 @@
   {
     "Type": "Never Built",
     "Id": 7
+  },
+  {
+    "Type": "Suspended Construction",
+    "Id": 8
+  },
+  {
+    "Type": "Cancelled Construction",
+    "Id": 9
   }
 ]
