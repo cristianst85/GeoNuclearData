@@ -87,13 +87,13 @@
     "Country": "Turkey",
     "Status": "Under Construction",
     "ReactorType": "PWR",
-    "ReactorModel": "VVER-1200",
-    "ConstructionStartAt": "2015-04-15",
+    "ReactorModel": "VVER V-509",
+    "ConstructionStartAt": "2018-04-03",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": null,
-    "LastUpdatedAt": null,
-    "Source": "WNA/wikipedia"
+    "Capacity": 1114,
+    "LastUpdatedAt": "2018-07-01T01:21:08+03:00",
+    "Source": "WNA/wikipedia/IAEA"
   },
   {
     "Id": 7,
@@ -229,14 +229,14 @@
     "Latitude": -23.010000,
     "Longitude": -44.470000,
     "Country": "Brazil",
-    "Status": "Suspended Construction",
+    "Status": "Under Construction",
     "ReactorType": "PWR",
     "ReactorModel": "PRE KONVOI",
     "ConstructionStartAt": "2010-06-01",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": 1245,
-    "LastUpdatedAt": "2018-03-10T14:56:07+02:00",
+    "Capacity": 1340,
+    "LastUpdatedAt": "2018-07-01T01:21:29+03:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -6469,15 +6469,15 @@
     "Latitude": 8.166660,
     "Longitude": 77.708000,
     "Country": "India",
-    "Status": "Planned",
+    "Status": "Under Construction",
     "ReactorType": "PWR",
-    "ReactorModel": null,
-    "ConstructionStartAt": null,
+    "ReactorModel": "VVER V-412",
+    "ConstructionStartAt": "2017-10-23",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": null,
-    "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Capacity": 917,
+    "LastUpdatedAt": "2018-07-01T01:21:38+03:00",
+    "Source": "WNA/IAEA"
   },
   {
     "Id": 406,
@@ -6789,14 +6789,14 @@
     "Latitude": 59.837000,
     "Longitude": 29.039000,
     "Country": "Russian Federation",
-    "Status": "Under Construction",
+    "Status": "Operational",
     "ReactorType": "PWR",
     "ReactorModel": "VVER V-491",
     "ConstructionStartAt": "2008-10-25",
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": 1111,
-    "LastUpdatedAt": "2017-09-25T03:20:30+03:00",
+    "LastUpdatedAt": "2018-07-01T01:21:43+03:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -7815,12 +7815,12 @@
     "Country": "Russian Federation",
     "Status": "Shutdown",
     "ReactorType": "PWR",
-    "ReactorModel": "VVER V-120",
+    "ReactorModel": "VVER V-210",
     "ConstructionStartAt": "1957-07-01",
     "OperationalFrom": "1964-12-31",
     "OperationalTo": "1988-02-16",
     "Capacity": 197,
-    "LastUpdatedAt": "2015-05-24T04:51:35+03:00",
+    "LastUpdatedAt": "2018-07-01T01:21:51+03:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -7831,12 +7831,12 @@
     "Country": "Russian Federation",
     "Status": "Shutdown",
     "ReactorType": "PWR",
-    "ReactorModel": "VVER V-120",
+    "ReactorModel": "VVER V-365",
     "ConstructionStartAt": "1964-06-01",
     "OperationalFrom": "1970-04-14",
     "OperationalTo": "1990-08-29",
     "Capacity": 336,
-    "LastUpdatedAt": "2015-05-24T04:51:36+03:00",
+    "LastUpdatedAt": "2018-07-01T01:21:53+03:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -11033,10 +11033,10 @@
     "ReactorType": "PWR",
     "ReactorModel": "VVER V-428M",
     "ConstructionStartAt": "2012-12-27",
-    "OperationalFrom": null,
+    "OperationalFrom": "2018-02-14",
     "OperationalTo": null,
     "Capacity": 1060,
-    "LastUpdatedAt": "2018-03-10T14:52:49+02:00",
+    "LastUpdatedAt": "2018-07-01T01:21:55+03:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -12149,14 +12149,14 @@
     "Latitude": 21.857500,
     "Longitude": 111.982500,
     "Country": "People's Republic of China",
-    "Status": "Under Construction",
+    "Status": "Operational",
     "ReactorType": "PWR",
     "ReactorModel": "ACPR-1000",
     "ConstructionStartAt": "2013-09-18",
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": 1000,
-    "LastUpdatedAt": "2015-05-24T04:51:56+03:00",
+    "LastUpdatedAt": "2018-07-01T01:22:06+03:00",
     "Source": "IAEA"
   },
   {
@@ -12557,6 +12557,22 @@
     "OperationalTo": null,
     "Capacity": 1080,
     "LastUpdatedAt": "2018-03-10T20:52:25+02:00",
+    "Source": "IAEA"
+  },
+  {
+    "Id": 787,
+    "Name": "Kursk 2-1",
+    "Latitude": 51.674000,
+    "Longitude": 35.607000,
+    "Country": "Russian Federation",
+    "Status": "Under Construction",
+    "ReactorType": "PWR",
+    "ReactorModel": "VVER V-510",
+    "ConstructionStartAt": "2018-04-29",
+    "OperationalFrom": null,
+    "OperationalTo": null,
+    "Capacity": 1175,
+    "LastUpdatedAt": "2018-07-01T01:21:43+03:00",
     "Source": "IAEA"
   }
 ]

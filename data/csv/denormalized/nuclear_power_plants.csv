@@ -4,7 +4,7 @@ Id;Name;Latitude;Longitude;Country;Status;ReactorType;ReactorModel;ConstructionS
 3;Akademik Lomonosov-2 (Vilyuchinsk);59.919000;30.261000;Russian Federation;Under Construction;PWR;KLT-40S 'Floating';2007-04-15;;;32;2015-05-24T04:54:13+03:00;WNA/IAEA
 4;Akhvaz-1;;;Iran;Planned;;;;;;;;WNA
 5;Akhvaz-2;;;Iran;Planned;;;;;;;;WNA
-6;Akkuyu-1;36.144444;33.541111;Turkey;Under Construction;PWR;VVER-1200;2015-04-15;;;;;WNA/wikipedia
+6;Akkuyu-1;36.144444;33.541111;Turkey;Under Construction;PWR;VVER V-509;2018-04-03;;;1114;2018-07-01T01:21:08+03:00;WNA/wikipedia/IAEA
 7;Akkuyu-2;36.144444;33.541111;Turkey;Planned;PWR;;;;;;;wikipedia
 8;Akkuyu-3;36.144444;33.541111;Turkey;Planned;PWR;;;;;;;wikipedia
 9;Akkuyu-4;36.144444;33.541111;Turkey;Planned;PWR;;;;;;;wikipedia
@@ -13,7 +13,7 @@ Id;Name;Latitude;Longitude;Country;Status;ReactorType;ReactorModel;ConstructionS
 12;Almaraz-2;39.807000;-5.698000;Spain;Operational;PWR;WH 3LP;1973-07-03;1984-07-01;;930;2017-02-10T23:56:17+02:00;WNA/IAEA
 13;Angra-1;-23.008000;-44.457000;Brazil;Operational;PWR;WH 2LP;1971-05-01;1985-01-01;;626;2017-02-10T23:55:45+02:00;WNA/IAEA
 14;Angra-2;-23.008000;-44.457000;Brazil;Operational;PWR;PRE KONVOI;1976-01-01;2001-02-01;;1245;2015-05-24T04:50:19+03:00;WNA/IAEA
-15;Angra-3;-23.010000;-44.470000;Brazil;Suspended Construction;PWR;PRE KONVOI;2010-06-01;;;1245;2018-03-10T14:56:07+02:00;WNA/IAEA
+15;Angra-3;-23.010000;-44.470000;Brazil;Under Construction;PWR;PRE KONVOI;2010-06-01;;;1340;2018-07-01T01:21:29+03:00;WNA/IAEA
 16;APS-1 Obninsk;55.084000;36.570000;Russian Federation;Shutdown;LWGR;AM-1;1951-01-01;1954-12-01;2002-04-29;5;2015-05-24T04:51:32+03:00;WNA/IAEA
 17;Arkansas Nuclear One-1 (ANO-1);35.310000;-93.230000;United States;Operational;PWR;B&W LLP (DRYAMB);1968-10-01;1974-12-19;;850;2017-02-10T23:58:30+02:00;WNA/IAEA
 18;Arkansas Nuclear One-2 (ANO-2);35.310000;-93.229000;United States;Operational;PWR;CE 2LP (DRYAMB);1968-12-06;1980-03-26;;912;2017-02-10T23:58:53+02:00;WNA/IAEA
@@ -403,7 +403,7 @@ Id;Name;Latitude;Longitude;Country;Status;ReactorType;ReactorModel;ConstructionS
 402;Kudankulam-1;8.167000;77.713000;India;Operational;PWR;VVER V-412;2002-03-31;2014-12-31;;917;2015-05-24T04:51:50+03:00;WNA/IAEA
 403;Kudankulam-2;8.167000;77.713000;India;Operational;PWR;VVER V-412;2002-07-04;2017-03-31;;917;2017-09-25T03:20:10+03:00;WNA/IAEA
 404;Kudankulam-3;8.167050;77.708000;India;Under Construction;PWR;VVER V-412;2017-06-29;;;917;2017-09-25T03:20:58+03:00;WNA/IAEA
-405;Kudankulam-4;8.166660;77.708000;India;Planned;PWR;;;;;;;WNA
+405;Kudankulam-4;8.166660;77.708000;India;Under Construction;PWR;VVER V-412;2017-10-23;;;917;2018-07-01T01:21:38+03:00;WNA/IAEA
 406;Kudankulam-5;8.166270;77.708000;India;Planned;PWR;;;;;;;WNA
 407;Kudankulam-6;8.165880;77.708000;India;Planned;PWR;;;;;;;WNA
 408;Kumharia-1;;;India;Planned;PHWR;;;;;;;WNA
@@ -423,7 +423,7 @@ Id;Name;Latitude;Longitude;Country;Status;ReactorType;ReactorModel;ConstructionS
 422;LaSalle-2;41.246000;-88.672000;United States;Operational;BWR;BWR-5 (Mark 2);1973-09-10;1984-10-19;;1078;2015-05-24T04:51:48+03:00;WNA/IAEA
 423;Latina;41.427000;12.808000;Italy;Shutdown;GCR;MAGNOX;1958-11-01;1964-01-01;1987-12-01;200;2015-05-24T04:51:26+03:00;WNA/IAEA
 424;Leibstadt;47.601000;8.183000;Switzerland;Operational;BWR;BWR-6;1974-01-01;1984-12-15;;960;2015-05-24T04:50:39+03:00;WNA/IAEA
-425;Leningrad 2-1;59.837000;29.039000;Russian Federation;Under Construction;PWR;VVER V-491;2008-10-25;;;1111;2017-09-25T03:20:30+03:00;WNA/IAEA
+425;Leningrad 2-1;59.837000;29.039000;Russian Federation;Operational;PWR;VVER V-491;2008-10-25;;;1111;2018-07-01T01:21:43+03:00;WNA/IAEA
 426;Leningrad 2-2;59.837000;29.039000;Russian Federation;Under Construction;PWR;VVER V-491;2010-04-15;;;1111;2017-09-25T03:20:34+03:00;WNA/IAEA
 427;Leningrad 2-3;59.837000;29.039000;Russian Federation;Planned;PWR;VVER V-491;;;;1085;;wikipedia
 428;Leningrad 2-4;59.837000;29.039000;Russian Federation;Planned;PWR;VVER V-491;;;;1085;;wikipedia
@@ -487,8 +487,8 @@ Id;Name;Latitude;Longitude;Country;Status;ReactorType;ReactorModel;ConstructionS
 486;North Anna-2;38.061000;-77.792000;United States;Operational;PWR;WH 3LP (DRYSUB);1971-02-19;1980-12-14;;907;2017-02-10T23:58:50+02:00;WNA/IAEA
 487;Novovoronezh 2-1;51.273000;39.197000;Russian Federation;Operational;PWR;VVER V-392M;2008-06-24;2017-02-27;;1114;2017-09-25T03:20:23+03:00;WNA/IAEA
 488;Novovoronezh 2-2;51.273000;39.197000;Russian Federation;Under Construction;PWR;VVER V-392M;2009-07-12;;;1114;2015-05-24T04:51:55+03:00;WNA/IAEA
-489;Novovoronezh-1;51.275000;39.206000;Russian Federation;Shutdown;PWR;VVER V-120;1957-07-01;1964-12-31;1988-02-16;197;2015-05-24T04:51:35+03:00;WNA/IAEA
-490;Novovoronezh-2;51.275000;39.206000;Russian Federation;Shutdown;PWR;VVER V-120;1964-06-01;1970-04-14;1990-08-29;336;2015-05-24T04:51:36+03:00;WNA/IAEA
+489;Novovoronezh-1;51.275000;39.206000;Russian Federation;Shutdown;PWR;VVER V-210;1957-07-01;1964-12-31;1988-02-16;197;2018-07-01T01:21:51+03:00;WNA/IAEA
+490;Novovoronezh-2;51.275000;39.206000;Russian Federation;Shutdown;PWR;VVER V-365;1964-06-01;1970-04-14;1990-08-29;336;2018-07-01T01:21:53+03:00;WNA/IAEA
 491;Novovoronezh-3;51.275000;39.206000;Russian Federation;Shutdown;PWR;VVER V-179;1967-07-01;1972-06-29;2016-12-25;385;2017-02-10T23:57:16+02:00;WNA/IAEA
 492;Novovoronezh-4;51.275000;39.206000;Russian Federation;Operational;PWR;VVER V-179;1967-07-01;1973-03-24;;385;2015-05-24T04:51:32+03:00;WNA/IAEA
 493;Novovoronezh-5;52.381000;39.211000;Russian Federation;Operational;PWR;VVER V-187;1974-03-01;1981-02-20;;950;2015-05-24T04:51:34+03:00;WNA/IAEA
@@ -688,7 +688,7 @@ Id;Name;Latitude;Longitude;Country;Status;ReactorType;ReactorModel;ConstructionS
 687;THTR-300;51.680000;7.972000;Germany;Shutdown;HTGR;Pebble bed reactor;1971-05-03;1987-06-01;1988-09-29;296;2015-05-24T04:54:05+03:00;WNA/IAEA
 688;Tianwan-1;34.690000;119.456000;People's Republic of China;Operational;PWR;VVER V-428;1999-10-20;2007-05-17;;990;2015-05-24T04:51:50+03:00;WNA/IAEA
 689;Tianwan-2;34.690000;119.456000;People's Republic of China;Operational;PWR;VVER V-428;2000-09-20;2007-08-16;;990;2015-05-24T04:51:50+03:00;WNA/IAEA
-690;Tianwan-3;34.686800;119.456000;People's Republic of China;Operational;PWR;VVER V-428M;2012-12-27;;;1060;2018-03-10T14:52:49+02:00;WNA/IAEA
+690;Tianwan-3;34.686800;119.456000;People's Republic of China;Operational;PWR;VVER V-428M;2012-12-27;2018-02-14;;1060;2018-07-01T01:21:55+03:00;WNA/IAEA
 691;Tianwan-4;34.685800;119.456000;People's Republic of China;Under Construction;PWR;VVER V-428M;2013-09-27;;;1060;2018-03-10T14:53:12+02:00;WNA/IAEA
 692;Tianwan-5;34.683800;119.456000;People's Republic of China;Under Construction;PWR;CNP-1000;2015-12-27;;;1000;2016-03-09T18:44:20+02:00;WNA/wikipedia/IAEA
 693;Tianwan-6;34.682800;119.456000;People's Republic of China;Under Construction;PWR;CNP-1000;2016-09-07;;;1000;2017-09-25T03:20:53+03:00;WNA/wikipedia/IAEA
@@ -758,7 +758,7 @@ Id;Name;Latitude;Longitude;Country;Status;ReactorType;ReactorModel;ConstructionS
 757;Yangjiang-2;21.706000;112.256000;People's Republic of China;Operational;PWR;CPR-1000;2009-06-04;2015-06-05;;1000;2015-08-23T03:28:27+03:00;WNA/IAEA
 758;Yangjiang-3;21.706000;112.256000;People's Republic of China;Operational;PWR;CPR-1000;2010-11-15;2016-01-01;;1000;2016-03-09T18:43:57+02:00;WNA/IAEA
 759;Yangjiang-4;21.857500;111.982500;People's Republic of China;Operational;PWR;CPR-1000;2012-11-17;2017-03-15;;1000;2017-09-25T03:20:38+03:00;WNA/IAEA
-760;Yangjiang-5;21.857500;111.982500;People's Republic of China;Under Construction;PWR;ACPR-1000;2013-09-18;;;1000;2015-05-24T04:51:56+03:00;IAEA
+760;Yangjiang-5;21.857500;111.982500;People's Republic of China;Operational;PWR;ACPR-1000;2013-09-18;;;1000;2018-07-01T01:22:06+03:00;IAEA
 761;Yangjiang-6;21.857500;111.982500;People's Republic of China;Under Construction;PWR;ACPR-1000;2013-12-23;;;1000;2015-05-24T04:51:57+03:00;IAEA
 762;Yanjiashan-1;;;People's Republic of China;Planned;PWR;;;;;;;WNA
 763;Yanjiashan-2;;;People's Republic of China;Planned;PWR;;;;;;;WNA
@@ -784,3 +784,4 @@ Id;Name;Latitude;Longitude;Country;Status;ReactorType;ReactorModel;ConstructionS
 784;Fangchenggang-4;21.600000;108.300000;People's Republic of China;Under Construction;PWR;HPR1000;2016-12-23;;;1000;2017-02-10T23:59:38+02:00;IAEA
 785;Kanupp-3;24.845000;66.790000;Pakistan;Under Construction;PWR;ACP-1000;2016-05-31;;;1014;2017-02-10T23:59:39+02:00;IAEA
 786;Rooppur-1;24.065556;89.047222;Bangladesh;Under Construction;PWR;VVER V-523;2017-11-30;;;1080;2018-03-10T20:52:25+02:00;IAEA
+787;Kursk 2-1;51.674000;35.607000;Russian Federation;Under Construction;PWR;VVER V-510;2018-04-29;;;1175;2018-07-01T01:21:43+03:00;IAEA
