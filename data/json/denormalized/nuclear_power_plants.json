@@ -2213,14 +2213,14 @@
     "Latitude": 25.292000,
     "Longitude": 121.567000,
     "Country": "Taiwan, Province of China",
-    "Status": "Operational",
+    "Status": "Shutdown",
     "ReactorType": "BWR",
     "ReactorModel": "BWR-4 (Mark 1)",
     "ConstructionStartAt": "1972-06-02",
     "OperationalFrom": "1978-12-10",
-    "OperationalTo": null,
+    "OperationalTo": "2018-10-03",
     "Capacity": 604,
-    "LastUpdatedAt": "2017-02-10T23:57:25+02:00",
+    "LastUpdatedAt": "2018-10-13T22:30:12+03:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -2229,14 +2229,14 @@
     "Latitude": 25.292000,
     "Longitude": 121.567000,
     "Country": "Taiwan, Province of China",
-    "Status": "Operational",
+    "Status": "Shutdown",
     "ReactorType": "BWR",
     "ReactorModel": "BWR-4 (Mark 1)",
     "ConstructionStartAt": "1973-12-07",
     "OperationalFrom": "1979-07-15",
-    "OperationalTo": null,
+    "OperationalTo": "2018-10-03",
     "Capacity": 604,
-    "LastUpdatedAt": "2017-02-10T23:57:27+02:00",
+    "LastUpdatedAt": "2018-10-13T22:30:19+03:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -4421,14 +4421,14 @@
     "Latitude": 36.704000,
     "Longitude": 121.382000,
     "Country": "People's Republic of China",
-    "Status": "Under Construction",
+    "Status": "Operational",
     "ReactorType": "PWR",
     "ReactorModel": "AP-1000",
     "ConstructionStartAt": "2009-09-24",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": 1000,
-    "LastUpdatedAt": "2015-05-24T04:51:56+03:00",
+    "Capacity": 1126,
+    "LastUpdatedAt": "2018-10-13T22:30:21+03:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -4443,8 +4443,8 @@
     "ConstructionStartAt": "2010-06-20",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": 1000,
-    "LastUpdatedAt": "2015-05-24T04:51:56+03:00",
+    "Capacity": 1126,
+    "LastUpdatedAt": "2018-10-13T22:30:25+03:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -8229,14 +8229,14 @@
     "Latitude": 39.815000,
     "Longitude": -74.208000,
     "Country": "United States",
-    "Status": "Operational",
+    "Status": "Shutdown",
     "ReactorType": "BWR",
     "ReactorModel": "BWR-2 (Mark 1)",
     "ConstructionStartAt": "1964-12-15",
     "OperationalFrom": "1969-12-01",
-    "OperationalTo": null,
+    "OperationalTo": "2018-09-17",
     "Capacity": 650,
-    "LastUpdatedAt": "2015-05-24T04:51:41+03:00",
+    "LastUpdatedAt": "2018-10-13T22:30:27+03:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -9369,10 +9369,10 @@
     "ReactorType": "PWR",
     "ReactorModel": "VVER V-320",
     "ConstructionStartAt": "2010-06-16",
-    "OperationalFrom": null,
+    "OperationalFrom": "2018-09-28",
     "OperationalTo": null,
     "Capacity": 1011,
-    "LastUpdatedAt": "2018-03-10T14:51:42+02:00",
+    "LastUpdatedAt": "2018-10-13T22:30:35+03:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -9525,14 +9525,14 @@
     "Latitude": 29.101000,
     "Longitude": 121.642000,
     "Country": "People's Republic of China",
-    "Status": "Under Construction",
+    "Status": "Operational",
     "ReactorType": "PWR",
     "ReactorModel": "AP-1000",
     "ConstructionStartAt": "2009-04-19",
-    "OperationalFrom": null,
+    "OperationalFrom": "2018-09-21",
     "OperationalTo": null,
     "Capacity": 1157,
-    "LastUpdatedAt": "2017-09-25T03:20:16+03:00",
+    "LastUpdatedAt": "2018-10-13T22:30:42+03:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -9541,14 +9541,14 @@
     "Latitude": 29.101000,
     "Longitude": 121.642000,
     "Country": "People's Republic of China",
-    "Status": "Under Construction",
+    "Status": "Operational",
     "ReactorType": "PWR",
     "ReactorModel": "AP-1000",
     "ConstructionStartAt": "2009-12-15",
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": 1157,
-    "LastUpdatedAt": "2017-09-25T03:20:19+03:00",
+    "LastUpdatedAt": "2018-10-13T22:30:46+03:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -10085,15 +10085,15 @@
     "Latitude": 35.327000,
     "Longitude": 129.302000,
     "Country": "Korea, Republic of",
-    "Status": "Planned",
+    "Status": "Under Construction",
     "ReactorType": "PWR",
     "ReactorModel": "APR-1400",
-    "ConstructionStartAt": null,
+    "ConstructionStartAt": "2018-09-20",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": null,
-    "LastUpdatedAt": null,
-    "Source": "WNA/wikipedia"
+    "Capacity": 1340,
+    "LastUpdatedAt": "2018-10-13T22:30:47+03:00",
+    "Source": "WNA/wikipedia/IAEA"
   },
   {
     "Id": 632,
@@ -10693,14 +10693,14 @@
     "Latitude": 21.949000,
     "Longitude": 112.956000,
     "Country": "People's Republic of China",
-    "Status": "Under Construction",
+    "Status": "Operational",
     "ReactorType": "PWR",
     "ReactorModel": "EPR-1750",
     "ConstructionStartAt": "2009-11-18",
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": 1660,
-    "LastUpdatedAt": "2015-05-24T04:51:56+03:00",
+    "LastUpdatedAt": "2018-10-13T22:30:49+03:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -12153,10 +12153,10 @@
     "ReactorType": "PWR",
     "ReactorModel": "ACPR-1000",
     "ConstructionStartAt": "2013-09-18",
-    "OperationalFrom": null,
+    "OperationalFrom": "2018-07-12",
     "OperationalTo": null,
     "Capacity": 1000,
-    "LastUpdatedAt": "2018-07-01T01:22:06+03:00",
+    "LastUpdatedAt": "2018-10-13T22:30:51+03:00",
     "Source": "IAEA"
   },
   {
@@ -12546,7 +12546,7 @@
   {
     "Id": 786,
     "Name": "Rooppur-1",
-    "Latitude": 24.065556,
+    "Latitude": 24.066667,
     "Longitude": 89.047222,
     "Country": "Bangladesh",
     "Status": "Under Construction",
@@ -12573,6 +12573,22 @@
     "OperationalTo": null,
     "Capacity": 1175,
     "LastUpdatedAt": "2018-07-01T01:21:43+03:00",
+    "Source": "IAEA"
+  },
+  {
+    "Id": 788,
+    "Name": "Rooppur-2",
+    "Latitude": 24.066667,
+    "Longitude": 89.047222,
+    "Country": "Bangladesh",
+    "Status": "Under Construction",
+    "ReactorType": "PWR",
+    "ReactorModel": "VVER V-523",
+    "ConstructionStartAt": "2018-07-14",
+    "OperationalFrom": null,
+    "OperationalTo": null,
+    "Capacity": 1080,
+    "LastUpdatedAt": "2018-10-13T22:30:35+03:00",
     "Source": "IAEA"
   }
 ]
