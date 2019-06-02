@@ -27,7 +27,7 @@ CREATE TABLE `nuclear_power_plants` (
   CONSTRAINT `fk_nuclear_power_plants_countries_code` FOREIGN KEY (`country_code`) REFERENCES `countries` (`code`),
   CONSTRAINT `fk_nuclear_power_plants_nuclear_reactor_type_id` FOREIGN KEY (`reactor_type_id`) REFERENCES `nuclear_reactor_type` (`id`),
   CONSTRAINT `fk_nuclear_power_plants_status_type_id` FOREIGN KEY (`status_id`) REFERENCES `nuclear_power_plant_status_type` (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=789 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci COMMENT='v0.13.0 2018/10/13\r\n- updated with data from PRIS database (update 2018/10/12);\r\n\r\nv0.12.0 2018/07/01\r\n- updated with data from PRIS database (update 2018/06/30);\r\n\r\nv0.11.0 2018/03/10\r\n- updated with data from PRIS database (update 2018/03/09);\r\n- updated coordinates;\r\n- removed duplicate entry.\r\n\r\nv0.10.0 2017/09/25\r\n- updated with data from PRIS database (update 2017/09/22);\r\n\r\nv0.9.0 2017/02/11\r\n- updated with data from PRIS database (update 2017/02/10);\r\n\r\nv0.8.0 2016/10/03\r\n- updated with data from PRIS database (update 2016/10/02);\r\n\r\nv0.7.0 2016/07/08\r\n- updated with data from PRIS database (update 2016/06/25);\r\n\r\nv0.6.0 2016/03/09\r\n- updated with data from PRIS database (update 2016/03/09);\r\n\r\nv0.5.0 2015/12/27\r\n- updated with data from PRIS database (update 2015/12/23);\r\n\r\nv0.4.0 2015/08/23\r\n- updated with data from PRIS database (update 2015/08/20);\r\n- corrected coordinates for Hongyanhe.\r\n\r\nv0.3.3 2015/05/24\r\n- minor reactor model updates.\r\n- added FKs.\r\n\r\nv0.3.2 2015/05/24\r\n- reordered/reindexed by name.\r\n\r\nv0.3.1 2015/05/24\r\n- updated missing coordinates from wikipedia.\r\n\r\nv0.3 2015/05/24\r\n- updated with data from PRIS database (update 2015/05/15).\r\n\r\nv0.2 2015/05/10\r\n- normalized.\r\n\r\nv0.1 2015/05/09\r\n- initial version.';
+) ENGINE=InnoDB AUTO_INCREMENT=790 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci COMMENT='v0.14.0 2019/06/02\r\n - updated with data from PRIS database (update 2019/06/02);\r\n - updated coordinates;\r\n\r\nv0.13.0 2018/10/13\r\n- updated with data from PRIS database (update 2018/10/12);\r\n\r\nv0.12.0 2018/07/01\r\n- updated with data from PRIS database (update 2018/06/30);\r\n\r\nv0.11.0 2018/03/10\r\n- updated with data from PRIS database (update 2018/03/09);\r\n- updated coordinates;\r\n- removed duplicate entry.\r\n\r\nv0.10.0 2017/09/25\r\n- updated with data from PRIS database (update 2017/09/22);\r\n\r\nv0.9.0 2017/02/11\r\n- updated with data from PRIS database (update 2017/02/10);\r\n\r\nv0.8.0 2016/10/03\r\n- updated with data from PRIS database (update 2016/10/02);\r\n\r\nv0.7.0 2016/07/08\r\n- updated with data from PRIS database (update 2016/06/25);\r\n\r\nv0.6.0 2016/03/09\r\n- updated with data from PRIS database (update 2016/03/09);\r\n\r\nv0.5.0 2015/12/27\r\n- updated with data from PRIS database (update 2015/12/23);\r\n\r\nv0.4.0 2015/08/23\r\n- updated with data from PRIS database (update 2015/08/20);\r\n- corrected coordinates for Hongyanhe.\r\n\r\nv0.3.3 2015/05/24\r\n- minor reactor model updates.\r\n- added FKs.\r\n\r\nv0.3.2 2015/05/24\r\n- reordered/reindexed by name.\r\n\r\nv0.3.1 2015/05/24\r\n- updated missing coordinates from wikipedia.\r\n\r\nv0.3 2015/05/24\r\n- updated with data from PRIS database (update 2015/05/15).\r\n\r\nv0.2 2015/05/10\r\n- normalized.\r\n\r\nv0.1 2015/05/09\r\n- initial version.';
 
 -- ----------------------------
 -- Records of nuclear_power_plants
@@ -43,7 +43,7 @@ INSERT INTO `nuclear_power_plants` VALUES ('8', 'Akkuyu-3', '36.144444', '33.541
 INSERT INTO `nuclear_power_plants` VALUES ('9', 'Akkuyu-4', '36.144444', '33.541111', 'TR', '1', '21', null, null, null, null, null, 'wikipedia', null);
 INSERT INTO `nuclear_power_plants` VALUES ('10', 'Aktau (Shevchenko)', '43.607000', '51.283000', 'KZ', '5', '7', 'BN-350', '1964-10-01', '1973-07-16', '1999-04-22', '135', 'WNA/IAEA', '2015-05-24 04:51:31');
 INSERT INTO `nuclear_power_plants` VALUES ('11', 'Almaraz-1', '39.807000', '-5.698000', 'ES', '3', '21', 'WH 3LP', '1973-07-03', '1983-09-01', null, '900', 'WNA/IAEA', '2017-02-10 23:56:15');
-INSERT INTO `nuclear_power_plants` VALUES ('12', 'Almaraz-2', '39.807000', '-5.698000', 'ES', '3', '21', 'WH 3LP', '1973-07-03', '1984-07-01', null, '930', 'WNA/IAEA', '2017-02-10 23:56:17');
+INSERT INTO `nuclear_power_plants` VALUES ('12', 'Almaraz-2', '39.807000', '-5.698000', 'ES', '3', '21', 'WH 3LP', '1973-07-03', '1984-07-01', null, '900', 'WNA/IAEA', '2019-06-02 20:17:55');
 INSERT INTO `nuclear_power_plants` VALUES ('13', 'Angra-1', '-23.008000', '-44.457000', 'BR', '3', '21', 'WH 2LP', '1971-05-01', '1985-01-01', null, '626', 'WNA/IAEA', '2017-02-10 23:55:45');
 INSERT INTO `nuclear_power_plants` VALUES ('14', 'Angra-2', '-23.008000', '-44.457000', 'BR', '3', '21', 'PRE KONVOI', '1976-01-01', '2001-02-01', null, '1245', 'WNA/IAEA', '2015-05-24 04:50:19');
 INSERT INTO `nuclear_power_plants` VALUES ('15', 'Angra-3', '-23.010000', '-44.470000', 'BR', '2', '21', 'PRE KONVOI', '2010-06-01', null, null, '1340', 'WNA/IAEA', '2018-07-01 01:21:29');
@@ -89,7 +89,7 @@ INSERT INTO `nuclear_power_plants` VALUES ('54', 'Beznau-2', '47.552000', '8.229
 INSERT INTO `nuclear_power_plants` VALUES ('55', 'Biblis-A', '49.709000', '8.415000', 'DE', '5', '21', 'PWR', '1970-01-01', '1975-02-26', '2011-08-06', '1146', 'WNA/IAEA', '2015-05-24 04:50:42');
 INSERT INTO `nuclear_power_plants` VALUES ('56', 'Biblis-B', '49.709000', '8.415000', 'DE', '5', '21', 'PWR', '1972-02-01', '1977-01-31', '2011-08-06', '1178', 'WNA/IAEA', '2015-05-24 04:50:42');
 INSERT INTO `nuclear_power_plants` VALUES ('57', 'Big Rock Point', '45.359000', '-85.195000', 'US', '5', '5', null, '1960-05-01', '1963-03-29', '1997-08-29', '72', 'WNA/IAEA', '2015-05-24 04:51:41');
-INSERT INTO `nuclear_power_plants` VALUES ('58', 'Bilibino-1', '68.059000', '166.492000', 'RU', '3', '17', 'EGP-6', '1970-01-01', '1974-04-01', null, '11', 'WNA/IAEA', '2015-05-24 04:51:32');
+INSERT INTO `nuclear_power_plants` VALUES ('58', 'Bilibino-1', '68.059000', '166.492000', 'RU', '5', '17', 'EGP-6', '1970-01-01', '1974-04-01', '2019-01-14', '11', 'WNA/IAEA', '2019-06-02 20:18:07');
 INSERT INTO `nuclear_power_plants` VALUES ('59', 'Bilibino-2', '68.059000', '166.492000', 'RU', '3', '17', 'EGP-6', '1970-01-01', '1975-02-01', null, '11', 'WNA/IAEA', '2015-05-24 04:51:32');
 INSERT INTO `nuclear_power_plants` VALUES ('60', 'Bilibino-3', '68.059000', '166.492000', 'RU', '3', '17', 'EGP-6', '1970-01-01', '1976-02-01', null, '11', 'WNA/IAEA', '2015-05-24 04:51:32');
 INSERT INTO `nuclear_power_plants` VALUES ('61', 'Bilibino-4', '68.059000', '166.492000', 'RU', '3', '17', 'EGP-6', '1970-01-01', '1977-01-01', null, '11', 'WNA/IAEA', '2015-05-24 04:51:33');
@@ -154,7 +154,7 @@ INSERT INTO `nuclear_power_plants` VALUES ('119', 'Cattenom-3', '49.416000', '6.
 INSERT INTO `nuclear_power_plants` VALUES ('120', 'Cattenom-4', '49.416000', '6.217000', 'FR', '3', '21', 'P4 REP 1300', '1983-09-28', '1992-01-01', null, '1300', 'WNA/IAEA', '2015-05-24 04:51:06');
 INSERT INTO `nuclear_power_plants` VALUES ('121', 'CEFR (Chinese Experimental Fast Reactor)', '39.739000', '116.030000', 'CN', '3', '7', 'BN-20', '2000-05-10', null, null, '20', 'WNA/IAEA', '2015-05-24 04:51:58');
 INSERT INTO `nuclear_power_plants` VALUES ('122', 'Cernavoda-1', '44.322000', '28.061000', 'RO', '3', '20', 'CANDU 6', '1982-07-01', '1996-12-02', null, '650', 'WNA/IAEA', '2015-05-24 04:51:31');
-INSERT INTO `nuclear_power_plants` VALUES ('123', 'Cernavoda-2', '44.322000', '28.061000', 'RO', '3', '20', 'CANDU 6', '1983-07-01', '2007-10-31', null, '650', 'WNA/IAEA', '2015-05-24 04:51:31');
+INSERT INTO `nuclear_power_plants` VALUES ('123', 'Cernavoda-2', '44.322000', '28.061000', 'RO', '3', '20', 'CANDU 6', '1983-07-01', '2007-11-01', null, '650', 'WNA/IAEA', '2019-06-02 20:18:16');
 INSERT INTO `nuclear_power_plants` VALUES ('124', 'Cernavoda-3', '44.324300', '28.057800', 'RO', '1', '20', null, null, null, null, null, 'WNA', null);
 INSERT INTO `nuclear_power_plants` VALUES ('125', 'Changjiang-1', '19.446000', '108.799000', 'CN', '3', '21', 'CNP-600', '2010-04-25', '2015-12-25', null, '601', 'WNA/IAEA', '2017-09-25 03:20:42');
 INSERT INTO `nuclear_power_plants` VALUES ('126', 'Changjiang-2', '19.446000', '108.799000', 'CN', '3', '21', 'CNP-600', '2010-11-21', '2016-08-12', null, '601', 'WNA/IAEA', '2017-09-25 03:20:43');
@@ -170,8 +170,8 @@ INSERT INTO `nuclear_power_plants` VALUES ('135', 'Chernobyl-1', '51.389000', '3
 INSERT INTO `nuclear_power_plants` VALUES ('136', 'Chernobyl-2', '51.389000', '30.103000', 'UA', '5', '17', 'RBMK', '1973-02-01', '1979-05-28', '1991-10-11', '925', 'WNA/IAEA', '2015-05-24 04:51:39');
 INSERT INTO `nuclear_power_plants` VALUES ('137', 'Chernobyl-3', '51.389000', '30.103000', 'UA', '5', '17', 'RBMK', '1976-03-01', '1982-06-08', '2000-12-15', '925', 'WNA/IAEA', '2015-05-24 04:51:40');
 INSERT INTO `nuclear_power_plants` VALUES ('138', 'Chernobyl-4', '51.389000', '30.103000', 'UA', '5', '17', 'RBMK', '1979-04-01', '1984-03-26', '1986-04-26', '925', 'WNA/IAEA', '2015-05-24 04:51:40');
-INSERT INTO `nuclear_power_plants` VALUES ('139', 'Chin Shan-1', '25.292000', '121.567000', 'TW', '5', '5', 'BWR-4 (Mark 1)', '1972-06-02', '1978-12-10', '2018-10-03', '604', 'WNA/IAEA', '2018-10-13 22:30:12');
-INSERT INTO `nuclear_power_plants` VALUES ('140', 'Chin Shan-2', '25.292000', '121.567000', 'TW', '5', '5', 'BWR-4 (Mark 1)', '1973-12-07', '1979-07-15', '2018-10-03', '604', 'WNA/IAEA', '2018-10-13 22:30:19');
+INSERT INTO `nuclear_power_plants` VALUES ('139', 'Chin Shan-1', '25.292000', '121.567000', 'TW', '5', '5', 'BWR-4 (Mark 1)', '1972-06-02', '1978-12-10', '2018-12-06', '604', 'WNA/IAEA', '2019-06-02 20:18:27');
+INSERT INTO `nuclear_power_plants` VALUES ('140', 'Chin Shan-2', '25.292000', '121.567000', 'TW', '3', '5', 'BWR-4 (Mark 1)', '1973-12-07', '1979-07-15', null, '604', 'WNA/IAEA', '2019-06-02 20:18:31');
 INSERT INTO `nuclear_power_plants` VALUES ('141', 'Chinon-A1', '47.232000', '0.167000', 'FR', '5', '8', 'UNGG', '1957-02-01', '1964-02-01', '1973-04-16', '68', 'WNA/IAEA', '2015-05-24 04:50:52');
 INSERT INTO `nuclear_power_plants` VALUES ('142', 'Chinon-A2', '47.232000', '0.167000', 'FR', '5', '8', 'UNGG', '1959-08-01', '1965-02-24', '1985-06-14', '170', 'WNA/IAEA', '2015-05-24 04:50:53');
 INSERT INTO `nuclear_power_plants` VALUES ('143', 'Chinon-A3', '47.232000', '0.167000', 'FR', '5', '8', 'UNGG', '1961-03-01', '1966-08-04', '1990-06-15', '480', 'WNA/IAEA', '2015-05-24 04:50:58');
@@ -308,8 +308,8 @@ INSERT INTO `nuclear_power_plants` VALUES ('273', 'Gundremmingen-B', '48.513000'
 INSERT INTO `nuclear_power_plants` VALUES ('274', 'Gundremmingen-C', '48.513000', '10.401000', 'DE', '3', '5', 'BWR-72', '1976-07-20', '1985-01-18', null, '1249', 'WNA/IAEA', '2015-05-24 04:50:46');
 INSERT INTO `nuclear_power_plants` VALUES ('275', 'H. B. Robinson-2', '34.402000', '-80.158000', 'US', '3', '21', 'WH 3LP (DRYAMB)', '1967-04-13', '1971-03-07', null, '700', 'WNA/IAEA', '2017-02-10 23:58:01');
 INSERT INTO `nuclear_power_plants` VALUES ('276', 'Haddam Neck', '41.483000', '-72.500000', 'US', '5', '21', null, '1964-05-01', '1968-01-01', '1996-12-05', '582', 'WNA/IAEA', '2015-05-24 04:51:41');
-INSERT INTO `nuclear_power_plants` VALUES ('277', 'Haiyang-1', '36.704000', '121.382000', 'CN', '3', '21', 'AP-1000', '2009-09-24', null, null, '1126', 'WNA/IAEA', '2018-10-13 22:30:21');
-INSERT INTO `nuclear_power_plants` VALUES ('278', 'Haiyang-2', '36.704000', '121.382000', 'CN', '2', '21', 'AP-1000', '2010-06-20', null, null, '1126', 'WNA/IAEA', '2018-10-13 22:30:25');
+INSERT INTO `nuclear_power_plants` VALUES ('277', 'Haiyang-1', '36.704000', '121.382000', 'CN', '3', '21', 'AP-1000', '2009-09-24', '2018-10-22', null, '1126', 'WNA/IAEA', '2019-06-02 20:18:34');
+INSERT INTO `nuclear_power_plants` VALUES ('278', 'Haiyang-2', '36.704000', '121.382000', 'CN', '3', '21', 'AP-1000', '2010-06-20', '2019-01-09', null, '1126', 'WNA/IAEA', '2019-06-02 20:18:37');
 INSERT INTO `nuclear_power_plants` VALUES ('279', 'Haiyang-3', '36.704000', '121.382000', 'CN', '1', '21', 'AP-1000', null, null, null, null, 'WNA/IAEA', null);
 INSERT INTO `nuclear_power_plants` VALUES ('280', 'Haiyang-4', '36.704000', '121.382000', 'CN', '1', '21', 'AP-1000', null, null, null, null, 'WNA/IAEA', null);
 INSERT INTO `nuclear_power_plants` VALUES ('281', 'Hallam', '40.559000', '-96.785000', 'US', '5', '19', 'LMGMR (SGR-Sodium cooled graphite moderated reactor)', '1959-01-01', '1963-11-01', '1964-09-01', '75', 'WNA/IAEA', '2015-08-23 03:28:28');
@@ -347,14 +347,14 @@ INSERT INTO `nuclear_power_plants` VALUES ('312', 'Hinkley Point-A1', '51.209000
 INSERT INTO `nuclear_power_plants` VALUES ('313', 'Hinkley Point-A2', '51.209000', '-3.131000', 'GB', '5', '8', 'MAGNOX', '1957-11-01', '1965-05-05', '2000-05-23', '250', 'WNA/IAEA', '2015-05-24 04:51:19');
 INSERT INTO `nuclear_power_plants` VALUES ('314', 'Hinkley Point-B1', '51.209000', '-3.131000', 'GB', '3', '8', 'AGR', '1967-09-01', '1978-10-02', null, '625', 'WNA/IAEA', '2015-05-24 04:51:14');
 INSERT INTO `nuclear_power_plants` VALUES ('315', 'Hinkley Point-B2', '51.209000', '-3.131000', 'GB', '3', '8', 'AGR', '1967-09-01', '1976-09-27', null, '625', 'WNA/IAEA', '2015-05-24 04:51:15');
-INSERT INTO `nuclear_power_plants` VALUES ('316', 'Hinkley Point-C1', '51.208700', '-3.130500', 'GB', '1', '21', null, null, null, null, null, 'WNA', null);
+INSERT INTO `nuclear_power_plants` VALUES ('316', 'Hinkley Point-C1', '51.208700', '-3.130500', 'GB', '2', '21', 'EPR-1750', '2018-12-11', null, null, '1630', 'WNA/IAEA', '2019-06-02 20:18:41');
 INSERT INTO `nuclear_power_plants` VALUES ('317', 'Hinkley Point-C2', '51.208700', '-3.130500', 'GB', '1', '21', null, null, null, null, null, 'WNA', null);
 INSERT INTO `nuclear_power_plants` VALUES ('318', 'Hongshiding-1 (Rushan-1)', null, null, 'CN', '1', '21', null, null, null, null, null, 'WNA', null);
 INSERT INTO `nuclear_power_plants` VALUES ('319', 'Hongshiding-2 (Rushan-2)', null, null, 'CN', '1', '21', null, null, null, null, null, 'WNA', null);
 INSERT INTO `nuclear_power_plants` VALUES ('320', 'Hongyanhe-1', '39.797000', '121.476500', 'CN', '3', '21', 'CPR-1000', '2007-08-18', '2013-06-06', null, '1061', 'WNA/IAEA/GEO', '2015-08-23 03:28:28');
 INSERT INTO `nuclear_power_plants` VALUES ('321', 'Hongyanhe-2', '39.797000', '121.476500', 'CN', '3', '21', 'CPR-1000', '2008-03-28', '2014-05-13', null, '1061', 'WNA/IAEA/GEO', '2015-08-23 03:28:28');
 INSERT INTO `nuclear_power_plants` VALUES ('322', 'Hongyanhe-3', '39.797000', '121.476500', 'CN', '3', '21', 'CPR-1000', '2009-03-07', '2015-08-16', null, '1061', 'WNA/IAEA/GEO', '2017-09-25 03:20:36');
-INSERT INTO `nuclear_power_plants` VALUES ('323', 'Hongyanhe-4', '39.797000', '121.476500', 'CN', '3', '21', 'CPR-1000', '2009-08-15', '2016-09-19', null, '1061', 'WNA/IAEA/GEO', '2017-09-25 03:20:37');
+INSERT INTO `nuclear_power_plants` VALUES ('323', 'Hongyanhe-4', '39.797000', '121.476500', 'CN', '3', '21', 'CPR-1000', '2009-08-15', '2016-06-08', null, '1061', 'WNA/IAEA/GEO', '2019-06-02 20:18:47');
 INSERT INTO `nuclear_power_plants` VALUES ('324', 'Hongyanhe-5', '39.797000', '121.483100', 'CN', '2', '21', 'ACPR-1000', '2015-03-29', null, null, '1061', 'WNA/IAEA/GEO', '2017-09-25 03:20:44');
 INSERT INTO `nuclear_power_plants` VALUES ('325', 'Hongyanhe-6', '39.797000', '121.483100', 'CN', '2', '21', 'ACPR-1000', '2015-07-24', null, null, '1061', 'WNA/IAEA/GEO', '2017-09-25 03:20:51');
 INSERT INTO `nuclear_power_plants` VALUES ('326', 'Hope Creek-1', '39.467000', '-75.535000', 'US', '3', '5', 'BWR-4 (Mark 1)', '1976-03-01', '1986-12-20', null, '1067', 'WNA/IAEA', '2015-05-24 04:51:47');
@@ -367,7 +367,7 @@ INSERT INTO `nuclear_power_plants` VALUES ('332', 'Ignalina-1', '55.604000', '26
 INSERT INTO `nuclear_power_plants` VALUES ('333', 'Ignalina-2', '55.604000', '26.562000', 'LT', '5', '17', 'RBMK-1500', '1978-01-01', '1987-12-01', '2009-12-31', '1500', 'WNA/IAEA', '2015-05-24 04:51:31');
 INSERT INTO `nuclear_power_plants` VALUES ('334', 'Ignalina-3', '55.604000', '26.562000', 'LT', '1', '17', 'RBMK-1500', null, null, null, null, 'WNA', null);
 INSERT INTO `nuclear_power_plants` VALUES ('335', 'Ikata-1', '33.491000', '132.309000', 'JP', '5', '21', 'M (2-loop)', '1973-09-01', '1977-09-30', '2016-05-10', '538', 'WNA/IAEA', '2017-02-10 23:56:25');
-INSERT INTO `nuclear_power_plants` VALUES ('336', 'Ikata-2', '33.491000', '132.309000', 'JP', '3', '21', 'M (2-loop)', '1978-08-01', '1982-03-19', null, '538', 'WNA/IAEA', '2015-05-24 04:51:28');
+INSERT INTO `nuclear_power_plants` VALUES ('336', 'Ikata-2', '33.491000', '132.309000', 'JP', '5', '21', 'M (2-loop)', '1978-08-01', '1982-03-19', '2018-05-23', '538', 'WNA/IAEA', '2019-06-02 20:18:50');
 INSERT INTO `nuclear_power_plants` VALUES ('337', 'Ikata-3', '33.491000', '132.309000', 'JP', '3', '21', 'M (3-loop)', '1990-10-01', '1994-12-15', null, '846', 'WNA/IAEA', '2015-05-24 04:51:29');
 INSERT INTO `nuclear_power_plants` VALUES ('338', 'Indian Point-1', '41.270000', '-73.950000', 'US', '5', '21', 'PWR', '1956-05-01', '1962-10-01', '1974-10-31', '265', 'WNA/IAEA', '2015-05-24 04:51:43');
 INSERT INTO `nuclear_power_plants` VALUES ('339', 'Indian Point-2', '41.270000', '-73.950000', 'US', '3', '21', 'WH 4LP (DRYAMB)', '1966-10-14', '1974-08-01', null, '873', 'WNA/IAEA', '2017-02-10 23:57:54');
@@ -430,7 +430,7 @@ INSERT INTO `nuclear_power_plants` VALUES ('395', 'Kozloduy-2', '43.744000', '23
 INSERT INTO `nuclear_power_plants` VALUES ('396', 'Kozloduy-3', '43.744000', '23.776000', 'BG', '5', '21', 'VVER V-230', '1973-10-01', '1981-01-20', '2006-12-31', '408', 'WNA/IAEA', '2015-05-24 04:50:17');
 INSERT INTO `nuclear_power_plants` VALUES ('397', 'Kozloduy-4', '43.744000', '23.776000', 'BG', '5', '21', 'VVER V-230', '1973-10-01', '1982-06-20', '2006-12-31', '408', 'WNA/IAEA', '2015-05-24 04:50:17');
 INSERT INTO `nuclear_power_plants` VALUES ('398', 'Kozloduy-5', '43.744000', '23.776000', 'BG', '3', '21', 'VVER V-320', '1980-07-09', '1988-12-23', null, '953', 'WNA/IAEA', '2015-05-24 04:50:18');
-INSERT INTO `nuclear_power_plants` VALUES ('399', 'Kozloduy-6', '43.744000', '23.776000', 'BG', '3', '21', 'VVER V-320', '1982-04-01', '1993-12-30', null, '953', 'WNA/IAEA', '2015-05-24 04:50:18');
+INSERT INTO `nuclear_power_plants` VALUES ('399', 'Kozloduy-6', '43.744000', '23.776000', 'BG', '3', '21', 'VVER V-320', '1982-04-01', '1993-12-30', null, '963', 'WNA/IAEA', '2019-06-02 20:18:54');
 INSERT INTO `nuclear_power_plants` VALUES ('400', 'Krsko', '45.939000', '15.516000', 'SI', '3', '21', 'WH 2LP', '1975-03-30', '1983-01-01', null, '632', 'WNA/IAEA', '2017-02-10 23:57:25');
 INSERT INTO `nuclear_power_plants` VALUES ('401', 'Kruemmel', '53.410000', '10.410000', 'DE', '5', '5', 'BWR-69', '1974-04-05', '1984-03-28', '2011-08-06', '1260', 'WNA/IAEA', '2015-05-24 04:50:44');
 INSERT INTO `nuclear_power_plants` VALUES ('402', 'Kudankulam-1', '8.167000', '77.713000', 'IN', '3', '21', 'VVER V-412', '2002-03-31', '2014-12-31', null, '917', 'WNA/IAEA', '2015-05-24 04:51:50');
@@ -456,11 +456,11 @@ INSERT INTO `nuclear_power_plants` VALUES ('421', 'LaSalle-1', '41.246000', '-88
 INSERT INTO `nuclear_power_plants` VALUES ('422', 'LaSalle-2', '41.246000', '-88.672000', 'US', '3', '5', 'BWR-5 (Mark 2)', '1973-09-10', '1984-10-19', null, '1078', 'WNA/IAEA', '2015-05-24 04:51:48');
 INSERT INTO `nuclear_power_plants` VALUES ('423', 'Latina', '41.427000', '12.808000', 'IT', '5', '8', 'MAGNOX', '1958-11-01', '1964-01-01', '1987-12-01', '200', 'WNA/IAEA', '2015-05-24 04:51:26');
 INSERT INTO `nuclear_power_plants` VALUES ('424', 'Leibstadt', '47.601000', '8.183000', 'CH', '3', '5', 'BWR-6', '1974-01-01', '1984-12-15', null, '960', 'WNA/IAEA', '2015-05-24 04:50:39');
-INSERT INTO `nuclear_power_plants` VALUES ('425', 'Leningrad 2-1', '59.837000', '29.039000', 'RU', '3', '21', 'VVER V-491', '2008-10-25', null, null, '1111', 'WNA/IAEA', '2018-07-01 01:21:43');
+INSERT INTO `nuclear_power_plants` VALUES ('425', 'Leningrad 2-1', '59.837000', '29.039000', 'RU', '3', '21', 'VVER V-491', '2008-10-25', '2018-10-29', null, '1101', 'WNA/IAEA', '2019-06-02 20:19:04');
 INSERT INTO `nuclear_power_plants` VALUES ('426', 'Leningrad 2-2', '59.837000', '29.039000', 'RU', '2', '21', 'VVER V-491', '2010-04-15', null, null, '1111', 'WNA/IAEA', '2017-09-25 03:20:34');
 INSERT INTO `nuclear_power_plants` VALUES ('427', 'Leningrad 2-3', '59.837000', '29.039000', 'RU', '1', '21', 'VVER V-491', null, null, null, '1085', 'wikipedia', null);
 INSERT INTO `nuclear_power_plants` VALUES ('428', 'Leningrad 2-4', '59.837000', '29.039000', 'RU', '1', '21', 'VVER V-491', null, null, null, '1085', 'wikipedia', null);
-INSERT INTO `nuclear_power_plants` VALUES ('429', 'Leningrad-1', '59.837000', '29.039000', 'RU', '3', '17', 'RBMK-1000', '1970-03-01', '1974-11-01', null, '925', 'WNA/IAEA', '2015-05-24 04:51:34');
+INSERT INTO `nuclear_power_plants` VALUES ('429', 'Leningrad-1', '59.837000', '29.039000', 'RU', '5', '17', 'RBMK-1000', '1970-03-01', '1974-11-01', '2018-12-22', '925', 'WNA/IAEA', '2019-06-02 20:19:08');
 INSERT INTO `nuclear_power_plants` VALUES ('430', 'Leningrad-2', '59.837000', '29.039000', 'RU', '3', '17', 'RBMK-1000', '1970-06-01', '1976-02-11', null, '925', 'WNA/IAEA', '2015-05-24 04:51:34');
 INSERT INTO `nuclear_power_plants` VALUES ('431', 'Leningrad-3', '59.837000', '29.039000', 'RU', '3', '17', 'RBMK-1000', '1973-12-01', '1980-06-29', null, '925', 'WNA/IAEA', '2015-05-24 04:51:34');
 INSERT INTO `nuclear_power_plants` VALUES ('432', 'Leningrad-4', '59.837000', '29.039000', 'RU', '3', '17', 'RBMK-1000', '1975-02-01', '1981-08-29', null, '925', 'WNA/IAEA', '2015-05-24 04:51:34');
@@ -518,8 +518,8 @@ INSERT INTO `nuclear_power_plants` VALUES ('483', 'Nogent-1', '48.517000', '3.52
 INSERT INTO `nuclear_power_plants` VALUES ('484', 'Nogent-2', '48.517000', '3.520000', 'FR', '3', '21', 'P4 REP 1300', '1982-01-01', '1989-05-01', null, '1310', 'WNA/IAEA', '2015-05-24 04:51:03');
 INSERT INTO `nuclear_power_plants` VALUES ('485', 'North Anna-1', '38.061000', '-77.792000', 'US', '3', '21', 'WH 3LP (DRYSUB)', '1971-02-19', '1978-06-06', null, '907', 'WNA/IAEA', '2017-02-10 23:58:49');
 INSERT INTO `nuclear_power_plants` VALUES ('486', 'North Anna-2', '38.061000', '-77.792000', 'US', '3', '21', 'WH 3LP (DRYSUB)', '1971-02-19', '1980-12-14', null, '907', 'WNA/IAEA', '2017-02-10 23:58:50');
-INSERT INTO `nuclear_power_plants` VALUES ('487', 'Novovoronezh 2-1', '51.273000', '39.197000', 'RU', '3', '21', 'VVER V-392M', '2008-06-24', '2017-02-27', null, '1114', 'WNA/IAEA', '2017-09-25 03:20:23');
-INSERT INTO `nuclear_power_plants` VALUES ('488', 'Novovoronezh 2-2', '51.273000', '39.197000', 'RU', '2', '21', 'VVER V-392M', '2009-07-12', null, null, '1114', 'WNA/IAEA', '2015-05-24 04:51:55');
+INSERT INTO `nuclear_power_plants` VALUES ('487', 'Novovoronezh 2-1', '51.273000', '39.197000', 'RU', '3', '21', 'VVER V-392M', '2008-06-24', '2017-02-27', null, '1100', 'WNA/IAEA', '2019-06-02 20:19:10');
+INSERT INTO `nuclear_power_plants` VALUES ('488', 'Novovoronezh 2-2', '51.273000', '39.197000', 'RU', '3', '21', 'VVER V-392M', '2009-07-12', null, null, '1114', 'WNA/IAEA', '2019-06-02 20:19:13');
 INSERT INTO `nuclear_power_plants` VALUES ('489', 'Novovoronezh-1', '51.275000', '39.206000', 'RU', '5', '21', 'VVER V-210', '1957-07-01', '1964-12-31', '1988-02-16', '197', 'WNA/IAEA', '2018-07-01 01:21:51');
 INSERT INTO `nuclear_power_plants` VALUES ('490', 'Novovoronezh-2', '51.275000', '39.206000', 'RU', '5', '21', 'VVER V-365', '1964-06-01', '1970-04-14', '1990-08-29', '336', 'WNA/IAEA', '2018-07-01 01:21:53');
 INSERT INTO `nuclear_power_plants` VALUES ('491', 'Novovoronezh-3', '51.275000', '39.206000', 'RU', '5', '21', 'VVER V-179', '1967-07-01', '1972-06-29', '2016-12-25', '385', 'WNA/IAEA', '2017-02-10 23:57:16');
@@ -529,8 +529,8 @@ INSERT INTO `nuclear_power_plants` VALUES ('494', 'Obrigheim', '49.365000', '9.0
 INSERT INTO `nuclear_power_plants` VALUES ('495', 'Oconee-1', '34.796000', '-82.894000', 'US', '3', '21', 'B&W LLP (DRYAMB)', '1967-11-06', '1973-07-15', null, '887', 'WNA/IAEA', '2017-02-10 23:58:05');
 INSERT INTO `nuclear_power_plants` VALUES ('496', 'Oconee-2', '34.796000', '-82.894000', 'US', '3', '21', 'B&W LLP (DRYAMB)', '1967-11-06', '1974-09-09', null, '887', 'WNA/IAEA', '2017-02-10 23:58:08');
 INSERT INTO `nuclear_power_plants` VALUES ('497', 'Oconee-3', '34.796000', '-82.894000', 'US', '3', '21', 'B&W LLP (DRYAMB)', '1967-11-06', '1974-12-16', null, '887', 'WNA/IAEA', '2017-02-10 23:58:18');
-INSERT INTO `nuclear_power_plants` VALUES ('498', 'Ohi-1', '35.544000', '135.652000', 'JP', '3', '21', 'WH 4LP', '1972-10-26', '1979-03-27', null, '1120', 'WNA/IAEA', '2017-02-10 23:56:20');
-INSERT INTO `nuclear_power_plants` VALUES ('499', 'Ohi-2', '35.544000', '135.652000', 'JP', '3', '21', 'WH 4LP', '1972-12-08', '1979-12-05', null, '1120', 'WNA/IAEA', '2017-02-10 23:56:22');
+INSERT INTO `nuclear_power_plants` VALUES ('498', 'Ohi-1', '35.544000', '135.652000', 'JP', '5', '21', 'WH 4LP', '1972-10-26', '1979-03-27', '2018-03-01', '1120', 'WNA/IAEA', '2019-06-02 20:19:15');
+INSERT INTO `nuclear_power_plants` VALUES ('499', 'Ohi-2', '35.544000', '135.652000', 'JP', '5', '21', 'WH 4LP', '1972-12-08', '1979-12-05', '2018-03-01', '1120', 'WNA/IAEA', '2019-06-02 20:19:18');
 INSERT INTO `nuclear_power_plants` VALUES ('500', 'Ohi-3', '35.544000', '135.652000', 'JP', '3', '21', 'M (4-loop)', '1987-10-03', '1991-12-18', null, '1127', 'WNA/IAEA', '2015-05-24 04:51:30');
 INSERT INTO `nuclear_power_plants` VALUES ('501', 'Ohi-4', '35.544000', '135.652000', 'JP', '3', '21', 'M (4-loop)', '1988-06-13', '1993-02-02', null, '1127', 'WNA/IAEA', '2015-05-24 04:51:30');
 INSERT INTO `nuclear_power_plants` VALUES ('502', 'Ohma', '41.507000', '140.909000', 'JP', '2', '5', 'ABWR', '2010-05-07', null, null, '1328', 'WNA/IAEA', '2017-02-10 23:59:23');
@@ -617,7 +617,7 @@ INSERT INTO `nuclear_power_plants` VALUES ('582', 'Rolphton NPD', '46.201000', '
 INSERT INTO `nuclear_power_plants` VALUES ('583', 'Rostov-1 (Volgodonsk-1)', '47.599000', '42.373000', 'RU', '3', '21', 'VVER V-320', '1981-09-01', '2001-12-25', null, '950', 'WNA/IAEA', '2015-05-24 04:51:35');
 INSERT INTO `nuclear_power_plants` VALUES ('584', 'Rostov-2 (Volgodonsk-2)', '47.599000', '42.373000', 'RU', '3', '21', 'VVER V-320', '1983-05-01', '2010-12-10', null, '950', 'WNA/IAEA', '2015-05-24 04:51:35');
 INSERT INTO `nuclear_power_plants` VALUES ('585', 'Rostov-3 (Volgodonsk-3)', '47.599000', '42.373000', 'RU', '3', '21', 'VVER V-320', '2009-09-15', '2015-09-17', null, '950', 'WNA/IAEA', '2017-02-10 23:57:13');
-INSERT INTO `nuclear_power_plants` VALUES ('586', 'Rostov-4 (Volgodonsk-4)', '47.599000', '42.373000', 'RU', '3', '21', 'VVER V-320', '2010-06-16', '2018-09-28', null, '1011', 'WNA/IAEA', '2018-10-13 22:30:35');
+INSERT INTO `nuclear_power_plants` VALUES ('586', 'Rostov-4 (Volgodonsk-4)', '47.599000', '42.373000', 'RU', '3', '21', 'VVER V-320', '2010-06-16', '2018-09-28', null, '950', 'WNA/IAEA', '2019-06-02 20:19:20');
 INSERT INTO `nuclear_power_plants` VALUES ('587', 'Rovno-1', '51.326000', '25.900000', 'UA', '3', '21', 'VVER V-213', '1973-08-01', '1981-09-22', null, '361', 'WNA/IAEA', '2015-05-24 04:51:40');
 INSERT INTO `nuclear_power_plants` VALUES ('588', 'Rovno-2', '51.326000', '25.900000', 'UA', '3', '21', 'VVER V-213', '1973-10-01', '1982-07-29', null, '384', 'WNA/IAEA', '2015-05-24 04:51:40');
 INSERT INTO `nuclear_power_plants` VALUES ('589', 'Rovno-3', '51.326000', '25.900000', 'UA', '3', '21', 'VVER V-320', '1980-02-01', '1987-05-16', null, '950', 'WNA/IAEA', '2015-05-24 04:51:40');
@@ -628,7 +628,7 @@ INSERT INTO `nuclear_power_plants` VALUES ('593', 'San Onofre-1', '33.368000', '
 INSERT INTO `nuclear_power_plants` VALUES ('594', 'San Onofre-2', '33.368000', '-117.556000', 'US', '5', '21', 'CE (2-loop) DRYAMB', '1974-03-01', '1983-08-08', '2013-06-07', '1070', 'WNA/IAEA', '2015-05-24 04:54:11');
 INSERT INTO `nuclear_power_plants` VALUES ('595', 'San Onofre-3', '33.368000', '-117.556000', 'US', '5', '21', 'CE (2-loop) DRYAMB', '1974-03-01', '1984-04-01', '2013-06-07', '1070', 'WNA/IAEA', '2015-05-24 04:54:11');
 INSERT INTO `nuclear_power_plants` VALUES ('596', 'Sanmen-1', '29.101000', '121.642000', 'CN', '3', '21', 'AP-1000', '2009-04-19', '2018-09-21', null, '1157', 'WNA/IAEA', '2018-10-13 22:30:42');
-INSERT INTO `nuclear_power_plants` VALUES ('597', 'Sanmen-2', '29.101000', '121.642000', 'CN', '3', '21', 'AP-1000', '2009-12-15', null, null, '1157', 'WNA/IAEA', '2018-10-13 22:30:46');
+INSERT INTO `nuclear_power_plants` VALUES ('597', 'Sanmen-2', '29.101000', '121.642000', 'CN', '3', '21', 'AP-1000', '2009-12-15', '2018-11-05', null, '1157', 'WNA/IAEA', '2019-06-02 20:19:24');
 INSERT INTO `nuclear_power_plants` VALUES ('598', 'Sanmen-3', '29.101111', '121.651944', 'CN', '1', '21', null, null, null, null, null, 'WNA', null);
 INSERT INTO `nuclear_power_plants` VALUES ('599', 'Sanmen-4', '29.101111', '121.656944', 'CN', '1', '21', null, null, null, null, null, 'WNA', null);
 INSERT INTO `nuclear_power_plants` VALUES ('600', 'Sanming-1', null, null, 'CN', '1', '7', null, null, null, null, null, 'WNA', null);
@@ -660,7 +660,7 @@ INSERT INTO `nuclear_power_plants` VALUES ('625', 'Shin-Hanul-2', '37.083889', '
 INSERT INTO `nuclear_power_plants` VALUES ('626', 'Shin-Kori-1', '35.327000', '129.302000', 'KR', '3', '21', 'OPR-1000', '2006-06-16', '2011-02-28', null, '998', 'WNA/IAEA', '2015-05-24 04:51:51');
 INSERT INTO `nuclear_power_plants` VALUES ('627', 'Shin-Kori-2', '35.327000', '129.302000', 'KR', '3', '21', 'OPR-1000', '2007-06-05', '2012-07-20', null, '995', 'WNA/IAEA', '2015-05-24 04:51:51');
 INSERT INTO `nuclear_power_plants` VALUES ('628', 'Shin-Kori-3', '35.327000', '129.302000', 'KR', '3', '21', 'APR-1400', '2008-10-16', '2016-12-20', null, '1340', 'WNA/IAEA', '2017-09-25 03:20:21');
-INSERT INTO `nuclear_power_plants` VALUES ('629', 'Shin-Kori-4', '35.327000', '129.302000', 'KR', '2', '21', 'APR-1400', '2009-08-19', null, null, '1340', 'WNA/IAEA', '2015-05-24 04:51:52');
+INSERT INTO `nuclear_power_plants` VALUES ('629', 'Shin-Kori-4', '35.327000', '129.302000', 'KR', '3', '21', 'APR-1400', '2009-08-19', null, null, '1340', 'WNA/IAEA', '2019-06-02 20:19:26');
 INSERT INTO `nuclear_power_plants` VALUES ('630', 'Shin-Kori-5', '35.327000', '129.302000', 'KR', '2', '21', 'APR-1400', '2017-04-01', null, null, '1340', 'WNA/wikipedia/IAEA', '2018-03-10 14:54:40');
 INSERT INTO `nuclear_power_plants` VALUES ('631', 'Shin-Kori-6', '35.327000', '129.302000', 'KR', '2', '21', 'APR-1400', '2018-09-20', null, null, '1340', 'WNA/wikipedia/IAEA', '2018-10-13 22:30:47');
 INSERT INTO `nuclear_power_plants` VALUES ('632', 'Shippingport', '40.630000', '-80.417778', 'US', '5', '21', 'PLWBR', '1954-01-01', '1958-05-26', '1982-10-01', '60', 'IAEA', '2015-05-24 04:51:54');
@@ -700,7 +700,7 @@ INSERT INTO `nuclear_power_plants` VALUES ('665', 'Surry-1', '37.166000', '-76.7
 INSERT INTO `nuclear_power_plants` VALUES ('666', 'Surry-2', '37.166000', '-76.700000', 'US', '3', '21', 'WH 3LP (DRYSUB)', '1968-06-25', '1973-05-01', null, '788', 'WNA/IAEA', '2017-02-10 23:58:11');
 INSERT INTO `nuclear_power_plants` VALUES ('667', 'Susquehanna-1', '41.093000', '-76.143000', 'US', '3', '5', 'BWR-4 (Mark 2)', '1973-11-02', '1983-06-08', null, '1065', 'WNA/IAEA', '2015-05-24 04:51:48');
 INSERT INTO `nuclear_power_plants` VALUES ('668', 'Susquehanna-2', '41.093000', '-76.143000', 'US', '3', '5', 'BWR-4 (Mark 2)', '1973-11-02', '1985-02-12', null, '1065', 'WNA/IAEA', '2015-05-24 04:51:48');
-INSERT INTO `nuclear_power_plants` VALUES ('669', 'Taishan-1', '21.949000', '112.956000', 'CN', '3', '21', 'EPR-1750', '2009-11-18', null, null, '1660', 'WNA/IAEA', '2018-10-13 22:30:49');
+INSERT INTO `nuclear_power_plants` VALUES ('669', 'Taishan-1', '21.949000', '112.956000', 'CN', '3', '21', 'EPR-1750', '2009-11-18', '2018-12-13', null, '1660', 'WNA/IAEA', '2019-06-02 20:19:27');
 INSERT INTO `nuclear_power_plants` VALUES ('670', 'Taishan-2', '21.949000', '112.956000', 'CN', '2', '21', 'EPR-1750', '2010-04-15', null, null, '1660', 'WNA/IAEA', '2015-05-24 04:51:56');
 INSERT INTO `nuclear_power_plants` VALUES ('671', 'Takahama-1', '35.520000', '135.503000', 'JP', '3', '21', 'M (3-loop)', '1970-04-25', '1974-11-14', null, '780', 'WNA/IAEA', '2015-05-24 04:51:30');
 INSERT INTO `nuclear_power_plants` VALUES ('672', 'Takahama-2', '35.520000', '135.503000', 'JP', '3', '21', 'M (3-loop)', '1971-03-09', '1975-11-14', null, '780', 'WNA/IAEA', '2015-05-24 04:51:27');
@@ -722,7 +722,7 @@ INSERT INTO `nuclear_power_plants` VALUES ('687', 'THTR-300', '51.680000', '7.97
 INSERT INTO `nuclear_power_plants` VALUES ('688', 'Tianwan-1', '34.690000', '119.456000', 'CN', '3', '21', 'VVER V-428', '1999-10-20', '2007-05-17', null, '990', 'WNA/IAEA', '2015-05-24 04:51:50');
 INSERT INTO `nuclear_power_plants` VALUES ('689', 'Tianwan-2', '34.690000', '119.456000', 'CN', '3', '21', 'VVER V-428', '2000-09-20', '2007-08-16', null, '990', 'WNA/IAEA', '2015-05-24 04:51:50');
 INSERT INTO `nuclear_power_plants` VALUES ('690', 'Tianwan-3', '34.686800', '119.456000', 'CN', '3', '21', 'VVER V-428M', '2012-12-27', '2018-02-14', null, '1060', 'WNA/IAEA', '2018-07-01 01:21:55');
-INSERT INTO `nuclear_power_plants` VALUES ('691', 'Tianwan-4', '34.685800', '119.456000', 'CN', '2', '21', 'VVER V-428M', '2013-09-27', null, null, '1060', 'WNA/IAEA', '2018-03-10 14:53:12');
+INSERT INTO `nuclear_power_plants` VALUES ('691', 'Tianwan-4', '34.685800', '119.456000', 'CN', '3', '21', 'VVER V-428M', '2013-09-27', '2018-12-22', null, '1060', 'WNA/IAEA', '2019-06-02 20:19:28');
 INSERT INTO `nuclear_power_plants` VALUES ('692', 'Tianwan-5', '34.683800', '119.456000', 'CN', '2', '21', 'CNP-1000', '2015-12-27', null, null, '1000', 'WNA/wikipedia/IAEA', '2016-03-09 18:44:20');
 INSERT INTO `nuclear_power_plants` VALUES ('693', 'Tianwan-6', '34.682800', '119.456000', 'CN', '2', '21', 'CNP-1000', '2016-09-07', null, null, '1000', 'WNA/wikipedia/IAEA', '2017-09-25 03:20:53');
 INSERT INTO `nuclear_power_plants` VALUES ('694', 'Tihange-1', '50.533000', '5.271000', 'BE', '3', '21', 'Framatome 3 loops reactor', '1970-06-01', '1975-10-01', null, '870', 'WNA/IAEA', '2015-05-24 04:54:04');
@@ -791,7 +791,7 @@ INSERT INTO `nuclear_power_plants` VALUES ('756', 'Yangjiang-1', '21.706000', '1
 INSERT INTO `nuclear_power_plants` VALUES ('757', 'Yangjiang-2', '21.706000', '112.256000', 'CN', '3', '21', 'CPR-1000', '2009-06-04', '2015-06-05', null, '1000', 'WNA/IAEA', '2015-08-23 03:28:27');
 INSERT INTO `nuclear_power_plants` VALUES ('758', 'Yangjiang-3', '21.706000', '112.256000', 'CN', '3', '21', 'CPR-1000', '2010-11-15', '2016-01-01', null, '1000', 'WNA/IAEA', '2016-03-09 18:43:57');
 INSERT INTO `nuclear_power_plants` VALUES ('759', 'Yangjiang-4', '21.857500', '111.982500', 'CN', '3', '21', 'CPR-1000', '2012-11-17', '2017-03-15', null, '1000', 'WNA/IAEA', '2017-09-25 03:20:38');
-INSERT INTO `nuclear_power_plants` VALUES ('760', 'Yangjiang-5', '21.857500', '111.982500', 'CN', '3', '21', 'ACPR-1000', '2013-09-18', '2018-07-12', null, '1000', 'IAEA', '2018-10-13 22:30:51');
+INSERT INTO `nuclear_power_plants` VALUES ('760', 'Yangjiang-5', '21.857500', '111.982500', 'CN', '3', '21', 'ACPR-1000', '2013-09-18', '2018-07-12', null, '1021', 'IAEA', '2019-06-02 20:19:31');
 INSERT INTO `nuclear_power_plants` VALUES ('761', 'Yangjiang-6', '21.857500', '111.982500', 'CN', '2', '21', 'ACPR-1000', '2013-12-23', null, null, '1000', 'IAEA', '2015-05-24 04:51:57');
 INSERT INTO `nuclear_power_plants` VALUES ('762', 'Yanjiashan-1', null, null, 'CN', '1', '21', null, null, null, null, null, 'WNA', null);
 INSERT INTO `nuclear_power_plants` VALUES ('763', 'Yanjiashan-2', null, null, 'CN', '1', '21', null, null, null, null, null, 'WNA', null);
@@ -817,5 +817,6 @@ INSERT INTO `nuclear_power_plants` VALUES ('783', 'Kanupp-2', '24.845000', '66.7
 INSERT INTO `nuclear_power_plants` VALUES ('784', 'Fangchenggang-4', '21.600000', '108.300000', 'CN', '2', '21', 'HPR1000', '2016-12-23', null, null, '1000', 'IAEA', '2017-02-10 23:59:38');
 INSERT INTO `nuclear_power_plants` VALUES ('785', 'Kanupp-3', '24.845000', '66.790000', 'PK', '2', '21', 'ACP-1000', '2016-05-31', null, null, '1014', 'IAEA', '2017-02-10 23:59:39');
 INSERT INTO `nuclear_power_plants` VALUES ('786', 'Rooppur-1', '24.066667', '89.047222', 'BD', '2', '21', 'VVER V-523', '2017-11-30', null, null, '1080', 'IAEA', '2018-03-10 20:52:25');
-INSERT INTO `nuclear_power_plants` VALUES ('787', 'Kursk 2-1', '51.674000', '35.607000', 'RU', '2', '21', 'VVER V-510', '2018-04-29', null, null, '1175', 'IAEA', '2018-07-01 01:21:43');
+INSERT INTO `nuclear_power_plants` VALUES ('787', 'Kursk 2-1', '51.674000', '35.607000', 'RU', '2', '21', 'VVER V-510K', '2018-04-29', null, null, '1175', 'IAEA', '2019-06-02 20:19:00');
 INSERT INTO `nuclear_power_plants` VALUES ('788', 'Rooppur-2', '24.066667', '89.047222', 'BD', '2', '21', 'VVER V-523', '2018-07-14', null, null, '1080', 'IAEA', '2018-10-13 22:30:35');
+INSERT INTO `nuclear_power_plants` VALUES ('789', 'Kursk 2-2', '51.674000', '35.607000', 'RU', '2', '21', 'VVER V-510K', '2019-04-15', null, null, '1175', 'IAEA', '2019-06-02 20:19:04');
