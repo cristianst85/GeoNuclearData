@@ -11,7 +11,7 @@
   },
   {
     "Type": "APWR",
-    "Description": "Advanced Pressurised Water Reactor",
+    "Description": "Advanced Pressurized Water Reactor",
     "Id": 3
   },
   {
@@ -96,18 +96,13 @@
   },
   {
     "Type": "PHWR",
-    "Description": "Pressurised Heavy Water Reactor",
+    "Description": "Pressurized Heavy Water Reactor",
     "Id": 20
   },
   {
     "Type": "PWR",
-    "Description": "Pressurised Water Reactor",
+    "Description": "Pressurized Water Reactor",
     "Id": 21
-  },
-  {
-    "Type": "RBMK",
-    "Description": "High Power Channel-Type Reactor (Reaktor Bolshoy Moshchnosti Kanalniy)",
-    "Id": 22
   },
   {
     "Type": "SGR",

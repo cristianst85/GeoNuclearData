@@ -1,7 +1,7 @@
 Type;Description;Id
 ABWR;Advanced Boiling Water Reactor;1
 APR;Advanced Power Reactor;2
-APWR;Advanced Pressurised Water Reactor;3
+APWR;Advanced Pressurized Water Reactor;3
 AGR;Advanced Gas-cooled Reactor;4
 BWR;Boiling Water Reactor;5
 EPR;Evolutionary Power Reactor;6
@@ -18,9 +18,8 @@ LMFR;Liquid Metal Fast Reactor;16
 LWGR;Light Water Graphite Reactor;17
 MSR;Molten Salt Reactor;18
 OCR;Organic Cooled Reactor;19
-PHWR;Pressurised Heavy Water Reactor;20
-PWR;Pressurised Water Reactor;21
-RBMK;High Power Channel-Type Reactor (Reaktor Bolshoy Moshchnosti Kanalniy);22
+PHWR;Pressurized Heavy Water Reactor;20
+PWR;Pressurized Water Reactor;21
 SGR;Sodium-Graphite Reactor;23
 SGHWR;Steam Generating Heavy Water Reactor;24
 TWR;Traveling-Wave Reactor;25

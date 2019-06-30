@@ -18,7 +18,7 @@ CREATE TABLE `nuclear_reactor_type` (
 -- ----------------------------
 INSERT INTO `nuclear_reactor_type` VALUES ('1', 'ABWR', 'Advanced Boiling Water Reactor');
 INSERT INTO `nuclear_reactor_type` VALUES ('2', 'APR', 'Advanced Power Reactor');
-INSERT INTO `nuclear_reactor_type` VALUES ('3', 'APWR', 'Advanced Pressurised Water Reactor');
+INSERT INTO `nuclear_reactor_type` VALUES ('3', 'APWR', 'Advanced Pressurized Water Reactor');
 INSERT INTO `nuclear_reactor_type` VALUES ('4', 'AGR', 'Advanced Gas-cooled Reactor');
 INSERT INTO `nuclear_reactor_type` VALUES ('5', 'BWR', 'Boiling Water Reactor');
 INSERT INTO `nuclear_reactor_type` VALUES ('6', 'EPR', 'Evolutionary Power Reactor');
@@ -35,9 +35,8 @@ INSERT INTO `nuclear_reactor_type` VALUES ('16', 'LMFR', 'Liquid Metal Fast Reac
 INSERT INTO `nuclear_reactor_type` VALUES ('17', 'LWGR', 'Light Water Graphite Reactor');
 INSERT INTO `nuclear_reactor_type` VALUES ('18', 'MSR', 'Molten Salt Reactor');
 INSERT INTO `nuclear_reactor_type` VALUES ('19', 'OCR', 'Organic Cooled Reactor');
-INSERT INTO `nuclear_reactor_type` VALUES ('20', 'PHWR', 'Pressurised Heavy Water Reactor');
-INSERT INTO `nuclear_reactor_type` VALUES ('21', 'PWR', 'Pressurised Water Reactor');
-INSERT INTO `nuclear_reactor_type` VALUES ('22', 'RBMK', 'High Power Channel-Type Reactor (Reaktor Bolshoy Moshchnosti Kanalniy)');
+INSERT INTO `nuclear_reactor_type` VALUES ('20', 'PHWR', 'Pressurized Heavy Water Reactor');
+INSERT INTO `nuclear_reactor_type` VALUES ('21', 'PWR', 'Pressurized Water Reactor');
 INSERT INTO `nuclear_reactor_type` VALUES ('23', 'SGR', 'Sodium-Graphite Reactor');
 INSERT INTO `nuclear_reactor_type` VALUES ('24', 'SGHWR', 'Steam Generating Heavy Water Reactor');
 INSERT INTO `nuclear_reactor_type` VALUES ('25', 'TWR', 'Traveling-Wave Reactor');

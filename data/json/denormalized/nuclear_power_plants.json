@@ -3329,7 +3329,7 @@
   },
   {
     "Id": 209,
-    "Name": "Fangchenggang-1 ",
+    "Name": "Fangchenggang-1",
     "Latitude": 21.600000,
     "Longitude": 108.300000,
     "Country": "People's Republic of China",
@@ -3340,7 +3340,7 @@
     "OperationalFrom": "2016-01-01",
     "OperationalTo": null,
     "Capacity": 1000,
-    "LastUpdatedAt": "2016-03-09T18:44:12+02:00",
+    "LastUpdatedAt": "2019-06-29T22:55:52+03:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -3617,7 +3617,7 @@
   },
   {
     "Id": 227,
-    "Name": "Fukushima-Daiichi-1",
+    "Name": "Fukushima Daiichi-1",
     "Latitude": 37.423000,
     "Longitude": 141.032000,
     "Country": "Japan",
@@ -3628,12 +3628,12 @@
     "OperationalFrom": "1971-03-26",
     "OperationalTo": "2011-05-19",
     "Capacity": 439,
-    "LastUpdatedAt": "2015-05-24T04:51:30+03:00",
+    "LastUpdatedAt": "2019-06-30T12:49:39+03:00",
     "Source": "WNA/IAEA"
   },
   {
     "Id": 228,
-    "Name": "Fukushima-Daiichi-2",
+    "Name": "Fukushima Daiichi-2",
     "Latitude": 37.423000,
     "Longitude": 141.032000,
     "Country": "Japan",
@@ -3644,12 +3644,12 @@
     "OperationalFrom": "1974-07-18",
     "OperationalTo": "2011-05-19",
     "Capacity": 760,
-    "LastUpdatedAt": "2015-05-24T04:51:30+03:00",
+    "LastUpdatedAt": "2019-06-30T12:49:43+03:00",
     "Source": "WNA/IAEA"
   },
   {
     "Id": 229,
-    "Name": "Fukushima-Daiichi-3",
+    "Name": "Fukushima Daiichi-3",
     "Latitude": 37.423000,
     "Longitude": 141.032000,
     "Country": "Japan",
@@ -3660,12 +3660,12 @@
     "OperationalFrom": "1976-03-27",
     "OperationalTo": "2011-05-19",
     "Capacity": 760,
-    "LastUpdatedAt": "2015-05-24T04:51:27+03:00",
+    "LastUpdatedAt": "2019-06-30T12:49:48+03:00",
     "Source": "WNA/IAEA"
   },
   {
     "Id": 230,
-    "Name": "Fukushima-Daiichi-4",
+    "Name": "Fukushima Daiichi-4",
     "Latitude": 37.423000,
     "Longitude": 141.032000,
     "Country": "Japan",
@@ -3676,12 +3676,12 @@
     "OperationalFrom": "1978-10-12",
     "OperationalTo": "2011-05-19",
     "Capacity": 760,
-    "LastUpdatedAt": "2015-05-24T04:51:27+03:00",
+    "LastUpdatedAt": "2019-06-30T12:49:48+03:00",
     "Source": "WNA/IAEA"
   },
   {
     "Id": 231,
-    "Name": "Fukushima-Daiichi-5",
+    "Name": "Fukushima Daiichi-5",
     "Latitude": 37.423000,
     "Longitude": 141.032000,
     "Country": "Japan",
@@ -3692,12 +3692,12 @@
     "OperationalFrom": "1978-04-18",
     "OperationalTo": "2013-12-17",
     "Capacity": 760,
-    "LastUpdatedAt": "2015-05-24T04:51:27+03:00",
+    "LastUpdatedAt": "2019-06-30T12:49:49+03:00",
     "Source": "WNA/IAEA"
   },
   {
     "Id": 232,
-    "Name": "Fukushima-Daiichi-6",
+    "Name": "Fukushima Daiichi-6",
     "Latitude": 37.423000,
     "Longitude": 141.032000,
     "Country": "Japan",
@@ -3708,12 +3708,12 @@
     "OperationalFrom": "1979-10-24",
     "OperationalTo": "2013-12-17",
     "Capacity": 1067,
-    "LastUpdatedAt": "2015-05-24T04:51:27+03:00",
+    "LastUpdatedAt": "2019-06-30T12:52:14+03:00",
     "Source": "WNA/IAEA"
   },
   {
     "Id": 233,
-    "Name": "Fukushima-Daini-1",
+    "Name": "Fukushima Daini-1",
     "Latitude": 37.315000,
     "Longitude": 141.024000,
     "Country": "Japan",
@@ -3724,12 +3724,12 @@
     "OperationalFrom": "1982-04-20",
     "OperationalTo": null,
     "Capacity": 1067,
-    "LastUpdatedAt": "2015-05-24T04:51:28+03:00",
+    "LastUpdatedAt": "2019-06-30T12:49:50+03:00",
     "Source": "WNA/IAEA"
   },
   {
     "Id": 234,
-    "Name": "Fukushima-Daini-2",
+    "Name": "Fukushima Daini-2",
     "Latitude": 37.315000,
     "Longitude": 141.024000,
     "Country": "Japan",
@@ -3740,12 +3740,12 @@
     "OperationalFrom": "1984-02-03",
     "OperationalTo": null,
     "Capacity": 1067,
-    "LastUpdatedAt": "2015-05-24T04:51:28+03:00",
+    "LastUpdatedAt": "2019-06-30T12:49:54+03:00",
     "Source": "WNA/IAEA"
   },
   {
     "Id": 235,
-    "Name": "Fukushima-Daini-3",
+    "Name": "Fukushima Daini-3",
     "Latitude": 37.315000,
     "Longitude": 141.024000,
     "Country": "Japan",
@@ -3756,12 +3756,12 @@
     "OperationalFrom": "1985-06-21",
     "OperationalTo": null,
     "Capacity": 1067,
-    "LastUpdatedAt": "2015-05-24T04:51:29+03:00",
+    "LastUpdatedAt": "2019-06-30T12:50:51+03:00",
     "Source": "WNA/IAEA"
   },
   {
     "Id": 236,
-    "Name": "Fukushima-Daini-4",
+    "Name": "Fukushima Daini-4",
     "Latitude": 37.315000,
     "Longitude": 141.024000,
     "Country": "Japan",
@@ -3772,7 +3772,7 @@
     "OperationalFrom": "1987-08-25",
     "OperationalTo": null,
     "Capacity": 1067,
-    "LastUpdatedAt": "2015-05-24T04:51:29+03:00",
+    "LastUpdatedAt": "2019-06-30T12:50:55+03:00",
     "Source": "WNA/IAEA"
   },
   {
