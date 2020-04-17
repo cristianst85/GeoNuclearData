@@ -2229,14 +2229,14 @@
     "Latitude": 25.292000,
     "Longitude": 121.567000,
     "Country": "Taiwan, Province of China",
-    "Status": "Operational",
+    "Status": "Shutdown",
     "ReactorType": "BWR",
     "ReactorModel": "BWR-4 (Mark 1)",
     "ConstructionStartAt": "1973-12-07",
     "OperationalFrom": "1979-07-15",
-    "OperationalTo": null,
+    "OperationalTo": "2019-07-16",
     "Capacity": 604,
-    "LastUpdatedAt": "2019-06-02T20:18:31+03:00",
+    "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -3957,14 +3957,14 @@
     "Latitude": 33.518000,
     "Longitude": 129.837000,
     "Country": "Japan",
-    "Status": "Operational",
+    "Status": "Shutdown",
     "ReactorType": "PWR",
     "ReactorModel": "M (2-loop)",
     "ConstructionStartAt": "1977-02-01",
     "OperationalFrom": "1981-03-30",
-    "OperationalTo": null,
+    "OperationalTo": "2019-04-09",
     "Capacity": 529,
-    "LastUpdatedAt": "2015-05-24T04:51:28+03:00",
+    "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -6795,8 +6795,8 @@
     "ConstructionStartAt": "2008-10-25",
     "OperationalFrom": "2018-10-29",
     "OperationalTo": null,
-    "Capacity": 1101,
-    "LastUpdatedAt": "2019-06-02T20:19:04+03:00",
+    "Capacity": 1066,
+    "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -6811,8 +6811,8 @@
     "ConstructionStartAt": "2010-04-15",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": 1111,
-    "LastUpdatedAt": "2017-09-25T03:20:34+03:00",
+    "Capacity": 1066,
+    "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -7787,8 +7787,8 @@
     "ConstructionStartAt": "2008-06-24",
     "OperationalFrom": "2017-02-27",
     "OperationalTo": null,
-    "Capacity": 1100,
-    "LastUpdatedAt": "2019-06-02T20:19:10+03:00",
+    "Capacity": 1114,
+    "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -7801,10 +7801,10 @@
     "ReactorType": "PWR",
     "ReactorModel": "VVER V-392M",
     "ConstructionStartAt": "2009-07-12",
-    "OperationalFrom": null,
+    "OperationalFrom": "2019-11-06",
     "OperationalTo": null,
     "Capacity": 1114,
-    "LastUpdatedAt": "2019-06-02T20:19:13+03:00",
+    "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -8133,14 +8133,14 @@
     "Latitude": 38.400000,
     "Longitude": 141.504000,
     "Country": "Japan",
-    "Status": "Operational",
+    "Status": "Shutdown",
     "ReactorType": "BWR",
     "ReactorModel": "BWR-4",
     "ConstructionStartAt": "1980-07-08",
     "OperationalFrom": "1984-06-01",
-    "OperationalTo": null,
+    "OperationalTo": "2018-12-21",
     "Capacity": 496,
-    "LastUpdatedAt": "2015-05-24T04:51:28+03:00",
+    "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -8773,14 +8773,14 @@
     "Latitude": 41.945000,
     "Longitude": -70.578000,
     "Country": "United States",
-    "Status": "Operational",
+    "Status": "Shutdown",
     "ReactorType": "BWR",
     "ReactorModel": "BWR-3 (Mark 1)",
     "ConstructionStartAt": "1968-08-26",
     "OperationalFrom": "1972-12-01",
-    "OperationalTo": null,
+    "OperationalTo": "2019-05-31",
     "Capacity": 655,
-    "LastUpdatedAt": "2015-05-24T04:51:43+03:00",
+    "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -10057,10 +10057,10 @@
     "ReactorType": "PWR",
     "ReactorModel": "APR-1400",
     "ConstructionStartAt": "2009-08-19",
-    "OperationalFrom": null,
+    "OperationalFrom": "2019-08-29",
     "OperationalTo": null,
     "Capacity": 1340,
-    "LastUpdatedAt": "2019-06-02T20:19:26+03:00",
+    "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -10709,14 +10709,14 @@
     "Latitude": 21.949000,
     "Longitude": 112.956000,
     "Country": "People's Republic of China",
-    "Status": "Under Construction",
+    "Status": "Operational",
     "ReactorType": "PWR",
     "ReactorModel": "EPR-1750",
     "ConstructionStartAt": "2010-04-15",
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": 1660,
-    "LastUpdatedAt": "2015-05-24T04:51:56+03:00",
+    "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -10949,14 +10949,14 @@
     "Latitude": 40.154000,
     "Longitude": -76.727000,
     "Country": "United States",
-    "Status": "Operational",
+    "Status": "Shutdown",
     "ReactorType": "PWR",
     "ReactorModel": "B&W LLP (DRYAMB)",
     "ConstructionStartAt": "1968-05-18",
     "OperationalFrom": "1974-09-02",
-    "OperationalTo": null,
+    "OperationalTo": "2019-09-20",
     "Capacity": 819,
-    "LastUpdatedAt": "2017-02-10T23:58:19+02:00",
+    "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
     "Source": "WNA/IAEA"
   },
   {
@@ -12165,14 +12165,14 @@
     "Latitude": 21.857500,
     "Longitude": 111.982500,
     "Country": "People's Republic of China",
-    "Status": "Under Construction",
+    "Status": "Operational",
     "ReactorType": "PWR",
     "ReactorModel": "ACPR-1000",
     "ConstructionStartAt": "2013-12-23",
-    "OperationalFrom": null,
+    "OperationalFrom": "2019-07-24",
     "OperationalTo": null,
     "Capacity": 1000,
-    "LastUpdatedAt": "2015-05-24T04:51:57+03:00",
+    "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
     "Source": "IAEA"
   },
   {
