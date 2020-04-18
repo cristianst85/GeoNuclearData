@@ -2676,7 +2676,7 @@
     "Latitude": 30.707778,
     "Longitude": 48.380000,
     "CountryCode": "IR",
-    "StatusId": 2,
+    "StatusId": 0,
     "ReactorTypeId": 21,
     "ReactorModel": null,
     "ConstructionStartAt": null,
