@@ -13,7 +13,8 @@
     "OperationalTo": "1974-06-02",
     "Capacity": 9,
     "LastUpdatedAt": "2015-05-24T04:51:37+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 528
   },
   {
     "Id": 2,
@@ -29,7 +30,8 @@
     "OperationalTo": null,
     "Capacity": 30,
     "LastUpdatedAt": "2020-04-18T04:46:52+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 895
   },
   {
     "Id": 3,
@@ -45,7 +47,8 @@
     "OperationalTo": null,
     "Capacity": 30,
     "LastUpdatedAt": "2020-04-18T04:46:52+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 896
   },
   {
     "Id": 4,
@@ -61,7 +64,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 5,
@@ -77,7 +81,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 6,
@@ -93,7 +98,8 @@
     "OperationalTo": null,
     "Capacity": 1114,
     "LastUpdatedAt": "2018-07-01T01:21:08+03:00",
-    "Source": "WNA/wikipedia/IAEA"
+    "Source": "WNA/wikipedia/IAEA",
+    "IAEAId": 553
   },
   {
     "Id": 7,
@@ -109,7 +115,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "wikipedia"
+    "Source": "wikipedia",
+    "IAEAId": null
   },
   {
     "Id": 8,
@@ -125,7 +132,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "wikipedia"
+    "Source": "wikipedia",
+    "IAEAId": null
   },
   {
     "Id": 9,
@@ -141,7 +149,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "wikipedia"
+    "Source": "wikipedia",
+    "IAEAId": null
   },
   {
     "Id": 10,
@@ -157,7 +166,8 @@
     "OperationalTo": "1999-04-22",
     "Capacity": 135,
     "LastUpdatedAt": "2015-05-24T04:51:31+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 414
   },
   {
     "Id": 11,
@@ -173,7 +183,8 @@
     "OperationalTo": null,
     "Capacity": 900,
     "LastUpdatedAt": "2017-02-10T23:56:15+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 153
   },
   {
     "Id": 12,
@@ -189,7 +200,8 @@
     "OperationalTo": null,
     "Capacity": 900,
     "LastUpdatedAt": "2019-06-02T20:17:55+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 154
   },
   {
     "Id": 13,
@@ -205,7 +217,8 @@
     "OperationalTo": null,
     "Capacity": 626,
     "LastUpdatedAt": "2017-02-10T23:55:45+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 24
   },
   {
     "Id": 14,
@@ -221,7 +234,8 @@
     "OperationalTo": null,
     "Capacity": 1245,
     "LastUpdatedAt": "2015-05-24T04:50:19+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 25
   },
   {
     "Id": 15,
@@ -237,7 +251,8 @@
     "OperationalTo": null,
     "Capacity": 1340,
     "LastUpdatedAt": "2018-07-01T01:21:29+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 26
   },
   {
     "Id": 16,
@@ -253,7 +268,8 @@
     "OperationalTo": "2002-04-29",
     "Capacity": 5,
     "LastUpdatedAt": "2015-05-24T04:51:32+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 447
   },
   {
     "Id": 17,
@@ -269,7 +285,8 @@
     "OperationalTo": null,
     "Capacity": 850,
     "LastUpdatedAt": "2017-02-10T23:58:30+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 652
   },
   {
     "Id": 18,
@@ -285,7 +302,8 @@
     "OperationalTo": null,
     "Capacity": 912,
     "LastUpdatedAt": "2017-02-10T23:58:53+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 689
   },
   {
     "Id": 19,
@@ -301,7 +319,8 @@
     "OperationalTo": "1989-02-25",
     "Capacity": 376,
     "LastUpdatedAt": "2015-05-24T04:48:59+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 1
   },
   {
     "Id": 20,
@@ -317,7 +336,8 @@
     "OperationalTo": null,
     "Capacity": 375,
     "LastUpdatedAt": "2015-05-24T04:49:43+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 2
   },
   {
     "Id": 21,
@@ -333,7 +353,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 22,
@@ -349,7 +370,8 @@
     "OperationalTo": null,
     "Capacity": 888,
     "LastUpdatedAt": "2017-02-10T23:56:18+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 155
   },
   {
     "Id": 23,
@@ -365,7 +387,8 @@
     "OperationalTo": null,
     "Capacity": 888,
     "LastUpdatedAt": "2017-02-10T23:56:18+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 156
   },
   {
     "Id": 24,
@@ -381,7 +404,8 @@
     "OperationalTo": null,
     "Capacity": 319,
     "LastUpdatedAt": "2015-05-24T04:50:04+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 3
   },
   {
     "Id": 25,
@@ -397,7 +421,8 @@
     "OperationalTo": null,
     "Capacity": 692,
     "LastUpdatedAt": "2017-09-25T03:19:13+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 5
   },
   {
     "Id": 26,
@@ -413,7 +438,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:36+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 524
   },
   {
     "Id": 27,
@@ -429,7 +455,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:36+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 525
   },
   {
     "Id": 28,
@@ -445,7 +472,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:36+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 526
   },
   {
     "Id": 29,
@@ -461,7 +489,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:36+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 527
   },
   {
     "Id": 30,
@@ -477,7 +506,8 @@
     "OperationalTo": null,
     "Capacity": 1109,
     "LastUpdatedAt": "2015-05-24T04:51:57+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 968
   },
   {
     "Id": 31,
@@ -493,7 +523,8 @@
     "OperationalTo": null,
     "Capacity": 1345,
     "LastUpdatedAt": "2015-12-27T17:05:51+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 1050
   },
   {
     "Id": 32,
@@ -509,7 +540,8 @@
     "OperationalTo": null,
     "Capacity": 1345,
     "LastUpdatedAt": "2015-12-27T17:05:52+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 1051
   },
   {
     "Id": 33,
@@ -525,7 +557,8 @@
     "OperationalTo": null,
     "Capacity": 1345,
     "LastUpdatedAt": "2015-05-24T04:51:58+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 1052
   },
   {
     "Id": 34,
@@ -541,7 +574,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 35,
@@ -557,7 +591,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 36,
@@ -573,7 +608,8 @@
     "OperationalTo": "1999-11-30",
     "Capacity": 570,
     "LastUpdatedAt": "2018-03-10T14:52:00+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 538
   },
   {
     "Id": 37,
@@ -589,7 +625,8 @@
     "OperationalTo": "2005-05-31",
     "Capacity": 570,
     "LastUpdatedAt": "2018-03-10T14:52:02+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 540
   },
   {
     "Id": 38,
@@ -605,7 +642,8 @@
     "OperationalTo": null,
     "Capacity": 835,
     "LastUpdatedAt": "2017-02-10T23:58:44+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 669
   },
   {
     "Id": 39,
@@ -621,7 +659,8 @@
     "OperationalTo": null,
     "Capacity": 836,
     "LastUpdatedAt": "2017-02-10T23:58:59+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 712
   },
   {
     "Id": 40,
@@ -637,7 +676,8 @@
     "OperationalTo": null,
     "Capacity": 1110,
     "LastUpdatedAt": "2018-03-10T14:54:38+02:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 1056
   },
   {
     "Id": 41,
@@ -653,7 +693,8 @@
     "OperationalTo": null,
     "Capacity": 1110,
     "LastUpdatedAt": "2018-03-10T14:54:39+02:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 1061
   },
   {
     "Id": 42,
@@ -669,7 +710,8 @@
     "OperationalTo": null,
     "Capacity": 953,
     "LastUpdatedAt": "2018-03-10T13:41:44+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": null
   },
   {
     "Id": 43,
@@ -685,7 +727,8 @@
     "OperationalTo": null,
     "Capacity": 953,
     "LastUpdatedAt": "2018-03-10T13:41:49+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": null
   },
   {
     "Id": 44,
@@ -701,7 +744,8 @@
     "OperationalTo": null,
     "Capacity": 1310,
     "LastUpdatedAt": "2015-05-24T04:51:02+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 211
   },
   {
     "Id": 45,
@@ -717,7 +761,8 @@
     "OperationalTo": null,
     "Capacity": 1310,
     "LastUpdatedAt": "2015-05-24T04:51:02+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 212
   },
   {
     "Id": 46,
@@ -733,7 +778,8 @@
     "OperationalTo": "1983-01-01",
     "Capacity": 102,
     "LastUpdatedAt": "2015-05-24T04:51:34+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 488
   },
   {
     "Id": 47,
@@ -749,7 +795,8 @@
     "OperationalTo": "1990-01-01",
     "Capacity": 146,
     "LastUpdatedAt": "2015-05-24T04:51:35+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 503
   },
   {
     "Id": 48,
@@ -765,7 +812,8 @@
     "OperationalTo": null,
     "Capacity": 560,
     "LastUpdatedAt": "2015-05-24T04:51:34+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 484
   },
   {
     "Id": 49,
@@ -781,7 +829,8 @@
     "OperationalTo": null,
     "Capacity": 820,
     "LastUpdatedAt": "2017-09-25T03:19:53+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 451
   },
   {
     "Id": 50,
@@ -797,7 +846,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA/wikipedia"
+    "Source": "WNA/wikipedia",
+    "IAEAId": null
   },
   {
     "Id": 51,
@@ -813,7 +863,8 @@
     "OperationalTo": "1989-03-31",
     "Capacity": 138,
     "LastUpdatedAt": "2015-05-24T04:51:19+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 264
   },
   {
     "Id": 52,
@@ -829,7 +880,8 @@
     "OperationalTo": "1988-10-26",
     "Capacity": 138,
     "LastUpdatedAt": "2015-05-24T04:51:19+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 265
   },
   {
     "Id": 53,
@@ -845,7 +897,8 @@
     "OperationalTo": null,
     "Capacity": 350,
     "LastUpdatedAt": "2017-02-10T23:55:57+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 55
   },
   {
     "Id": 54,
@@ -861,7 +914,8 @@
     "OperationalTo": null,
     "Capacity": 350,
     "LastUpdatedAt": "2017-02-10T23:56:05+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 57
   },
   {
     "Id": 55,
@@ -877,7 +931,8 @@
     "OperationalTo": "2011-08-06",
     "Capacity": 1146,
     "LastUpdatedAt": "2015-05-24T04:50:42+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 85
   },
   {
     "Id": 56,
@@ -893,7 +948,8 @@
     "OperationalTo": "2011-08-06",
     "Capacity": 1178,
     "LastUpdatedAt": "2015-05-24T04:50:42+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 91
   },
   {
     "Id": 57,
@@ -909,7 +965,8 @@
     "OperationalTo": "1997-08-29",
     "Capacity": 72,
     "LastUpdatedAt": "2015-05-24T04:51:41+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 601
   },
   {
     "Id": 58,
@@ -925,7 +982,8 @@
     "OperationalTo": "2019-01-14",
     "Capacity": 11,
     "LastUpdatedAt": "2019-06-02T20:18:07+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 467
   },
   {
     "Id": 59,
@@ -941,7 +999,8 @@
     "OperationalTo": null,
     "Capacity": 11,
     "LastUpdatedAt": "2015-05-24T04:51:32+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 468
   },
   {
     "Id": 60,
@@ -957,7 +1016,8 @@
     "OperationalTo": null,
     "Capacity": 11,
     "LastUpdatedAt": "2015-05-24T04:51:32+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 469
   },
   {
     "Id": 61,
@@ -973,7 +1033,8 @@
     "OperationalTo": null,
     "Capacity": 11,
     "LastUpdatedAt": "2015-05-24T04:51:33+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 470
   },
   {
     "Id": 62,
@@ -989,7 +1050,8 @@
     "OperationalTo": null,
     "Capacity": 910,
     "LastUpdatedAt": "2015-05-24T04:50:53+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 187
   },
   {
     "Id": 63,
@@ -1005,7 +1067,8 @@
     "OperationalTo": null,
     "Capacity": 910,
     "LastUpdatedAt": "2015-05-24T04:50:54+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 188
   },
   {
     "Id": 64,
@@ -1021,7 +1084,8 @@
     "OperationalTo": null,
     "Capacity": 910,
     "LastUpdatedAt": "2015-05-24T04:50:54+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 189
   },
   {
     "Id": 65,
@@ -1037,7 +1101,8 @@
     "OperationalTo": null,
     "Capacity": 910,
     "LastUpdatedAt": "2015-05-24T04:50:54+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 190
   },
   {
     "Id": 66,
@@ -1053,7 +1118,8 @@
     "OperationalTo": "2006-12-31",
     "Capacity": 408,
     "LastUpdatedAt": "2015-05-24T04:51:38+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 548
   },
   {
     "Id": 67,
@@ -1069,7 +1135,8 @@
     "OperationalTo": "2008-12-31",
     "Capacity": 408,
     "LastUpdatedAt": "2015-05-24T04:51:38+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 549
   },
   {
     "Id": 68,
@@ -1085,7 +1152,8 @@
     "OperationalTo": null,
     "Capacity": 408,
     "LastUpdatedAt": "2015-05-24T04:51:38+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 546
   },
   {
     "Id": 69,
@@ -1101,7 +1169,8 @@
     "OperationalTo": null,
     "Capacity": 408,
     "LastUpdatedAt": "2015-05-24T04:51:38+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 547
   },
   {
     "Id": 70,
@@ -1117,7 +1186,8 @@
     "OperationalTo": "1977-02-22",
     "Capacity": 110,
     "LastUpdatedAt": "2015-05-24T04:51:38+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 543
   },
   {
     "Id": 71,
@@ -1133,7 +1203,8 @@
     "OperationalTo": "1968-06-01",
     "Capacity": 17,
     "LastUpdatedAt": "2015-05-24T04:51:48+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 703
   },
   {
     "Id": 72,
@@ -1149,7 +1220,8 @@
     "OperationalTo": null,
     "Capacity": 495,
     "LastUpdatedAt": "2017-02-10T23:57:03+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 423
   },
   {
     "Id": 73,
@@ -1165,7 +1237,8 @@
     "OperationalTo": "1987-06-30",
     "Capacity": 11,
     "LastUpdatedAt": "2015-05-24T04:50:07+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 8
   },
   {
     "Id": 74,
@@ -1181,7 +1254,8 @@
     "OperationalTo": "2002-03-31",
     "Capacity": 150,
     "LastUpdatedAt": "2015-05-24T04:51:19+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 266
   },
   {
     "Id": 75,
@@ -1197,7 +1271,8 @@
     "OperationalTo": "2002-03-30",
     "Capacity": 150,
     "LastUpdatedAt": "2015-05-24T04:51:19+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 267
   },
   {
     "Id": 76,
@@ -1213,7 +1288,8 @@
     "OperationalTo": null,
     "Capacity": 1120,
     "LastUpdatedAt": "2017-02-10T23:59:18+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 737
   },
   {
     "Id": 77,
@@ -1229,7 +1305,8 @@
     "OperationalTo": null,
     "Capacity": 1120,
     "LastUpdatedAt": "2017-02-10T23:59:19+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 738
   },
   {
     "Id": 78,
@@ -1245,7 +1322,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 79,
@@ -1261,7 +1339,8 @@
     "OperationalTo": null,
     "Capacity": 1307,
     "LastUpdatedAt": "2015-05-24T04:50:46+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 107
   },
   {
     "Id": 80,
@@ -1277,7 +1356,8 @@
     "OperationalTo": null,
     "Capacity": 1065,
     "LastUpdatedAt": "2015-05-24T04:51:42+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 617
   },
   {
     "Id": 81,
@@ -1293,7 +1373,8 @@
     "OperationalTo": null,
     "Capacity": 1065,
     "LastUpdatedAt": "2015-05-24T04:51:42+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 618
   },
   {
     "Id": 82,
@@ -1309,7 +1390,8 @@
     "OperationalTo": null,
     "Capacity": 1065,
     "LastUpdatedAt": "2015-05-24T04:51:43+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 641
   },
   {
     "Id": 83,
@@ -1325,7 +1407,8 @@
     "OperationalTo": null,
     "Capacity": 732,
     "LastUpdatedAt": "2015-05-24T04:50:37+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 53
   },
   {
     "Id": 84,
@@ -1341,7 +1424,8 @@
     "OperationalTo": null,
     "Capacity": 732,
     "LastUpdatedAt": "2017-09-25T03:19:26+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 54
   },
   {
     "Id": 85,
@@ -1357,7 +1441,8 @@
     "OperationalTo": null,
     "Capacity": 750,
     "LastUpdatedAt": "2015-05-24T04:50:21+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 30
   },
   {
     "Id": 86,
@@ -1373,7 +1458,8 @@
     "OperationalTo": null,
     "Capacity": 750,
     "LastUpdatedAt": "2015-05-24T04:50:21+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 31
   },
   {
     "Id": 87,
@@ -1389,7 +1475,8 @@
     "OperationalTo": null,
     "Capacity": 822,
     "LastUpdatedAt": "2015-05-24T04:50:24+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 38
   },
   {
     "Id": 88,
@@ -1405,7 +1492,8 @@
     "OperationalTo": null,
     "Capacity": 822,
     "LastUpdatedAt": "2015-05-24T04:50:24+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 39
   },
   {
     "Id": 89,
@@ -1421,7 +1509,8 @@
     "OperationalTo": null,
     "Capacity": 822,
     "LastUpdatedAt": "2015-05-24T04:50:24+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 41
   },
   {
     "Id": 90,
@@ -1437,7 +1526,8 @@
     "OperationalTo": null,
     "Capacity": 795,
     "LastUpdatedAt": "2015-05-24T04:50:25+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 42
   },
   {
     "Id": 91,
@@ -1453,7 +1543,8 @@
     "OperationalTo": "2011-08-06",
     "Capacity": 770,
     "LastUpdatedAt": "2015-05-24T04:50:42+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 86
   },
   {
     "Id": 92,
@@ -1469,7 +1560,8 @@
     "OperationalTo": null,
     "Capacity": 821,
     "LastUpdatedAt": "2015-05-24T04:51:46+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 662
   },
   {
     "Id": 93,
@@ -1485,7 +1577,8 @@
     "OperationalTo": null,
     "Capacity": 821,
     "LastUpdatedAt": "2015-05-24T04:51:46+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 661
   },
   {
     "Id": 94,
@@ -1501,7 +1594,8 @@
     "OperationalTo": "1994-05-27",
     "Capacity": 540,
     "LastUpdatedAt": "2015-05-24T04:51:08+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 230
   },
   {
     "Id": 95,
@@ -1517,7 +1611,8 @@
     "OperationalTo": null,
     "Capacity": 920,
     "LastUpdatedAt": "2015-05-24T04:50:51+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 165
   },
   {
     "Id": 96,
@@ -1533,7 +1628,8 @@
     "OperationalTo": null,
     "Capacity": 920,
     "LastUpdatedAt": "2015-05-24T04:50:51+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 166
   },
   {
     "Id": 97,
@@ -1549,7 +1645,8 @@
     "OperationalTo": null,
     "Capacity": 900,
     "LastUpdatedAt": "2015-05-24T04:50:51+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 167
   },
   {
     "Id": 98,
@@ -1565,7 +1662,8 @@
     "OperationalTo": null,
     "Capacity": 900,
     "LastUpdatedAt": "2015-05-24T04:50:51+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 168
   },
   {
     "Id": 99,
@@ -1581,7 +1679,8 @@
     "OperationalTo": null,
     "Capacity": 915,
     "LastUpdatedAt": "2015-05-24T04:51:26+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 310
   },
   {
     "Id": 100,
@@ -1597,7 +1696,8 @@
     "OperationalTo": null,
     "Capacity": 974,
     "LastUpdatedAt": "2020-04-18T04:46:52+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 311
   },
   {
     "Id": 101,
@@ -1613,7 +1713,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 102,
@@ -1629,7 +1730,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 103,
@@ -1645,7 +1747,8 @@
     "OperationalTo": null,
     "Capacity": 1120,
     "LastUpdatedAt": "2017-02-10T23:59:17+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 735
   },
   {
     "Id": 104,
@@ -1661,7 +1764,8 @@
     "OperationalTo": null,
     "Capacity": 1120,
     "LastUpdatedAt": "2017-02-10T23:59:18+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 736
   },
   {
     "Id": 105,
@@ -1677,7 +1781,8 @@
     "OperationalTo": "2003-03-31",
     "Capacity": 35,
     "LastUpdatedAt": "2015-05-24T04:51:09+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 231
   },
   {
     "Id": 106,
@@ -1693,7 +1798,8 @@
     "OperationalTo": "2003-03-31",
     "Capacity": 35,
     "LastUpdatedAt": "2015-05-24T04:51:09+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 232
   },
   {
     "Id": 107,
@@ -1709,7 +1815,8 @@
     "OperationalTo": "2003-03-31",
     "Capacity": 35,
     "LastUpdatedAt": "2015-05-24T04:51:10+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 233
   },
   {
     "Id": 108,
@@ -1725,7 +1832,8 @@
     "OperationalTo": "2003-03-31",
     "Capacity": 35,
     "LastUpdatedAt": "2015-05-24T04:51:10+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 234
   },
   {
     "Id": 109,
@@ -1741,7 +1849,8 @@
     "OperationalTo": null,
     "Capacity": 1171,
     "LastUpdatedAt": "2017-02-10T23:59:20+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 752
   },
   {
     "Id": 110,
@@ -1757,7 +1866,8 @@
     "OperationalTo": null,
     "Capacity": 845,
     "LastUpdatedAt": "2017-02-10T23:58:35+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 655
   },
   {
     "Id": 111,
@@ -1773,7 +1883,8 @@
     "OperationalTo": null,
     "Capacity": 845,
     "LastUpdatedAt": "2017-02-10T23:58:36+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 656
   },
   {
     "Id": 112,
@@ -1789,7 +1900,8 @@
     "OperationalTo": "1990-07-01",
     "Capacity": 840,
     "LastUpdatedAt": "2015-05-24T04:51:26+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 327
   },
   {
     "Id": 113,
@@ -1805,7 +1917,8 @@
     "OperationalTo": null,
     "Capacity": 25,
     "LastUpdatedAt": "2015-05-24T04:54:13+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 1055
   },
   {
     "Id": 114,
@@ -1821,7 +1934,8 @@
     "OperationalTo": "1967-01-10",
     "Capacity": 17,
     "LastUpdatedAt": "2017-02-10T23:57:39+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 600
   },
   {
     "Id": 115,
@@ -1837,7 +1951,8 @@
     "OperationalTo": null,
     "Capacity": 1145,
     "LastUpdatedAt": "2017-02-10T23:59:13+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 713
   },
   {
     "Id": 116,
@@ -1853,7 +1968,8 @@
     "OperationalTo": null,
     "Capacity": 1145,
     "LastUpdatedAt": "2017-02-10T23:59:14+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 714
   },
   {
     "Id": 117,
@@ -1869,7 +1985,8 @@
     "OperationalTo": null,
     "Capacity": 1300,
     "LastUpdatedAt": "2015-05-24T04:51:01+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 207
   },
   {
     "Id": 118,
@@ -1885,7 +2002,8 @@
     "OperationalTo": null,
     "Capacity": 1300,
     "LastUpdatedAt": "2015-05-24T04:51:02+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 210
   },
   {
     "Id": 119,
@@ -1901,7 +2019,8 @@
     "OperationalTo": null,
     "Capacity": 1300,
     "LastUpdatedAt": "2015-05-24T04:51:04+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 218
   },
   {
     "Id": 120,
@@ -1917,7 +2036,8 @@
     "OperationalTo": null,
     "Capacity": 1300,
     "LastUpdatedAt": "2015-05-24T04:51:06+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 223
   },
   {
     "Id": 121,
@@ -1933,7 +2053,8 @@
     "OperationalTo": null,
     "Capacity": 20,
     "LastUpdatedAt": "2015-05-24T04:51:58+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 1047
   },
   {
     "Id": 122,
@@ -1949,7 +2070,8 @@
     "OperationalTo": null,
     "Capacity": 650,
     "LastUpdatedAt": "2015-05-24T04:51:31+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 442
   },
   {
     "Id": 123,
@@ -1965,7 +2087,8 @@
     "OperationalTo": null,
     "Capacity": 650,
     "LastUpdatedAt": "2019-06-02T20:18:16+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 443
   },
   {
     "Id": 124,
@@ -1981,7 +2104,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 125,
@@ -1997,7 +2121,8 @@
     "OperationalTo": null,
     "Capacity": 601,
     "LastUpdatedAt": "2017-09-25T03:20:42+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 939
   },
   {
     "Id": 126,
@@ -2013,7 +2138,8 @@
     "OperationalTo": null,
     "Capacity": 601,
     "LastUpdatedAt": "2017-09-25T03:20:43+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 940
   },
   {
     "Id": 127,
@@ -2029,7 +2155,8 @@
     "OperationalTo": "2004-06-29",
     "Capacity": 35,
     "LastUpdatedAt": "2015-05-24T04:51:17+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 252
   },
   {
     "Id": 128,
@@ -2045,7 +2172,8 @@
     "OperationalTo": "2004-06-29",
     "Capacity": 35,
     "LastUpdatedAt": "2015-05-24T04:51:18+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 253
   },
   {
     "Id": 129,
@@ -2061,7 +2189,8 @@
     "OperationalTo": "2004-06-29",
     "Capacity": 35,
     "LastUpdatedAt": "2015-05-24T04:51:18+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 254
   },
   {
     "Id": 130,
@@ -2077,7 +2206,8 @@
     "OperationalTo": "2004-06-29",
     "Capacity": 35,
     "LastUpdatedAt": "2015-05-24T04:51:18+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 255
   },
   {
     "Id": 131,
@@ -2093,7 +2223,8 @@
     "OperationalTo": null,
     "Capacity": 300,
     "LastUpdatedAt": "2015-05-24T04:51:31+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 428
   },
   {
     "Id": 132,
@@ -2109,7 +2240,8 @@
     "OperationalTo": null,
     "Capacity": 300,
     "LastUpdatedAt": "2015-05-24T04:51:31+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 429
   },
   {
     "Id": 133,
@@ -2125,7 +2257,8 @@
     "OperationalTo": null,
     "Capacity": 315,
     "LastUpdatedAt": "2017-09-25T03:20:45+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 1044
   },
   {
     "Id": 134,
@@ -2141,7 +2274,8 @@
     "OperationalTo": null,
     "Capacity": 313,
     "LastUpdatedAt": "2018-03-10T14:53:16+02:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 1045
   },
   {
     "Id": 135,
@@ -2157,7 +2291,8 @@
     "OperationalTo": "1996-11-30",
     "Capacity": 925,
     "LastUpdatedAt": "2015-05-24T04:51:39+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 568
   },
   {
     "Id": 136,
@@ -2173,7 +2308,8 @@
     "OperationalTo": "1991-10-11",
     "Capacity": 925,
     "LastUpdatedAt": "2015-05-24T04:51:39+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 569
   },
   {
     "Id": 137,
@@ -2189,7 +2325,8 @@
     "OperationalTo": "2000-12-15",
     "Capacity": 925,
     "LastUpdatedAt": "2015-05-24T04:51:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 575
   },
   {
     "Id": 138,
@@ -2205,7 +2342,8 @@
     "OperationalTo": "1986-04-26",
     "Capacity": 925,
     "LastUpdatedAt": "2015-05-24T04:51:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 576
   },
   {
     "Id": 139,
@@ -2221,7 +2359,8 @@
     "OperationalTo": "2018-12-06",
     "Capacity": 604,
     "LastUpdatedAt": "2019-06-02T20:18:27+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 554
   },
   {
     "Id": 140,
@@ -2237,7 +2376,8 @@
     "OperationalTo": "2019-07-16",
     "Capacity": 604,
     "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 555
   },
   {
     "Id": 141,
@@ -2253,7 +2393,8 @@
     "OperationalTo": "1973-04-16",
     "Capacity": 68,
     "LastUpdatedAt": "2015-05-24T04:50:52+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 173
   },
   {
     "Id": 142,
@@ -2269,7 +2410,8 @@
     "OperationalTo": "1985-06-14",
     "Capacity": 170,
     "LastUpdatedAt": "2015-05-24T04:50:53+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 184
   },
   {
     "Id": 143,
@@ -2285,7 +2427,8 @@
     "OperationalTo": "1990-06-15",
     "Capacity": 480,
     "LastUpdatedAt": "2015-05-24T04:50:58+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 195
   },
   {
     "Id": 144,
@@ -2301,7 +2444,8 @@
     "OperationalTo": null,
     "Capacity": 870,
     "LastUpdatedAt": "2015-05-24T04:50:58+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 196
   },
   {
     "Id": 145,
@@ -2317,7 +2461,8 @@
     "OperationalTo": null,
     "Capacity": 870,
     "LastUpdatedAt": "2015-05-24T04:50:59+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 197
   },
   {
     "Id": 146,
@@ -2333,7 +2478,8 @@
     "OperationalTo": null,
     "Capacity": 905,
     "LastUpdatedAt": "2015-05-24T04:51:03+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 213
   },
   {
     "Id": 147,
@@ -2349,7 +2495,8 @@
     "OperationalTo": null,
     "Capacity": 905,
     "LastUpdatedAt": "2015-05-24T04:51:03+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 214
   },
   {
     "Id": 148,
@@ -2365,7 +2512,8 @@
     "OperationalTo": "1991-10-30",
     "Capacity": 280,
     "LastUpdatedAt": "2015-05-24T04:51:01+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 206
   },
   {
     "Id": 149,
@@ -2381,7 +2529,8 @@
     "OperationalTo": null,
     "Capacity": 1455,
     "LastUpdatedAt": "2015-05-24T04:51:04+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 220
   },
   {
     "Id": 150,
@@ -2397,7 +2546,8 @@
     "OperationalTo": null,
     "Capacity": 1455,
     "LastUpdatedAt": "2015-05-24T04:51:06+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 226
   },
   {
     "Id": 151,
@@ -2413,7 +2563,8 @@
     "OperationalTo": null,
     "Capacity": 1450,
     "LastUpdatedAt": "2015-05-24T04:51:07+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 227
   },
   {
     "Id": 152,
@@ -2429,7 +2580,8 @@
     "OperationalTo": null,
     "Capacity": 1450,
     "LastUpdatedAt": "2015-05-24T04:51:07+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 228
   },
   {
     "Id": 153,
@@ -2445,7 +2597,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:49+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 742
   },
   {
     "Id": 154,
@@ -2461,7 +2614,8 @@
     "OperationalTo": null,
     "Capacity": 939,
     "LastUpdatedAt": "2017-02-10T23:56:09+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 140
   },
   {
     "Id": 155,
@@ -2477,7 +2631,8 @@
     "OperationalTo": null,
     "Capacity": 1100,
     "LastUpdatedAt": "2015-05-24T04:51:48+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 702
   },
   {
     "Id": 156,
@@ -2493,7 +2648,8 @@
     "OperationalTo": null,
     "Capacity": 1150,
     "LastUpdatedAt": "2017-02-10T23:59:17+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 729
   },
   {
     "Id": 157,
@@ -2509,7 +2665,8 @@
     "OperationalTo": null,
     "Capacity": 1150,
     "LastUpdatedAt": "2017-02-10T23:59:17+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 730
   },
   {
     "Id": 158,
@@ -2525,7 +2682,8 @@
     "OperationalTo": null,
     "Capacity": 778,
     "LastUpdatedAt": "2015-05-24T04:51:43+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 642
   },
   {
     "Id": 159,
@@ -2541,7 +2699,8 @@
     "OperationalTo": null,
     "Capacity": 880,
     "LastUpdatedAt": "2015-05-24T04:50:59+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 198
   },
   {
     "Id": 160,
@@ -2557,7 +2716,8 @@
     "OperationalTo": null,
     "Capacity": 915,
     "LastUpdatedAt": "2015-05-24T04:50:59+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 199
   },
   {
     "Id": 161,
@@ -2573,7 +2733,8 @@
     "OperationalTo": null,
     "Capacity": 880,
     "LastUpdatedAt": "2015-05-24T04:50:59+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 200
   },
   {
     "Id": 162,
@@ -2589,7 +2750,8 @@
     "OperationalTo": null,
     "Capacity": 880,
     "LastUpdatedAt": "2015-05-24T04:51:00+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 201
   },
   {
     "Id": 163,
@@ -2605,7 +2767,8 @@
     "OperationalTo": "2013-02-05",
     "Capacity": 825,
     "LastUpdatedAt": "2017-02-10T23:58:22+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 645
   },
   {
     "Id": 164,
@@ -2621,7 +2784,8 @@
     "OperationalTo": null,
     "Capacity": 890,
     "LastUpdatedAt": "2015-05-24T04:50:53+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 176
   },
   {
     "Id": 165,
@@ -2637,7 +2801,8 @@
     "OperationalTo": null,
     "Capacity": 890,
     "LastUpdatedAt": "2015-05-24T04:50:53+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 183
   },
   {
     "Id": 166,
@@ -2653,7 +2818,8 @@
     "OperationalTo": null,
     "Capacity": 890,
     "LastUpdatedAt": "2015-05-24T04:50:53+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 185
   },
   {
     "Id": 167,
@@ -2669,7 +2835,8 @@
     "OperationalTo": null,
     "Capacity": 890,
     "LastUpdatedAt": "2015-05-24T04:50:53+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 186
   },
   {
     "Id": 168,
@@ -2685,7 +2852,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "wikipedia"
+    "Source": "wikipedia",
+    "IAEAId": null
   },
   {
     "Id": 169,
@@ -2701,7 +2869,8 @@
     "OperationalTo": null,
     "Capacity": 881,
     "LastUpdatedAt": "2015-05-24T04:50:25+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 43
   },
   {
     "Id": 170,
@@ -2717,7 +2886,8 @@
     "OperationalTo": null,
     "Capacity": 881,
     "LastUpdatedAt": "2015-05-24T04:50:26+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 44
   },
   {
     "Id": 171,
@@ -2733,7 +2903,8 @@
     "OperationalTo": null,
     "Capacity": 881,
     "LastUpdatedAt": "2015-05-24T04:50:26+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 45
   },
   {
     "Id": 172,
@@ -2749,7 +2920,8 @@
     "OperationalTo": null,
     "Capacity": 881,
     "LastUpdatedAt": "2015-05-24T04:50:26+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 46
   },
   {
     "Id": 173,
@@ -2765,7 +2937,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 174,
@@ -2781,7 +2954,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 175,
@@ -2797,7 +2971,8 @@
     "OperationalTo": null,
     "Capacity": 906,
     "LastUpdatedAt": "2017-02-10T23:58:51+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 676
   },
   {
     "Id": 176,
@@ -2813,7 +2988,8 @@
     "OperationalTo": null,
     "Capacity": 930,
     "LastUpdatedAt": "2015-05-24T04:50:39+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 63
   },
   {
     "Id": 177,
@@ -2829,7 +3005,8 @@
     "OperationalTo": null,
     "Capacity": 930,
     "LastUpdatedAt": "2015-05-24T04:50:39+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 64
   },
   {
     "Id": 178,
@@ -2845,7 +3022,8 @@
     "OperationalTo": null,
     "Capacity": 1084,
     "LastUpdatedAt": "2017-02-10T23:58:09+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 628
   },
   {
     "Id": 179,
@@ -2861,7 +3039,8 @@
     "OperationalTo": null,
     "Capacity": 1106,
     "LastUpdatedAt": "2017-02-10T23:58:39+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 660
   },
   {
     "Id": 180,
@@ -2877,7 +3056,8 @@
     "OperationalTo": null,
     "Capacity": 392,
     "LastUpdatedAt": "2017-02-10T23:55:14+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 9
   },
   {
     "Id": 181,
@@ -2893,7 +3073,8 @@
     "OperationalTo": null,
     "Capacity": 392,
     "LastUpdatedAt": "2017-02-10T23:55:28+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 11
   },
   {
     "Id": 182,
@@ -2909,7 +3090,8 @@
     "OperationalTo": null,
     "Capacity": 890,
     "LastUpdatedAt": "2017-02-10T23:55:35+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 12
   },
   {
     "Id": 183,
@@ -2925,7 +3107,8 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "LastUpdatedAt": "2017-02-10T23:55:43+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 14
   },
   {
     "Id": 184,
@@ -2941,7 +3124,8 @@
     "OperationalTo": null,
     "Capacity": 1030,
     "LastUpdatedAt": "2017-02-10T23:58:31+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 653
   },
   {
     "Id": 185,
@@ -2957,7 +3141,8 @@
     "OperationalTo": null,
     "Capacity": 1100,
     "LastUpdatedAt": "2017-02-10T23:58:33+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 654
   },
   {
     "Id": 186,
@@ -2973,7 +3158,8 @@
     "OperationalTo": "1984-05-04",
     "Capacity": 203,
     "LastUpdatedAt": "2015-05-24T04:50:24+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 40
   },
   {
     "Id": 187,
@@ -2989,7 +3175,8 @@
     "OperationalTo": "1977-03-01",
     "Capacity": 14,
     "LastUpdatedAt": "2015-05-24T04:51:14+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 242
   },
   {
     "Id": 188,
@@ -3005,7 +3192,8 @@
     "OperationalTo": "1994-03-31",
     "Capacity": 234,
     "LastUpdatedAt": "2015-05-24T04:51:14+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 243
   },
   {
     "Id": 189,
@@ -3021,7 +3209,8 @@
     "OperationalTo": "1978-10-31",
     "Capacity": 192,
     "LastUpdatedAt": "2015-05-24T04:51:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 597
   },
   {
     "Id": 190,
@@ -3037,7 +3226,8 @@
     "OperationalTo": null,
     "Capacity": 794,
     "LastUpdatedAt": "2015-05-24T04:51:41+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 608
   },
   {
     "Id": 191,
@@ -3053,7 +3243,8 @@
     "OperationalTo": null,
     "Capacity": 794,
     "LastUpdatedAt": "2015-05-24T04:51:41+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 612
   },
   {
     "Id": 192,
@@ -3069,7 +3260,8 @@
     "OperationalTo": null,
     "Capacity": 538,
     "LastUpdatedAt": "2015-05-24T04:51:47+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 667
   },
   {
     "Id": 193,
@@ -3085,7 +3277,8 @@
     "OperationalTo": null,
     "Capacity": 420,
     "LastUpdatedAt": "2015-05-24T04:50:41+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 78
   },
   {
     "Id": 194,
@@ -3101,7 +3294,8 @@
     "OperationalTo": null,
     "Capacity": 420,
     "LastUpdatedAt": "2015-05-24T04:50:42+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 79
   },
   {
     "Id": 195,
@@ -3117,7 +3311,8 @@
     "OperationalTo": null,
     "Capacity": 420,
     "LastUpdatedAt": "2015-05-24T04:50:42+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 80
   },
   {
     "Id": 196,
@@ -3133,7 +3328,8 @@
     "OperationalTo": null,
     "Capacity": 420,
     "LastUpdatedAt": "2015-05-24T04:50:42+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 81
   },
   {
     "Id": 197,
@@ -3149,7 +3345,8 @@
     "OperationalTo": "2006-12-31",
     "Capacity": 275,
     "LastUpdatedAt": "2015-05-24T04:51:20+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 275
   },
   {
     "Id": 198,
@@ -3165,7 +3362,8 @@
     "OperationalTo": "2006-12-31",
     "Capacity": 275,
     "LastUpdatedAt": "2015-05-24T04:51:20+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 276
   },
   {
     "Id": 199,
@@ -3181,7 +3379,8 @@
     "OperationalTo": null,
     "Capacity": 607,
     "LastUpdatedAt": "2015-05-24T04:51:16+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 248
   },
   {
     "Id": 200,
@@ -3197,7 +3396,8 @@
     "OperationalTo": null,
     "Capacity": 607,
     "LastUpdatedAt": "2015-05-24T04:51:16+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 249
   },
   {
     "Id": 201,
@@ -3213,7 +3413,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 202,
@@ -3229,7 +3430,8 @@
     "OperationalTo": "1985-07-31",
     "Capacity": 70,
     "LastUpdatedAt": "2015-05-24T05:20:27+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 217
   },
   {
     "Id": 203,
@@ -3245,7 +3447,8 @@
     "OperationalTo": "1968-02-01",
     "Capacity": 22,
     "LastUpdatedAt": "2015-05-24T04:51:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 596
   },
   {
     "Id": 204,
@@ -3261,7 +3464,8 @@
     "OperationalTo": null,
     "Capacity": 608,
     "LastUpdatedAt": "2020-04-18T04:46:52+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 4
   },
   {
     "Id": 205,
@@ -3277,7 +3481,8 @@
     "OperationalTo": null,
     "Capacity": 1242,
     "LastUpdatedAt": "2015-05-24T04:50:46+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 108
   },
   {
     "Id": 206,
@@ -3293,7 +3498,8 @@
     "OperationalTo": "1990-07-01",
     "Capacity": 247,
     "LastUpdatedAt": "2017-02-10T23:56:19+02:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 326
   },
   {
     "Id": 207,
@@ -3309,7 +3515,8 @@
     "OperationalTo": "1972-11-29",
     "Capacity": 60,
     "LastUpdatedAt": "2017-02-10T23:57:45+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 602
   },
   {
     "Id": 208,
@@ -3325,7 +3532,8 @@
     "OperationalTo": null,
     "Capacity": 1093,
     "LastUpdatedAt": "2015-05-24T04:51:47+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 674
   },
   {
     "Id": 209,
@@ -3341,7 +3549,8 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "LastUpdatedAt": "2019-06-29T22:55:52+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 943
   },
   {
     "Id": 210,
@@ -3357,7 +3566,8 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "LastUpdatedAt": "2017-02-10T23:59:36+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 944
   },
   {
     "Id": 211,
@@ -3373,7 +3583,8 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "LastUpdatedAt": "2015-05-24T04:51:56+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 912
   },
   {
     "Id": 212,
@@ -3389,7 +3600,8 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "LastUpdatedAt": "2015-05-24T04:51:56+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 913
   },
   {
     "Id": 213,
@@ -3405,7 +3617,8 @@
     "OperationalTo": null,
     "Capacity": 829,
     "LastUpdatedAt": "2017-02-10T23:58:52+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 677
   },
   {
     "Id": 214,
@@ -3421,7 +3634,8 @@
     "OperationalTo": null,
     "Capacity": 829,
     "LastUpdatedAt": "2017-02-10T23:58:53+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 686
   },
   {
     "Id": 215,
@@ -3437,7 +3651,8 @@
     "OperationalTo": "2020-02-22",
     "Capacity": 880,
     "LastUpdatedAt": "2020-04-18T04:46:52+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 163
   },
   {
     "Id": 216,
@@ -3453,7 +3668,8 @@
     "OperationalTo": null,
     "Capacity": 880,
     "LastUpdatedAt": "2015-05-24T04:50:51+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 164
   },
   {
     "Id": 217,
@@ -3469,7 +3685,8 @@
     "OperationalTo": null,
     "Capacity": 821,
     "LastUpdatedAt": "2015-05-24T04:51:47+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 668
   },
   {
     "Id": 218,
@@ -3485,7 +3702,8 @@
     "OperationalTo": null,
     "Capacity": 1330,
     "LastUpdatedAt": "2015-05-24T04:51:00+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 202
   },
   {
     "Id": 219,
@@ -3501,7 +3719,8 @@
     "OperationalTo": null,
     "Capacity": 1330,
     "LastUpdatedAt": "2015-05-24T04:51:00+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 203
   },
   {
     "Id": 220,
@@ -3517,7 +3736,8 @@
     "OperationalTo": null,
     "Capacity": 1630,
     "LastUpdatedAt": "2015-05-24T04:51:51+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 873
   },
   {
     "Id": 221,
@@ -3533,7 +3753,8 @@
     "OperationalTo": null,
     "Capacity": 900,
     "LastUpdatedAt": "2018-03-10T14:52:03+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 541
   },
   {
     "Id": 222,
@@ -3549,7 +3770,8 @@
     "OperationalTo": null,
     "Capacity": 900,
     "LastUpdatedAt": "2018-03-10T14:51:47+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 530
   },
   {
     "Id": 223,
@@ -3565,7 +3787,8 @@
     "OperationalTo": null,
     "Capacity": 1050,
     "LastUpdatedAt": "2018-03-10T14:51:53+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 532
   },
   {
     "Id": 224,
@@ -3581,7 +3804,8 @@
     "OperationalTo": "2016-10-24",
     "Capacity": 478,
     "LastUpdatedAt": "2017-02-10T23:58:13+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 634
   },
   {
     "Id": 225,
@@ -3597,7 +3821,8 @@
     "OperationalTo": "1989-08-29",
     "Capacity": 330,
     "LastUpdatedAt": "2015-05-24T04:51:42+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 623
   },
   {
     "Id": 226,
@@ -3613,7 +3838,8 @@
     "OperationalTo": "2003-03-29",
     "Capacity": 148,
     "LastUpdatedAt": "2015-05-24T04:51:28+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 345
   },
   {
     "Id": 227,
@@ -3629,7 +3855,8 @@
     "OperationalTo": "2011-05-19",
     "Capacity": 439,
     "LastUpdatedAt": "2019-06-30T12:49:39+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 377
   },
   {
     "Id": 228,
@@ -3645,7 +3872,8 @@
     "OperationalTo": "2011-05-19",
     "Capacity": 760,
     "LastUpdatedAt": "2019-06-30T12:49:43+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 389
   },
   {
     "Id": 229,
@@ -3661,7 +3889,8 @@
     "OperationalTo": "2011-05-19",
     "Capacity": 760,
     "LastUpdatedAt": "2019-06-30T12:49:48+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 334
   },
   {
     "Id": 230,
@@ -3677,7 +3906,8 @@
     "OperationalTo": "2011-05-19",
     "Capacity": 760,
     "LastUpdatedAt": "2019-06-30T12:49:48+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 340
   },
   {
     "Id": 231,
@@ -3693,7 +3923,8 @@
     "OperationalTo": "2013-12-17",
     "Capacity": 760,
     "LastUpdatedAt": "2019-06-30T12:49:49+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 341
   },
   {
     "Id": 232,
@@ -3709,7 +3940,8 @@
     "OperationalTo": "2013-12-17",
     "Capacity": 1067,
     "LastUpdatedAt": "2019-06-30T12:52:14+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 342
   },
   {
     "Id": 233,
@@ -3725,7 +3957,8 @@
     "OperationalTo": "2019-09-30",
     "Capacity": 1067,
     "LastUpdatedAt": "2020-04-18T04:46:52+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 350
   },
   {
     "Id": 234,
@@ -3741,7 +3974,8 @@
     "OperationalTo": "2019-09-30",
     "Capacity": 1067,
     "LastUpdatedAt": "2020-04-18T04:46:52+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 351
   },
   {
     "Id": 235,
@@ -3757,7 +3991,8 @@
     "OperationalTo": "2019-09-30",
     "Capacity": 1067,
     "LastUpdatedAt": "2020-04-18T04:46:52+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 361
   },
   {
     "Id": 236,
@@ -3773,7 +4008,8 @@
     "OperationalTo": "2019-09-30",
     "Capacity": 1067,
     "LastUpdatedAt": "2020-04-18T04:46:52+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 364
   },
   {
     "Id": 237,
@@ -3789,7 +4025,8 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "LastUpdatedAt": "2016-03-09T18:43:50+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 914
   },
   {
     "Id": 238,
@@ -3805,7 +4042,8 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "LastUpdatedAt": "2016-03-09T18:43:55+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 915
   },
   {
     "Id": 239,
@@ -3821,7 +4059,8 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "LastUpdatedAt": "2017-02-10T23:59:36+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 935
   },
   {
     "Id": 240,
@@ -3837,7 +4076,8 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "LastUpdatedAt": "2018-03-10T14:52:08+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 936
   },
   {
     "Id": 241,
@@ -3853,7 +4093,8 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "LastUpdatedAt": "2016-03-09T18:44:04+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 937
   },
   {
     "Id": 242,
@@ -3869,7 +4110,8 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "LastUpdatedAt": "2016-03-09T18:44:14+02:00",
-    "Source": "WNA/wikipedia/IAEA"
+    "Source": "WNA/wikipedia/IAEA",
+    "IAEAId": 938
   },
   {
     "Id": 243,
@@ -3885,7 +4127,8 @@
     "OperationalTo": "1980-02-02",
     "Capacity": 36,
     "LastUpdatedAt": "2015-05-24T04:50:51+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 172
   },
   {
     "Id": 244,
@@ -3901,7 +4144,8 @@
     "OperationalTo": "1984-06-20",
     "Capacity": 36,
     "LastUpdatedAt": "2015-05-24T04:50:50+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 161
   },
   {
     "Id": 245,
@@ -3917,7 +4161,8 @@
     "OperationalTo": "1982-03-01",
     "Capacity": 150,
     "LastUpdatedAt": "2015-05-24T04:51:26+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 325
   },
   {
     "Id": 246,
@@ -3933,7 +4178,8 @@
     "OperationalTo": "1963-12-09",
     "Capacity": 24,
     "LastUpdatedAt": "2015-05-24T04:51:55+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 893
   },
   {
     "Id": 247,
@@ -3949,7 +4195,8 @@
     "OperationalTo": "2015-04-27",
     "Capacity": 529,
     "LastUpdatedAt": "2015-05-24T04:51:27+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 336
   },
   {
     "Id": 248,
@@ -3965,7 +4212,8 @@
     "OperationalTo": "2019-04-09",
     "Capacity": 529,
     "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 352
   },
   {
     "Id": 249,
@@ -3981,7 +4229,8 @@
     "OperationalTo": null,
     "Capacity": 1127,
     "LastUpdatedAt": "2015-05-24T04:51:29+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 372
   },
   {
     "Id": 250,
@@ -3997,7 +4246,8 @@
     "OperationalTo": null,
     "Capacity": 1127,
     "LastUpdatedAt": "2015-05-24T04:51:29+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 373
   },
   {
     "Id": 251,
@@ -4013,7 +4263,8 @@
     "OperationalTo": "1977-06-01",
     "Capacity": 250,
     "LastUpdatedAt": "2015-05-24T04:50:26+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 47
   },
   {
     "Id": 252,
@@ -4029,7 +4280,8 @@
     "OperationalTo": "2012-12-28",
     "Capacity": 645,
     "LastUpdatedAt": "2015-05-24T04:50:21+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 32
   },
   {
     "Id": 253,
@@ -4045,7 +4297,8 @@
     "OperationalTo": "1997-03-26",
     "Capacity": 54,
     "LastUpdatedAt": "2015-05-24T04:51:31+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 422
   },
   {
     "Id": 254,
@@ -4061,7 +4314,8 @@
     "OperationalTo": null,
     "Capacity": 920,
     "LastUpdatedAt": "2015-05-24T04:50:38+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 58
   },
   {
     "Id": 255,
@@ -4077,7 +4331,8 @@
     "OperationalTo": null,
     "Capacity": 1310,
     "LastUpdatedAt": "2015-05-24T04:51:04+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 219
   },
   {
     "Id": 256,
@@ -4093,7 +4348,8 @@
     "OperationalTo": null,
     "Capacity": 1310,
     "LastUpdatedAt": "2015-05-24T04:51:06+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 224
   },
   {
     "Id": 257,
@@ -4109,7 +4365,8 @@
     "OperationalTo": "2015-06-27",
     "Capacity": 1225,
     "LastUpdatedAt": "2015-08-23T03:28:22+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 97
   },
   {
     "Id": 258,
@@ -4125,7 +4382,8 @@
     "OperationalTo": null,
     "Capacity": 1250,
     "LastUpdatedAt": "2015-05-24T04:51:49+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 715
   },
   {
     "Id": 259,
@@ -4141,7 +4399,8 @@
     "OperationalTo": null,
     "Capacity": 910,
     "LastUpdatedAt": "2015-05-24T04:50:52+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 174
   },
   {
     "Id": 260,
@@ -4157,7 +4416,8 @@
     "OperationalTo": null,
     "Capacity": 910,
     "LastUpdatedAt": "2015-05-24T04:50:52+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 175
   },
   {
     "Id": 261,
@@ -4173,7 +4433,8 @@
     "OperationalTo": null,
     "Capacity": 910,
     "LastUpdatedAt": "2015-05-24T04:50:53+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 181
   },
   {
     "Id": 262,
@@ -4189,7 +4450,8 @@
     "OperationalTo": null,
     "Capacity": 910,
     "LastUpdatedAt": "2015-05-24T04:50:53+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 182
   },
   {
     "Id": 263,
@@ -4205,7 +4467,8 @@
     "OperationalTo": null,
     "Capacity": 910,
     "LastUpdatedAt": "2015-05-24T04:51:01+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 208
   },
   {
     "Id": 264,
@@ -4221,7 +4484,8 @@
     "OperationalTo": null,
     "Capacity": 910,
     "LastUpdatedAt": "2015-05-24T04:51:02+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 209
   },
   {
     "Id": 265,
@@ -4237,7 +4501,8 @@
     "OperationalTo": "1990-02-14",
     "Capacity": 440,
     "LastUpdatedAt": "2015-05-24T04:50:47+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 123
   },
   {
     "Id": 266,
@@ -4253,7 +4518,8 @@
     "OperationalTo": "1990-02-14",
     "Capacity": 408,
     "LastUpdatedAt": "2015-05-24T04:50:47+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 124
   },
   {
     "Id": 267,
@@ -4269,7 +4535,8 @@
     "OperationalTo": "1990-02-28",
     "Capacity": 408,
     "LastUpdatedAt": "2015-05-24T04:50:47+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 125
   },
   {
     "Id": 268,
@@ -4285,7 +4552,8 @@
     "OperationalTo": "1990-07-22",
     "Capacity": 408,
     "LastUpdatedAt": "2015-05-24T04:50:47+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 126
   },
   {
     "Id": 269,
@@ -4301,7 +4569,8 @@
     "OperationalTo": "1989-11-24",
     "Capacity": 408,
     "LastUpdatedAt": "2015-05-24T04:50:47+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 127
   },
   {
     "Id": 270,
@@ -4317,7 +4586,8 @@
     "OperationalTo": null,
     "Capacity": 1289,
     "LastUpdatedAt": "2015-05-24T04:50:46+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 101
   },
   {
     "Id": 271,
@@ -4333,7 +4603,8 @@
     "OperationalTo": "1971-04-20",
     "Capacity": 23,
     "LastUpdatedAt": "2015-05-24T04:54:05+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 134
   },
   {
     "Id": 272,
@@ -4349,7 +4620,8 @@
     "OperationalTo": "1977-01-13",
     "Capacity": 237,
     "LastUpdatedAt": "2015-05-24T04:50:46+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 104
   },
   {
     "Id": 273,
@@ -4365,7 +4637,8 @@
     "OperationalTo": "2017-12-31",
     "Capacity": 1244,
     "LastUpdatedAt": "2018-03-10T14:51:13+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 100
   },
   {
     "Id": 274,
@@ -4381,7 +4654,8 @@
     "OperationalTo": null,
     "Capacity": 1249,
     "LastUpdatedAt": "2015-05-24T04:50:46+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 102
   },
   {
     "Id": 275,
@@ -4397,7 +4671,8 @@
     "OperationalTo": null,
     "Capacity": 700,
     "LastUpdatedAt": "2017-02-10T23:58:01+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 619
   },
   {
     "Id": 276,
@@ -4413,7 +4688,8 @@
     "OperationalTo": "1996-12-05",
     "Capacity": 582,
     "LastUpdatedAt": "2015-05-24T04:51:41+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 605
   },
   {
     "Id": 277,
@@ -4429,7 +4705,8 @@
     "OperationalTo": null,
     "Capacity": 1126,
     "LastUpdatedAt": "2019-06-02T20:18:34+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 908
   },
   {
     "Id": 278,
@@ -4445,7 +4722,8 @@
     "OperationalTo": null,
     "Capacity": 1126,
     "LastUpdatedAt": "2019-06-02T20:18:37+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 909
   },
   {
     "Id": 279,
@@ -4461,7 +4739,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": null
   },
   {
     "Id": 280,
@@ -4477,7 +4756,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": null
   },
   {
     "Id": 281,
@@ -4493,7 +4773,8 @@
     "OperationalTo": "1964-09-01",
     "Capacity": 75,
     "LastUpdatedAt": "2015-08-23T03:28:28+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 891
   },
   {
     "Id": 282,
@@ -4509,7 +4790,8 @@
     "OperationalTo": "2009-01-30",
     "Capacity": 516,
     "LastUpdatedAt": "2015-05-24T04:51:27+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 335
   },
   {
     "Id": 283,
@@ -4525,7 +4807,8 @@
     "OperationalTo": "2009-01-30",
     "Capacity": 814,
     "LastUpdatedAt": "2015-05-24T04:51:28+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 349
   },
   {
     "Id": 284,
@@ -4541,7 +4824,8 @@
     "OperationalTo": null,
     "Capacity": 1056,
     "LastUpdatedAt": "2015-05-24T04:51:29+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 362
   },
   {
     "Id": 285,
@@ -4557,7 +4841,8 @@
     "OperationalTo": null,
     "Capacity": 1092,
     "LastUpdatedAt": "2015-05-24T04:51:29+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 376
   },
   {
     "Id": 286,
@@ -4573,7 +4858,8 @@
     "OperationalTo": null,
     "Capacity": 1325,
     "LastUpdatedAt": "2015-05-24T04:51:50+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 843
   },
   {
     "Id": 287,
@@ -4589,7 +4875,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 288,
@@ -4605,7 +4892,8 @@
     "OperationalTo": null,
     "Capacity": 903,
     "LastUpdatedAt": "2015-05-24T05:20:28+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 411
   },
   {
     "Id": 289,
@@ -4621,7 +4909,8 @@
     "OperationalTo": null,
     "Capacity": 903,
     "LastUpdatedAt": "2017-02-10T23:56:56+02:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 412
   },
   {
     "Id": 290,
@@ -4637,7 +4926,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T05:20:27+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 396
   },
   {
     "Id": 291,
@@ -4653,7 +4943,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T05:20:27+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 397
   },
   {
     "Id": 292,
@@ -4669,7 +4960,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T05:20:28+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 402
   },
   {
     "Id": 293,
@@ -4685,7 +4977,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T05:20:28+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 403
   },
   {
     "Id": 294,
@@ -4701,7 +4994,8 @@
     "OperationalTo": null,
     "Capacity": 903,
     "LastUpdatedAt": "2015-05-24T05:20:28+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 413
   },
   {
     "Id": 295,
@@ -4717,7 +5011,8 @@
     "OperationalTo": null,
     "Capacity": 903,
     "LastUpdatedAt": "2015-05-24T05:20:27+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 395
   },
   {
     "Id": 296,
@@ -4733,7 +5028,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T05:20:28+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 398
   },
   {
     "Id": 297,
@@ -4749,7 +5045,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T05:20:28+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 399
   },
   {
     "Id": 298,
@@ -4765,7 +5062,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T05:20:28+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 404
   },
   {
     "Id": 299,
@@ -4781,7 +5079,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T05:20:28+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 406
   },
   {
     "Id": 300,
@@ -4797,7 +5096,8 @@
     "OperationalTo": null,
     "Capacity": 625,
     "LastUpdatedAt": "2015-05-24T04:51:17+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 250
   },
   {
     "Id": 301,
@@ -4813,7 +5113,8 @@
     "OperationalTo": null,
     "Capacity": 600,
     "LastUpdatedAt": "2015-05-24T04:51:17+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 251
   },
   {
     "Id": 302,
@@ -4829,7 +5130,8 @@
     "OperationalTo": null,
     "Capacity": 777,
     "LastUpdatedAt": "2015-05-24T04:51:44+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 658
   },
   {
     "Id": 303,
@@ -4845,7 +5147,8 @@
     "OperationalTo": null,
     "Capacity": 784,
     "LastUpdatedAt": "2015-05-24T04:51:47+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 687
   },
   {
     "Id": 304,
@@ -4861,7 +5164,8 @@
     "OperationalTo": null,
     "Capacity": 611,
     "LastUpdatedAt": "2015-05-24T04:51:18+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 256
   },
   {
     "Id": 305,
@@ -4877,7 +5181,8 @@
     "OperationalTo": null,
     "Capacity": 611,
     "LastUpdatedAt": "2015-05-24T04:51:18+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 257
   },
   {
     "Id": 306,
@@ -4893,7 +5198,8 @@
     "OperationalTo": null,
     "Capacity": 615,
     "LastUpdatedAt": "2015-05-24T04:51:18+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 259
   },
   {
     "Id": 307,
@@ -4909,7 +5215,8 @@
     "OperationalTo": null,
     "Capacity": 615,
     "LastUpdatedAt": "2015-05-24T04:51:18+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 260
   },
   {
     "Id": 308,
@@ -4925,7 +5232,8 @@
     "OperationalTo": null,
     "Capacity": 1067,
     "LastUpdatedAt": "2015-05-24T04:51:50+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 841
   },
   {
     "Id": 309,
@@ -4941,7 +5249,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 310,
@@ -4957,7 +5266,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 311,
@@ -4973,7 +5283,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 312,
@@ -4989,7 +5300,8 @@
     "OperationalTo": "2000-05-23",
     "Capacity": 250,
     "LastUpdatedAt": "2015-05-24T04:51:19+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 271
   },
   {
     "Id": 313,
@@ -5005,7 +5317,8 @@
     "OperationalTo": "2000-05-23",
     "Capacity": 250,
     "LastUpdatedAt": "2015-05-24T04:51:19+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 272
   },
   {
     "Id": 314,
@@ -5021,7 +5334,8 @@
     "OperationalTo": null,
     "Capacity": 625,
     "LastUpdatedAt": "2015-05-24T04:51:14+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 244
   },
   {
     "Id": 315,
@@ -5037,7 +5351,8 @@
     "OperationalTo": null,
     "Capacity": 625,
     "LastUpdatedAt": "2015-05-24T04:51:15+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 245
   },
   {
     "Id": 316,
@@ -5053,7 +5368,8 @@
     "OperationalTo": null,
     "Capacity": 1630,
     "LastUpdatedAt": "2019-06-02T20:18:41+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 1072
   },
   {
     "Id": 317,
@@ -5069,7 +5385,8 @@
     "OperationalTo": null,
     "Capacity": 1630,
     "LastUpdatedAt": "2020-04-18T04:46:52+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 1073
   },
   {
     "Id": 318,
@@ -5085,7 +5402,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 319,
@@ -5101,7 +5419,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 320,
@@ -5117,7 +5436,8 @@
     "OperationalTo": null,
     "Capacity": 1061,
     "LastUpdatedAt": "2015-08-23T03:28:28+03:00",
-    "Source": "WNA/IAEA/GEO"
+    "Source": "WNA/IAEA/GEO",
+    "IAEAId": 904
   },
   {
     "Id": 321,
@@ -5133,7 +5453,8 @@
     "OperationalTo": null,
     "Capacity": 1061,
     "LastUpdatedAt": "2015-08-23T03:28:28+03:00",
-    "Source": "WNA/IAEA/GEO"
+    "Source": "WNA/IAEA/GEO",
+    "IAEAId": 905
   },
   {
     "Id": 322,
@@ -5149,7 +5470,8 @@
     "OperationalTo": null,
     "Capacity": 1061,
     "LastUpdatedAt": "2017-09-25T03:20:36+03:00",
-    "Source": "WNA/IAEA/GEO"
+    "Source": "WNA/IAEA/GEO",
+    "IAEAId": 906
   },
   {
     "Id": 323,
@@ -5165,7 +5487,8 @@
     "OperationalTo": null,
     "Capacity": 1061,
     "LastUpdatedAt": "2019-06-02T20:18:47+03:00",
-    "Source": "WNA/IAEA/GEO"
+    "Source": "WNA/IAEA/GEO",
+    "IAEAId": 907
   },
   {
     "Id": 324,
@@ -5181,7 +5504,8 @@
     "OperationalTo": null,
     "Capacity": 1061,
     "LastUpdatedAt": "2017-09-25T03:20:44+03:00",
-    "Source": "WNA/IAEA/GEO"
+    "Source": "WNA/IAEA/GEO",
+    "IAEAId": 997
   },
   {
     "Id": 325,
@@ -5197,7 +5521,8 @@
     "OperationalTo": null,
     "Capacity": 1061,
     "LastUpdatedAt": "2017-09-25T03:20:51+03:00",
-    "Source": "WNA/IAEA/GEO"
+    "Source": "WNA/IAEA/GEO",
+    "IAEAId": 998
   },
   {
     "Id": 326,
@@ -5213,7 +5538,8 @@
     "OperationalTo": null,
     "Capacity": 1067,
     "LastUpdatedAt": "2015-05-24T04:51:47+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 680
   },
   {
     "Id": 327,
@@ -5229,7 +5555,8 @@
     "OperationalTo": "1976-07-02",
     "Capacity": 65,
     "LastUpdatedAt": "2015-05-24T04:51:41+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 599
   },
   {
     "Id": 328,
@@ -5245,7 +5572,8 @@
     "OperationalTo": "1990-03-30",
     "Capacity": 150,
     "LastUpdatedAt": "2015-05-24T04:51:19+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 269
   },
   {
     "Id": 329,
@@ -5261,7 +5589,8 @@
     "OperationalTo": "1989-12-31",
     "Capacity": 150,
     "LastUpdatedAt": "2015-05-24T04:51:19+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 270
   },
   {
     "Id": 330,
@@ -5277,7 +5606,8 @@
     "OperationalTo": null,
     "Capacity": 624,
     "LastUpdatedAt": "2015-05-24T04:51:15+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 246
   },
   {
     "Id": 331,
@@ -5293,7 +5623,8 @@
     "OperationalTo": null,
     "Capacity": 624,
     "LastUpdatedAt": "2015-05-24T04:51:16+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 247
   },
   {
     "Id": 332,
@@ -5309,7 +5640,8 @@
     "OperationalTo": "2004-12-31",
     "Capacity": 1500,
     "LastUpdatedAt": "2015-05-24T04:51:31+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 415
   },
   {
     "Id": 333,
@@ -5325,7 +5657,8 @@
     "OperationalTo": "2009-12-31",
     "Capacity": 1500,
     "LastUpdatedAt": "2015-05-24T04:51:31+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 416
   },
   {
     "Id": 334,
@@ -5341,7 +5674,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 335,
@@ -5357,7 +5691,8 @@
     "OperationalTo": "2016-05-10",
     "Capacity": 538,
     "LastUpdatedAt": "2017-02-10T23:56:25+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 348
   },
   {
     "Id": 336,
@@ -5373,7 +5708,8 @@
     "OperationalTo": "2018-05-23",
     "Capacity": 538,
     "LastUpdatedAt": "2019-06-02T20:18:50+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 358
   },
   {
     "Id": 337,
@@ -5389,7 +5725,8 @@
     "OperationalTo": null,
     "Capacity": 846,
     "LastUpdatedAt": "2015-05-24T04:51:29+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 374
   },
   {
     "Id": 338,
@@ -5405,7 +5742,8 @@
     "OperationalTo": "1974-10-31",
     "Capacity": 265,
     "LastUpdatedAt": "2015-05-24T04:51:43+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 643
   },
   {
     "Id": 339,
@@ -5421,7 +5759,8 @@
     "OperationalTo": null,
     "Capacity": 873,
     "LastUpdatedAt": "2017-02-10T23:57:54+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 611
   },
   {
     "Id": 340,
@@ -5437,7 +5776,8 @@
     "OperationalTo": null,
     "Capacity": 965,
     "LastUpdatedAt": "2017-02-10T23:58:17+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 635
   },
   {
     "Id": 341,
@@ -5453,7 +5793,8 @@
     "OperationalTo": "2011-08-06",
     "Capacity": 870,
     "LastUpdatedAt": "2015-05-24T04:50:42+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 89
   },
   {
     "Id": 342,
@@ -5469,7 +5810,8 @@
     "OperationalTo": null,
     "Capacity": 1285,
     "LastUpdatedAt": "2015-05-24T04:50:46+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 106
   },
   {
     "Id": 343,
@@ -5485,7 +5827,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA/wikipedia"
+    "Source": "WNA/wikipedia",
+    "IAEAId": null
   },
   {
     "Id": 344,
@@ -5501,7 +5844,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA/wikipedia"
+    "Source": "WNA/wikipedia",
+    "IAEAId": null
   },
   {
     "Id": 345,
@@ -5517,7 +5861,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 346,
@@ -5533,7 +5878,8 @@
     "OperationalTo": "2006-04-30",
     "Capacity": 153,
     "LastUpdatedAt": "2017-02-10T23:56:06+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 139
   },
   {
     "Id": 347,
@@ -5549,7 +5895,8 @@
     "OperationalTo": "1976-03-18",
     "Capacity": 10,
     "LastUpdatedAt": "2015-05-24T04:51:26+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 333
   },
   {
     "Id": 348,
@@ -5565,7 +5912,8 @@
     "OperationalTo": "1988-12-31",
     "Capacity": 13,
     "LastUpdatedAt": "2015-05-24T04:54:05+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 114
   },
   {
     "Id": 349,
@@ -5581,7 +5929,8 @@
     "OperationalTo": "1985-11-25",
     "Capacity": 15,
     "LastUpdatedAt": "2015-05-24T04:50:42+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 82
   },
   {
     "Id": 350,
@@ -5597,7 +5946,8 @@
     "OperationalTo": null,
     "Capacity": 202,
     "LastUpdatedAt": "2015-05-24T04:54:05+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 289
   },
   {
     "Id": 351,
@@ -5613,7 +5963,8 @@
     "OperationalTo": null,
     "Capacity": 202,
     "LastUpdatedAt": "2015-05-24T04:54:05+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 290
   },
   {
     "Id": 352,
@@ -5629,7 +5980,8 @@
     "OperationalTo": null,
     "Capacity": 202,
     "LastUpdatedAt": "2015-05-24T04:54:05+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 291
   },
   {
     "Id": 353,
@@ -5645,7 +5997,8 @@
     "OperationalTo": null,
     "Capacity": 202,
     "LastUpdatedAt": "2015-05-24T04:54:06+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 292
   },
   {
     "Id": 354,
@@ -5661,7 +6014,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 355,
@@ -5677,7 +6031,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 356,
@@ -5693,7 +6048,8 @@
     "OperationalTo": null,
     "Capacity": 202,
     "LastUpdatedAt": "2015-05-24T04:54:06+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 308
   },
   {
     "Id": 357,
@@ -5709,7 +6065,8 @@
     "OperationalTo": null,
     "Capacity": 202,
     "LastUpdatedAt": "2015-05-24T04:54:05+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 286
   },
   {
     "Id": 358,
@@ -5725,7 +6082,8 @@
     "OperationalTo": null,
     "Capacity": 630,
     "LastUpdatedAt": "2015-05-24T04:51:57+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 986
   },
   {
     "Id": 359,
@@ -5741,7 +6099,8 @@
     "OperationalTo": null,
     "Capacity": 630,
     "LastUpdatedAt": "2015-05-24T04:51:57+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 987
   },
   {
     "Id": 360,
@@ -5757,7 +6116,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:34+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 489
   },
   {
     "Id": 361,
@@ -5773,7 +6133,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:34+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 490
   },
   {
     "Id": 362,
@@ -5789,7 +6150,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:34+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 495
   },
   {
     "Id": 363,
@@ -5805,7 +6167,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:35+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 496
   },
   {
     "Id": 364,
@@ -5821,7 +6184,8 @@
     "OperationalTo": null,
     "Capacity": 470,
     "LastUpdatedAt": "2015-05-24T04:51:50+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 859
   },
   {
     "Id": 365,
@@ -5837,7 +6201,8 @@
     "OperationalTo": null,
     "Capacity": 202,
     "LastUpdatedAt": "2015-05-24T04:54:06+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 304
   },
   {
     "Id": 366,
@@ -5853,7 +6218,8 @@
     "OperationalTo": null,
     "Capacity": 202,
     "LastUpdatedAt": "2015-05-24T04:54:06+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 305
   },
   {
     "Id": 367,
@@ -5869,7 +6235,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 368,
@@ -5885,7 +6252,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 369,
@@ -5901,7 +6269,8 @@
     "OperationalTo": null,
     "Capacity": 125,
     "LastUpdatedAt": "2015-05-24T04:51:31+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 427
   },
   {
     "Id": 370,
@@ -5917,7 +6286,8 @@
     "OperationalTo": "1984-05-03",
     "Capacity": 50,
     "LastUpdatedAt": "2015-05-24T04:50:44+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 93
   },
   {
     "Id": 371,
@@ -5933,7 +6303,8 @@
     "OperationalTo": null,
     "Capacity": 1067,
     "LastUpdatedAt": "2015-05-24T04:51:28+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 359
   },
   {
     "Id": 372,
@@ -5949,7 +6320,8 @@
     "OperationalTo": null,
     "Capacity": 1067,
     "LastUpdatedAt": "2015-05-24T04:51:29+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 365
   },
   {
     "Id": 373,
@@ -5965,7 +6337,8 @@
     "OperationalTo": null,
     "Capacity": 1067,
     "LastUpdatedAt": "2015-05-24T04:51:30+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 380
   },
   {
     "Id": 374,
@@ -5981,7 +6354,8 @@
     "OperationalTo": null,
     "Capacity": 1067,
     "LastUpdatedAt": "2015-05-24T04:51:30+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 381
   },
   {
     "Id": 375,
@@ -5997,7 +6371,8 @@
     "OperationalTo": null,
     "Capacity": 1067,
     "LastUpdatedAt": "2015-05-24T04:51:29+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 367
   },
   {
     "Id": 376,
@@ -6013,7 +6388,8 @@
     "OperationalTo": null,
     "Capacity": 1315,
     "LastUpdatedAt": "2015-05-24T04:51:30+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 383
   },
   {
     "Id": 377,
@@ -6029,7 +6405,8 @@
     "OperationalTo": null,
     "Capacity": 1315,
     "LastUpdatedAt": "2015-05-24T04:51:30+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 384
   },
   {
     "Id": 378,
@@ -6045,7 +6422,8 @@
     "OperationalTo": "2013-05-07",
     "Capacity": 535,
     "LastUpdatedAt": "2017-02-10T23:58:26+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 647
   },
   {
     "Id": 379,
@@ -6061,7 +6439,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 573
   },
   {
     "Id": 380,
@@ -6077,7 +6456,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 574
   },
   {
     "Id": 381,
@@ -6093,7 +6473,8 @@
     "OperationalTo": null,
     "Capacity": 1035,
     "LastUpdatedAt": "2017-09-25T03:20:02+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 581
   },
   {
     "Id": 382,
@@ -6109,7 +6490,8 @@
     "OperationalTo": null,
     "Capacity": 1035,
     "LastUpdatedAt": "2017-09-25T03:20:09+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 582
   },
   {
     "Id": 383,
@@ -6125,7 +6507,8 @@
     "OperationalTo": "1991-08-23",
     "Capacity": 18,
     "LastUpdatedAt": "2015-05-24T04:50:48+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 135
   },
   {
     "Id": 384,
@@ -6141,7 +6524,8 @@
     "OperationalTo": null,
     "Capacity": 921,
     "LastUpdatedAt": "2015-05-24T04:51:50+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 836
   },
   {
     "Id": 385,
@@ -6157,7 +6541,8 @@
     "OperationalTo": null,
     "Capacity": 921,
     "LastUpdatedAt": "2015-05-24T04:51:50+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 837
   },
   {
     "Id": 386,
@@ -6173,7 +6558,8 @@
     "OperationalTo": null,
     "Capacity": 411,
     "LastUpdatedAt": "2015-05-24T04:51:32+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 453
   },
   {
     "Id": 387,
@@ -6189,7 +6575,8 @@
     "OperationalTo": null,
     "Capacity": 411,
     "LastUpdatedAt": "2015-05-24T04:51:32+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 460
   },
   {
     "Id": 388,
@@ -6205,7 +6592,8 @@
     "OperationalTo": null,
     "Capacity": 411,
     "LastUpdatedAt": "2015-05-24T04:51:34+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 491
   },
   {
     "Id": 389,
@@ -6221,7 +6609,8 @@
     "OperationalTo": null,
     "Capacity": 411,
     "LastUpdatedAt": "2015-05-24T04:51:34+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 492
   },
   {
     "Id": 390,
@@ -6237,7 +6626,8 @@
     "OperationalTo": "2017-06-18",
     "Capacity": 558,
     "LastUpdatedAt": "2017-09-25T03:19:42+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 394
   },
   {
     "Id": 391,
@@ -6253,7 +6643,8 @@
     "OperationalTo": null,
     "Capacity": 618,
     "LastUpdatedAt": "2017-02-10T23:56:42+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 405
   },
   {
     "Id": 392,
@@ -6269,7 +6660,8 @@
     "OperationalTo": null,
     "Capacity": 1001,
     "LastUpdatedAt": "2015-05-24T04:51:31+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 409
   },
   {
     "Id": 393,
@@ -6285,7 +6677,8 @@
     "OperationalTo": null,
     "Capacity": 903,
     "LastUpdatedAt": "2015-05-24T04:51:31+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 410
   },
   {
     "Id": 394,
@@ -6301,7 +6694,8 @@
     "OperationalTo": "2002-12-31",
     "Capacity": 408,
     "LastUpdatedAt": "2015-05-24T04:50:16+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 16
   },
   {
     "Id": 395,
@@ -6317,7 +6711,8 @@
     "OperationalTo": "2002-12-31",
     "Capacity": 408,
     "LastUpdatedAt": "2015-05-24T04:50:16+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 17
   },
   {
     "Id": 396,
@@ -6333,7 +6728,8 @@
     "OperationalTo": "2006-12-31",
     "Capacity": 408,
     "LastUpdatedAt": "2015-05-24T04:50:17+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 18
   },
   {
     "Id": 397,
@@ -6349,7 +6745,8 @@
     "OperationalTo": "2006-12-31",
     "Capacity": 408,
     "LastUpdatedAt": "2015-05-24T04:50:17+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 19
   },
   {
     "Id": 398,
@@ -6365,7 +6762,8 @@
     "OperationalTo": null,
     "Capacity": 953,
     "LastUpdatedAt": "2015-05-24T04:50:18+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 20
   },
   {
     "Id": 399,
@@ -6381,7 +6779,8 @@
     "OperationalTo": null,
     "Capacity": 1003,
     "LastUpdatedAt": "2020-04-18T04:46:52+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 21
   },
   {
     "Id": 400,
@@ -6397,7 +6796,8 @@
     "OperationalTo": null,
     "Capacity": 632,
     "LastUpdatedAt": "2017-02-10T23:57:25+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 542
   },
   {
     "Id": 401,
@@ -6413,7 +6813,8 @@
     "OperationalTo": "2011-08-06",
     "Capacity": 1260,
     "LastUpdatedAt": "2015-05-24T04:50:44+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 94
   },
   {
     "Id": 402,
@@ -6429,7 +6830,8 @@
     "OperationalTo": null,
     "Capacity": 917,
     "LastUpdatedAt": "2015-05-24T04:51:50+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 852
   },
   {
     "Id": 403,
@@ -6445,7 +6847,8 @@
     "OperationalTo": null,
     "Capacity": 917,
     "LastUpdatedAt": "2017-09-25T03:20:10+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 853
   },
   {
     "Id": 404,
@@ -6461,7 +6864,8 @@
     "OperationalTo": null,
     "Capacity": 917,
     "LastUpdatedAt": "2017-09-25T03:20:58+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 1059
   },
   {
     "Id": 405,
@@ -6477,7 +6881,8 @@
     "OperationalTo": null,
     "Capacity": 917,
     "LastUpdatedAt": "2018-07-01T01:21:38+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 1060
   },
   {
     "Id": 406,
@@ -6493,7 +6898,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 407,
@@ -6509,7 +6915,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 408,
@@ -6525,7 +6932,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 409,
@@ -6541,7 +6949,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 410,
@@ -6557,7 +6966,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 411,
@@ -6573,7 +6983,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 412,
@@ -6589,7 +7000,8 @@
     "OperationalTo": null,
     "Capacity": 948,
     "LastUpdatedAt": "2018-03-10T14:52:04+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 556
   },
   {
     "Id": 413,
@@ -6605,7 +7017,8 @@
     "OperationalTo": null,
     "Capacity": 948,
     "LastUpdatedAt": "2018-03-10T14:52:07+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 557
   },
   {
     "Id": 414,
@@ -6621,7 +7034,8 @@
     "OperationalTo": null,
     "Capacity": 925,
     "LastUpdatedAt": "2015-05-24T04:51:34+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 476
   },
   {
     "Id": 415,
@@ -6637,7 +7051,8 @@
     "OperationalTo": null,
     "Capacity": 925,
     "LastUpdatedAt": "2015-05-24T04:51:34+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 485
   },
   {
     "Id": 416,
@@ -6653,7 +7068,8 @@
     "OperationalTo": null,
     "Capacity": 925,
     "LastUpdatedAt": "2015-05-24T04:51:35+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 497
   },
   {
     "Id": 417,
@@ -6669,7 +7085,8 @@
     "OperationalTo": null,
     "Capacity": 925,
     "LastUpdatedAt": "2015-05-24T04:51:35+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 498
   },
   {
     "Id": 418,
@@ -6685,7 +7102,8 @@
     "OperationalTo": "1987-04-30",
     "Capacity": 50,
     "LastUpdatedAt": "2015-05-24T04:51:48+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 710
   },
   {
     "Id": 419,
@@ -6701,7 +7119,8 @@
     "OperationalTo": null,
     "Capacity": 780,
     "LastUpdatedAt": "2016-07-08T21:12:48+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 420
   },
   {
     "Id": 420,
@@ -6717,7 +7136,8 @@
     "OperationalTo": null,
     "Capacity": 780,
     "LastUpdatedAt": "2016-03-09T18:43:28+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 421
   },
   {
     "Id": 421,
@@ -6733,7 +7153,8 @@
     "OperationalTo": null,
     "Capacity": 1078,
     "LastUpdatedAt": "2015-05-24T04:51:48+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 692
   },
   {
     "Id": 422,
@@ -6749,7 +7170,8 @@
     "OperationalTo": null,
     "Capacity": 1078,
     "LastUpdatedAt": "2015-05-24T04:51:48+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 693
   },
   {
     "Id": 423,
@@ -6765,7 +7187,8 @@
     "OperationalTo": "1987-12-01",
     "Capacity": 200,
     "LastUpdatedAt": "2015-05-24T04:51:26+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 318
   },
   {
     "Id": 424,
@@ -6781,7 +7204,8 @@
     "OperationalTo": null,
     "Capacity": 960,
     "LastUpdatedAt": "2015-05-24T04:50:39+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 59
   },
   {
     "Id": 425,
@@ -6797,7 +7221,8 @@
     "OperationalTo": null,
     "Capacity": 1066,
     "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 900
   },
   {
     "Id": 426,
@@ -6813,7 +7238,8 @@
     "OperationalTo": null,
     "Capacity": 1066,
     "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 901
   },
   {
     "Id": 427,
@@ -6829,7 +7255,8 @@
     "OperationalTo": null,
     "Capacity": 1085,
     "LastUpdatedAt": null,
-    "Source": "wikipedia"
+    "Source": "wikipedia",
+    "IAEAId": null
   },
   {
     "Id": 428,
@@ -6845,7 +7272,8 @@
     "OperationalTo": null,
     "Capacity": 1085,
     "LastUpdatedAt": null,
-    "Source": "wikipedia"
+    "Source": "wikipedia",
+    "IAEAId": null
   },
   {
     "Id": 429,
@@ -6861,7 +7289,8 @@
     "OperationalTo": "2018-12-22",
     "Capacity": 925,
     "LastUpdatedAt": "2019-06-02T20:19:08+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 474
   },
   {
     "Id": 430,
@@ -6877,7 +7306,8 @@
     "OperationalTo": null,
     "Capacity": 925,
     "LastUpdatedAt": "2015-05-24T04:51:34+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 475
   },
   {
     "Id": 431,
@@ -6893,7 +7323,8 @@
     "OperationalTo": null,
     "Capacity": 925,
     "LastUpdatedAt": "2015-05-24T04:51:34+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 493
   },
   {
     "Id": 432,
@@ -6909,7 +7340,8 @@
     "OperationalTo": null,
     "Capacity": 925,
     "LastUpdatedAt": "2015-05-24T04:51:34+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 494
   },
   {
     "Id": 433,
@@ -6925,7 +7357,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 434,
@@ -6941,7 +7374,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 435,
@@ -6957,7 +7391,8 @@
     "OperationalTo": null,
     "Capacity": 1055,
     "LastUpdatedAt": "2015-05-24T04:51:47+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 678
   },
   {
     "Id": 436,
@@ -6973,7 +7408,8 @@
     "OperationalTo": null,
     "Capacity": 1055,
     "LastUpdatedAt": "2015-05-24T04:51:47+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 679
   },
   {
     "Id": 437,
@@ -6989,7 +7425,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:50:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 67
   },
   {
     "Id": 438,
@@ -7005,7 +7442,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:50:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 68
   },
   {
     "Id": 439,
@@ -7021,7 +7459,8 @@
     "OperationalTo": null,
     "Capacity": 1007,
     "LastUpdatedAt": "2015-05-24T04:51:51+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 878
   },
   {
     "Id": 440,
@@ -7037,7 +7476,8 @@
     "OperationalTo": null,
     "Capacity": 1007,
     "LastUpdatedAt": "2015-05-24T04:51:51+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 875
   },
   {
     "Id": 441,
@@ -7053,7 +7493,8 @@
     "OperationalTo": "1977-01-05",
     "Capacity": 240,
     "LastUpdatedAt": "2015-05-24T04:54:05+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 133
   },
   {
     "Id": 442,
@@ -7069,7 +7510,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 443,
@@ -7085,7 +7527,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 444,
@@ -7101,7 +7544,8 @@
     "OperationalTo": null,
     "Capacity": 420,
     "LastUpdatedAt": "2015-05-24T04:50:50+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 157
   },
   {
     "Id": 445,
@@ -7117,7 +7561,8 @@
     "OperationalTo": null,
     "Capacity": 420,
     "LastUpdatedAt": "2015-05-24T04:50:50+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 158
   },
   {
     "Id": 446,
@@ -7133,7 +7578,8 @@
     "OperationalTo": "1969-01-21",
     "Capacity": 6,
     "LastUpdatedAt": "2015-05-24T04:51:57+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 966
   },
   {
     "Id": 447,
@@ -7149,7 +7595,8 @@
     "OperationalTo": null,
     "Capacity": 1300,
     "LastUpdatedAt": "2015-05-24T04:51:39+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 560
   },
   {
     "Id": 448,
@@ -7165,7 +7612,8 @@
     "OperationalTo": null,
     "Capacity": 1300,
     "LastUpdatedAt": "2015-05-24T04:51:39+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 561
   },
   {
     "Id": 449,
@@ -7181,7 +7629,8 @@
     "OperationalTo": null,
     "Capacity": 890,
     "LastUpdatedAt": "2017-02-10T23:57:27+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 558
   },
   {
     "Id": 450,
@@ -7197,7 +7646,8 @@
     "OperationalTo": null,
     "Capacity": 890,
     "LastUpdatedAt": "2017-02-10T23:57:34+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 559
   },
   {
     "Id": 451,
@@ -7213,7 +7663,8 @@
     "OperationalTo": "1997-08-01",
     "Capacity": 825,
     "LastUpdatedAt": "2015-05-24T04:51:44+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 649
   },
   {
     "Id": 452,
@@ -7229,7 +7680,8 @@
     "OperationalTo": null,
     "Capacity": 1180,
     "LastUpdatedAt": "2017-02-10T23:58:55+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 690
   },
   {
     "Id": 453,
@@ -7245,7 +7697,8 @@
     "OperationalTo": null,
     "Capacity": 1180,
     "LastUpdatedAt": "2017-02-10T23:58:55+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 691
   },
   {
     "Id": 454,
@@ -7261,7 +7714,8 @@
     "OperationalTo": "2015-04-27",
     "Capacity": 320,
     "LastUpdatedAt": "2017-02-10T23:56:29+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 366
   },
   {
     "Id": 455,
@@ -7277,7 +7731,8 @@
     "OperationalTo": "2015-04-27",
     "Capacity": 470,
     "LastUpdatedAt": "2015-05-24T04:51:30+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 386
   },
   {
     "Id": 456,
@@ -7293,7 +7748,8 @@
     "OperationalTo": null,
     "Capacity": 780,
     "LastUpdatedAt": "2015-05-24T04:51:27+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 338
   },
   {
     "Id": 457,
@@ -7309,7 +7765,8 @@
     "OperationalTo": "1998-07-01",
     "Capacity": 660,
     "LastUpdatedAt": "2015-05-24T04:51:41+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 610
   },
   {
     "Id": 458,
@@ -7325,7 +7782,8 @@
     "OperationalTo": null,
     "Capacity": 870,
     "LastUpdatedAt": "2017-02-10T23:58:48+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 671
   },
   {
     "Id": 459,
@@ -7341,7 +7799,8 @@
     "OperationalTo": null,
     "Capacity": 1159,
     "LastUpdatedAt": "2017-02-10T23:59:15+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 717
   },
   {
     "Id": 460,
@@ -7357,7 +7816,8 @@
     "OperationalTo": null,
     "Capacity": 408,
     "LastUpdatedAt": "2015-05-24T04:51:38+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 550
   },
   {
     "Id": 461,
@@ -7373,7 +7833,8 @@
     "OperationalTo": null,
     "Capacity": 408,
     "LastUpdatedAt": "2015-05-24T04:51:38+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 551
   },
   {
     "Id": 462,
@@ -7389,7 +7850,8 @@
     "OperationalTo": null,
     "Capacity": 440,
     "LastUpdatedAt": "2015-05-24T04:51:38+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 544
   },
   {
     "Id": 463,
@@ -7405,7 +7867,8 @@
     "OperationalTo": null,
     "Capacity": 440,
     "LastUpdatedAt": "2015-05-24T04:51:38+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 545
   },
   {
     "Id": 464,
@@ -7421,7 +7884,8 @@
     "OperationalTo": "2017-12-05",
     "Capacity": 246,
     "LastUpdatedAt": "2018-03-10T14:51:35+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 357
   },
   {
     "Id": 465,
@@ -7437,7 +7901,8 @@
     "OperationalTo": null,
     "Capacity": 545,
     "LastUpdatedAt": "2017-02-10T23:58:02+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 620
   },
   {
     "Id": 466,
@@ -7453,7 +7918,8 @@
     "OperationalTo": "2019-12-20",
     "Capacity": 306,
     "LastUpdatedAt": "2020-04-18T04:46:52+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 56
   },
   {
     "Id": 467,
@@ -7469,7 +7935,8 @@
     "OperationalTo": "1988-09-09",
     "Capacity": 1219,
     "LastUpdatedAt": "2015-05-24T04:50:45+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 96
   },
   {
     "Id": 468,
@@ -7485,7 +7952,8 @@
     "OperationalTo": null,
     "Capacity": 202,
     "LastUpdatedAt": "2015-05-24T04:54:06+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 306
   },
   {
     "Id": 469,
@@ -7501,7 +7969,8 @@
     "OperationalTo": null,
     "Capacity": 202,
     "LastUpdatedAt": "2015-05-24T04:54:06+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 307
   },
   {
     "Id": 470,
@@ -7517,7 +7986,8 @@
     "OperationalTo": "2011-08-06",
     "Capacity": 805,
     "LastUpdatedAt": "2015-05-24T04:50:42+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 88
   },
   {
     "Id": 471,
@@ -7533,7 +8003,8 @@
     "OperationalTo": null,
     "Capacity": 1225,
     "LastUpdatedAt": "2015-05-24T04:50:46+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 119
   },
   {
     "Id": 472,
@@ -7549,7 +8020,8 @@
     "OperationalTo": "1974-07-31",
     "Capacity": 100,
     "LastUpdatedAt": "2015-05-24T04:54:04+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 84
   },
   {
     "Id": 473,
@@ -7565,7 +8037,8 @@
     "OperationalTo": null,
     "Capacity": 620,
     "LastUpdatedAt": "2015-05-24T04:51:41+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 607
   },
   {
     "Id": 474,
@@ -7581,7 +8054,8 @@
     "OperationalTo": null,
     "Capacity": 1100,
     "LastUpdatedAt": "2015-05-24T04:51:48+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 711
   },
   {
     "Id": 475,
@@ -7597,7 +8071,8 @@
     "OperationalTo": null,
     "Capacity": 1018,
     "LastUpdatedAt": "2015-05-24T04:51:56+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 921
   },
   {
     "Id": 476,
@@ -7613,7 +8088,8 @@
     "OperationalTo": null,
     "Capacity": 1018,
     "LastUpdatedAt": "2015-05-24T04:51:56+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 922
   },
   {
     "Id": 477,
@@ -7629,7 +8105,8 @@
     "OperationalTo": null,
     "Capacity": 1018,
     "LastUpdatedAt": "2015-08-23T03:28:29+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 923
   },
   {
     "Id": 478,
@@ -7645,7 +8122,8 @@
     "OperationalTo": null,
     "Capacity": 1018,
     "LastUpdatedAt": "2016-10-03T22:05:23+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 924
   },
   {
     "Id": 479,
@@ -7661,7 +8139,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA/wikipedia"
+    "Source": "WNA/wikipedia",
+    "IAEAId": null
   },
   {
     "Id": 480,
@@ -7677,7 +8156,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA/wikipedia"
+    "Source": "WNA/wikipedia",
+    "IAEAId": null
   },
   {
     "Id": 481,
@@ -7693,7 +8173,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 482,
@@ -7709,7 +8190,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 483,
@@ -7725,7 +8207,8 @@
     "OperationalTo": null,
     "Capacity": 1310,
     "LastUpdatedAt": "2015-05-24T04:51:03+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 215
   },
   {
     "Id": 484,
@@ -7741,7 +8224,8 @@
     "OperationalTo": null,
     "Capacity": 1310,
     "LastUpdatedAt": "2015-05-24T04:51:03+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 216
   },
   {
     "Id": 485,
@@ -7757,7 +8241,8 @@
     "OperationalTo": null,
     "Capacity": 907,
     "LastUpdatedAt": "2017-02-10T23:58:49+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 672
   },
   {
     "Id": 486,
@@ -7773,7 +8258,8 @@
     "OperationalTo": null,
     "Capacity": 907,
     "LastUpdatedAt": "2017-02-10T23:58:50+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 673
   },
   {
     "Id": 487,
@@ -7789,7 +8275,8 @@
     "OperationalTo": null,
     "Capacity": 1114,
     "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 898
   },
   {
     "Id": 488,
@@ -7805,7 +8292,8 @@
     "OperationalTo": null,
     "Capacity": 1114,
     "LastUpdatedAt": "2020-04-18T04:46:52+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 899
   },
   {
     "Id": 489,
@@ -7821,7 +8309,8 @@
     "OperationalTo": "1988-02-16",
     "Capacity": 197,
     "LastUpdatedAt": "2018-07-01T01:21:51+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 499
   },
   {
     "Id": 490,
@@ -7837,7 +8326,8 @@
     "OperationalTo": "1990-08-29",
     "Capacity": 336,
     "LastUpdatedAt": "2018-07-01T01:21:53+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 513
   },
   {
     "Id": 491,
@@ -7853,7 +8343,8 @@
     "OperationalTo": "2016-12-25",
     "Capacity": 385,
     "LastUpdatedAt": "2017-02-10T23:57:16+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 519
   },
   {
     "Id": 492,
@@ -7869,7 +8360,8 @@
     "OperationalTo": null,
     "Capacity": 385,
     "LastUpdatedAt": "2015-05-24T04:51:32+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 448
   },
   {
     "Id": 493,
@@ -7885,7 +8377,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:34+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 483
   },
   {
     "Id": 494,
@@ -7901,7 +8394,8 @@
     "OperationalTo": "2005-05-11",
     "Capacity": 283,
     "LastUpdatedAt": "2015-05-24T04:50:46+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 121
   },
   {
     "Id": 495,
@@ -7917,7 +8411,8 @@
     "OperationalTo": null,
     "Capacity": 887,
     "LastUpdatedAt": "2017-02-10T23:58:05+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 624
   },
   {
     "Id": 496,
@@ -7933,7 +8428,8 @@
     "OperationalTo": null,
     "Capacity": 887,
     "LastUpdatedAt": "2017-02-10T23:58:08+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 625
   },
   {
     "Id": 497,
@@ -7949,7 +8445,8 @@
     "OperationalTo": null,
     "Capacity": 887,
     "LastUpdatedAt": "2017-02-10T23:58:18+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 636
   },
   {
     "Id": 498,
@@ -7965,7 +8462,8 @@
     "OperationalTo": "2018-03-01",
     "Capacity": 1120,
     "LastUpdatedAt": "2019-06-02T20:19:15+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 339
   },
   {
     "Id": 499,
@@ -7981,7 +8479,8 @@
     "OperationalTo": "2018-03-01",
     "Capacity": 1120,
     "LastUpdatedAt": "2019-06-02T20:19:18+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 343
   },
   {
     "Id": 500,
@@ -7997,7 +8496,8 @@
     "OperationalTo": null,
     "Capacity": 1127,
     "LastUpdatedAt": "2015-05-24T04:51:30+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 378
   },
   {
     "Id": 501,
@@ -8013,7 +8513,8 @@
     "OperationalTo": null,
     "Capacity": 1127,
     "LastUpdatedAt": "2015-05-24T04:51:30+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 379
   },
   {
     "Id": 502,
@@ -8029,7 +8530,8 @@
     "OperationalTo": null,
     "Capacity": 1328,
     "LastUpdatedAt": "2017-02-10T23:59:23+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 867
   },
   {
     "Id": 503,
@@ -8045,7 +8547,8 @@
     "OperationalTo": "2012-02-29",
     "Capacity": 300,
     "LastUpdatedAt": "2015-05-24T04:51:11+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 237
   },
   {
     "Id": 504,
@@ -8061,7 +8564,8 @@
     "OperationalTo": "2011-06-30",
     "Capacity": 300,
     "LastUpdatedAt": "2015-05-24T04:51:12+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 238
   },
   {
     "Id": 505,
@@ -8077,7 +8581,8 @@
     "OperationalTo": null,
     "Capacity": 660,
     "LastUpdatedAt": "2018-03-10T14:51:29+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 159
   },
   {
     "Id": 506,
@@ -8093,7 +8598,8 @@
     "OperationalTo": null,
     "Capacity": 660,
     "LastUpdatedAt": "2018-03-10T14:51:33+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 160
   },
   {
     "Id": 507,
@@ -8109,7 +8615,8 @@
     "OperationalTo": null,
     "Capacity": 1600,
     "LastUpdatedAt": "2015-05-24T04:51:50+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 860
   },
   {
     "Id": 508,
@@ -8125,7 +8632,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 509,
@@ -8141,7 +8649,8 @@
     "OperationalTo": "2018-12-21",
     "Capacity": 496,
     "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 347
   },
   {
     "Id": 510,
@@ -8157,7 +8666,8 @@
     "OperationalTo": null,
     "Capacity": 796,
     "LastUpdatedAt": "2015-05-24T04:51:30+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 382
   },
   {
     "Id": 511,
@@ -8173,7 +8683,8 @@
     "OperationalTo": null,
     "Capacity": 796,
     "LastUpdatedAt": "2015-05-24T04:51:30+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 385
   },
   {
     "Id": 512,
@@ -8189,7 +8700,8 @@
     "OperationalTo": "2017-06-19",
     "Capacity": 440,
     "LastUpdatedAt": "2018-03-10T14:51:55+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 534
   },
   {
     "Id": 513,
@@ -8205,7 +8717,8 @@
     "OperationalTo": "2016-12-22",
     "Capacity": 580,
     "LastUpdatedAt": "2018-03-10T14:51:56+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 535
   },
   {
     "Id": 514,
@@ -8221,7 +8734,8 @@
     "OperationalTo": null,
     "Capacity": 1050,
     "LastUpdatedAt": "2018-03-10T14:51:50+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 531
   },
   {
     "Id": 515,
@@ -8237,7 +8751,8 @@
     "OperationalTo": "2018-09-17",
     "Capacity": 650,
     "LastUpdatedAt": "2018-10-13T22:30:27+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 606
   },
   {
     "Id": 516,
@@ -8253,7 +8768,8 @@
     "OperationalTo": null,
     "Capacity": 408,
     "LastUpdatedAt": "2015-05-24T04:51:21+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 278
   },
   {
     "Id": 517,
@@ -8269,7 +8785,8 @@
     "OperationalTo": null,
     "Capacity": 410,
     "LastUpdatedAt": "2015-05-24T04:51:21+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 279
   },
   {
     "Id": 518,
@@ -8285,7 +8802,8 @@
     "OperationalTo": null,
     "Capacity": 410,
     "LastUpdatedAt": "2015-05-24T04:51:21+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 280
   },
   {
     "Id": 519,
@@ -8301,7 +8819,8 @@
     "OperationalTo": null,
     "Capacity": 410,
     "LastUpdatedAt": "2015-05-24T04:51:21+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 281
   },
   {
     "Id": 520,
@@ -8317,7 +8836,8 @@
     "OperationalTo": null,
     "Capacity": 805,
     "LastUpdatedAt": "2017-02-10T23:57:59+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 616
   },
   {
     "Id": 521,
@@ -8333,7 +8853,8 @@
     "OperationalTo": null,
     "Capacity": 1221,
     "LastUpdatedAt": "2017-02-10T23:59:21+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 789
   },
   {
     "Id": 522,
@@ -8349,7 +8870,8 @@
     "OperationalTo": null,
     "Capacity": 1304,
     "LastUpdatedAt": "2017-02-10T23:59:22+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 790
   },
   {
     "Id": 523,
@@ -8365,7 +8887,8 @@
     "OperationalTo": null,
     "Capacity": 1304,
     "LastUpdatedAt": "2017-02-10T23:59:23+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 791
   },
   {
     "Id": 524,
@@ -8381,7 +8904,8 @@
     "OperationalTo": null,
     "Capacity": 1330,
     "LastUpdatedAt": "2015-05-24T04:50:57+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 191
   },
   {
     "Id": 525,
@@ -8397,7 +8921,8 @@
     "OperationalTo": null,
     "Capacity": 1330,
     "LastUpdatedAt": "2015-05-24T04:50:57+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 192
   },
   {
     "Id": 526,
@@ -8413,7 +8938,8 @@
     "OperationalTo": null,
     "Capacity": 1330,
     "LastUpdatedAt": "2015-05-24T04:50:58+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 193
   },
   {
     "Id": 527,
@@ -8429,7 +8955,8 @@
     "OperationalTo": null,
     "Capacity": 1330,
     "LastUpdatedAt": "2015-05-24T04:50:58+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 194
   },
   {
     "Id": 528,
@@ -8445,7 +8972,8 @@
     "OperationalTo": "1967-10-01",
     "Capacity": 59,
     "LastUpdatedAt": "2017-02-10T23:57:35+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 598
   },
   {
     "Id": 529,
@@ -8461,7 +8989,8 @@
     "OperationalTo": "1974-11-01",
     "Capacity": 40,
     "LastUpdatedAt": "2015-05-24T04:51:41+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 603
   },
   {
     "Id": 530,
@@ -8477,7 +9006,8 @@
     "OperationalTo": null,
     "Capacity": 1065,
     "LastUpdatedAt": "2015-05-24T04:51:42+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 629
   },
   {
     "Id": 531,
@@ -8493,7 +9023,8 @@
     "OperationalTo": null,
     "Capacity": 1065,
     "LastUpdatedAt": "2015-05-24T04:51:42+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 630
   },
   {
     "Id": 532,
@@ -8509,7 +9040,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 533,
@@ -8525,7 +9057,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 534,
@@ -8541,7 +9074,8 @@
     "OperationalTo": null,
     "Capacity": 1330,
     "LastUpdatedAt": "2015-05-24T04:51:05+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 221
   },
   {
     "Id": 535,
@@ -8557,7 +9091,8 @@
     "OperationalTo": null,
     "Capacity": 1330,
     "LastUpdatedAt": "2015-05-24T04:51:05+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 222
   },
   {
     "Id": 536,
@@ -8573,7 +9108,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 537,
@@ -8589,7 +9125,8 @@
     "OperationalTo": null,
     "Capacity": 1205,
     "LastUpdatedAt": "2015-05-24T04:51:49+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 725
   },
   {
     "Id": 538,
@@ -8605,7 +9142,8 @@
     "OperationalTo": "2010-02-01",
     "Capacity": 233,
     "LastUpdatedAt": "2015-05-24T04:50:50+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 162
   },
   {
     "Id": 539,
@@ -8621,7 +9159,8 @@
     "OperationalTo": "2011-08-06",
     "Capacity": 864,
     "LastUpdatedAt": "2015-05-24T04:50:42+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 87
   },
   {
     "Id": 540,
@@ -8637,7 +9176,8 @@
     "OperationalTo": "2019-12-31",
     "Capacity": 1268,
     "LastUpdatedAt": "2020-04-18T04:46:52+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 98
   },
   {
     "Id": 541,
@@ -8653,7 +9193,8 @@
     "OperationalTo": null,
     "Capacity": 508,
     "LastUpdatedAt": "2015-05-24T04:50:33+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 49
   },
   {
     "Id": 542,
@@ -8669,7 +9210,8 @@
     "OperationalTo": "2007-05-28",
     "Capacity": 508,
     "LastUpdatedAt": "2015-05-24T04:50:36+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 50
   },
   {
     "Id": 543,
@@ -8685,7 +9227,8 @@
     "OperationalTo": "2008-10-31",
     "Capacity": 508,
     "LastUpdatedAt": "2015-05-24T04:50:36+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 51
   },
   {
     "Id": 544,
@@ -8701,7 +9244,8 @@
     "OperationalTo": null,
     "Capacity": 508,
     "LastUpdatedAt": "2015-05-24T04:50:37+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 52
   },
   {
     "Id": 545,
@@ -8717,7 +9261,8 @@
     "OperationalTo": null,
     "Capacity": 516,
     "LastUpdatedAt": "2015-05-24T04:50:22+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 33
   },
   {
     "Id": 546,
@@ -8733,7 +9278,8 @@
     "OperationalTo": null,
     "Capacity": 516,
     "LastUpdatedAt": "2015-05-24T04:50:22+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 34
   },
   {
     "Id": 547,
@@ -8749,7 +9295,8 @@
     "OperationalTo": null,
     "Capacity": 516,
     "LastUpdatedAt": "2015-05-24T04:50:23+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 35
   },
   {
     "Id": 548,
@@ -8765,7 +9312,8 @@
     "OperationalTo": null,
     "Capacity": 516,
     "LastUpdatedAt": "2015-05-24T04:50:23+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 36
   },
   {
     "Id": 549,
@@ -8781,7 +9329,8 @@
     "OperationalTo": "2019-05-31",
     "Capacity": 655,
     "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 639
   },
   {
     "Id": 550,
@@ -8797,7 +9346,8 @@
     "OperationalTo": "1966-01-01",
     "Capacity": 11,
     "LastUpdatedAt": "2015-05-24T04:54:13+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 894
   },
   {
     "Id": 551,
@@ -8813,7 +9363,8 @@
     "OperationalTo": null,
     "Capacity": 497,
     "LastUpdatedAt": "2017-02-10T23:58:03+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 622
   },
   {
     "Id": 552,
@@ -8829,7 +9380,8 @@
     "OperationalTo": null,
     "Capacity": 497,
     "LastUpdatedAt": "2017-02-10T23:58:22+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 644
   },
   {
     "Id": 553,
@@ -8845,7 +9397,8 @@
     "OperationalTo": null,
     "Capacity": 660,
     "LastUpdatedAt": "2015-05-24T04:50:23+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 37
   },
   {
     "Id": 554,
@@ -8861,7 +9414,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 555,
@@ -8877,7 +9431,8 @@
     "OperationalTo": null,
     "Capacity": 530,
     "LastUpdatedAt": "2017-02-10T23:58:12+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 633
   },
   {
     "Id": 556,
@@ -8893,7 +9448,8 @@
     "OperationalTo": null,
     "Capacity": 530,
     "LastUpdatedAt": "2017-02-10T23:58:28+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 648
   },
   {
     "Id": 557,
@@ -8909,7 +9465,8 @@
     "OperationalTo": null,
     "Capacity": 289,
     "LastUpdatedAt": "2017-09-25T03:19:32+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 62
   },
   {
     "Id": 558,
@@ -8925,7 +9482,8 @@
     "OperationalTo": null,
     "Capacity": 610,
     "LastUpdatedAt": "2015-05-24T04:50:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 65
   },
   {
     "Id": 559,
@@ -8941,7 +9499,8 @@
     "OperationalTo": null,
     "Capacity": 610,
     "LastUpdatedAt": "2015-05-24T04:50:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 66
   },
   {
     "Id": 560,
@@ -8957,7 +9516,8 @@
     "OperationalTo": null,
     "Capacity": 619,
     "LastUpdatedAt": "2015-05-24T04:51:51+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 876
   },
   {
     "Id": 561,
@@ -8973,7 +9533,8 @@
     "OperationalTo": null,
     "Capacity": 619,
     "LastUpdatedAt": "2015-05-24T04:51:51+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 877
   },
   {
     "Id": 562,
@@ -8989,7 +9550,8 @@
     "OperationalTo": null,
     "Capacity": 677,
     "LastUpdatedAt": "2015-05-24T04:50:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 69
   },
   {
     "Id": 563,
@@ -9005,7 +9567,8 @@
     "OperationalTo": null,
     "Capacity": 677,
     "LastUpdatedAt": "2015-05-24T04:51:50+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 840
   },
   {
     "Id": 564,
@@ -9021,7 +9584,8 @@
     "OperationalTo": null,
     "Capacity": 789,
     "LastUpdatedAt": "2015-05-24T04:51:41+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 615
   },
   {
     "Id": 565,
@@ -9037,7 +9601,8 @@
     "OperationalTo": null,
     "Capacity": 789,
     "LastUpdatedAt": "2015-05-24T04:51:42+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 621
   },
   {
     "Id": 566,
@@ -9053,7 +9618,8 @@
     "OperationalTo": null,
     "Capacity": 470,
     "LastUpdatedAt": "2017-02-10T23:57:51+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 609
   },
   {
     "Id": 567,
@@ -9069,7 +9635,8 @@
     "OperationalTo": null,
     "Capacity": 207,
     "LastUpdatedAt": "2015-05-24T04:54:06+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 302
   },
   {
     "Id": 568,
@@ -9085,7 +9652,8 @@
     "OperationalTo": null,
     "Capacity": 207,
     "LastUpdatedAt": "2015-05-24T04:54:06+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 303
   },
   {
     "Id": 569,
@@ -9101,7 +9669,8 @@
     "OperationalTo": null,
     "Capacity": 202,
     "LastUpdatedAt": "2015-05-24T04:54:05+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 287
   },
   {
     "Id": 570,
@@ -9117,7 +9686,8 @@
     "OperationalTo": null,
     "Capacity": 202,
     "LastUpdatedAt": "2015-05-24T04:54:05+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 288
   },
   {
     "Id": 571,
@@ -9133,7 +9703,8 @@
     "OperationalTo": null,
     "Capacity": 202,
     "LastUpdatedAt": "2015-05-24T04:54:06+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 295
   },
   {
     "Id": 572,
@@ -9149,7 +9720,8 @@
     "OperationalTo": null,
     "Capacity": 202,
     "LastUpdatedAt": "2015-05-24T04:54:06+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 297
   },
   {
     "Id": 573,
@@ -9165,7 +9737,8 @@
     "OperationalTo": null,
     "Capacity": 630,
     "LastUpdatedAt": "2015-05-24T04:54:06+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 298
   },
   {
     "Id": 574,
@@ -9181,7 +9754,8 @@
     "OperationalTo": null,
     "Capacity": 630,
     "LastUpdatedAt": "2015-05-24T04:54:06+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 299
   },
   {
     "Id": 575,
@@ -9197,7 +9771,8 @@
     "OperationalTo": "1989-06-07",
     "Capacity": 918,
     "LastUpdatedAt": "2015-05-24T04:51:44+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 651
   },
   {
     "Id": 576,
@@ -9213,7 +9788,8 @@
     "OperationalTo": "1990-06-01",
     "Capacity": 62,
     "LastUpdatedAt": "2015-05-24T04:50:47+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 122
   },
   {
     "Id": 577,
@@ -9229,7 +9805,8 @@
     "OperationalTo": null,
     "Capacity": 760,
     "LastUpdatedAt": "2018-03-10T14:51:57+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 536
   },
   {
     "Id": 578,
@@ -9245,7 +9822,8 @@
     "OperationalTo": "2019-12-31",
     "Capacity": 820,
     "LastUpdatedAt": "2020-04-18T04:46:52+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 537
   },
   {
     "Id": 579,
@@ -9261,7 +9839,8 @@
     "OperationalTo": null,
     "Capacity": 915,
     "LastUpdatedAt": "2017-02-10T23:57:24+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 539
   },
   {
     "Id": 580,
@@ -9277,7 +9856,8 @@
     "OperationalTo": null,
     "Capacity": 915,
     "LastUpdatedAt": "2017-02-10T23:57:21+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 529
   },
   {
     "Id": 581,
@@ -9293,7 +9873,8 @@
     "OperationalTo": null,
     "Capacity": 966,
     "LastUpdatedAt": "2015-05-24T04:51:49+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 739
   },
   {
     "Id": 582,
@@ -9309,7 +9890,8 @@
     "OperationalTo": "1987-08-01",
     "Capacity": 17,
     "LastUpdatedAt": "2015-05-24T04:50:20+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 29
   },
   {
     "Id": 583,
@@ -9325,7 +9907,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:35+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 502
   },
   {
     "Id": 584,
@@ -9341,7 +9924,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:35+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 505
   },
   {
     "Id": 585,
@@ -9357,7 +9941,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2017-02-10T23:57:13+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 506
   },
   {
     "Id": 586,
@@ -9373,7 +9958,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2019-06-02T20:19:20+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 507
   },
   {
     "Id": 587,
@@ -9389,7 +9975,8 @@
     "OperationalTo": null,
     "Capacity": 361,
     "LastUpdatedAt": "2015-05-24T04:51:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 570
   },
   {
     "Id": 588,
@@ -9405,7 +9992,8 @@
     "OperationalTo": null,
     "Capacity": 384,
     "LastUpdatedAt": "2015-05-24T04:51:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 571
   },
   {
     "Id": 589,
@@ -9421,7 +10009,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 572
   },
   {
     "Id": 590,
@@ -9437,7 +10026,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 589
   },
   {
     "Id": 591,
@@ -9453,7 +10043,8 @@
     "OperationalTo": null,
     "Capacity": 1090,
     "LastUpdatedAt": "2017-02-10T23:58:08+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 627
   },
   {
     "Id": 592,
@@ -9469,7 +10060,8 @@
     "OperationalTo": null,
     "Capacity": 1115,
     "LastUpdatedAt": "2017-02-10T23:58:29+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 650
   },
   {
     "Id": 593,
@@ -9485,7 +10077,8 @@
     "OperationalTo": "1992-11-30",
     "Capacity": 436,
     "LastUpdatedAt": "2015-05-24T04:51:41+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 604
   },
   {
     "Id": 594,
@@ -9501,7 +10094,8 @@
     "OperationalTo": "2013-06-07",
     "Capacity": 1070,
     "LastUpdatedAt": "2015-05-24T04:54:11+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 683
   },
   {
     "Id": 595,
@@ -9517,7 +10111,8 @@
     "OperationalTo": "2013-06-07",
     "Capacity": 1070,
     "LastUpdatedAt": "2015-05-24T04:54:11+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 684
   },
   {
     "Id": 596,
@@ -9533,7 +10128,8 @@
     "OperationalTo": null,
     "Capacity": 1157,
     "LastUpdatedAt": "2018-10-13T22:30:42+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 879
   },
   {
     "Id": 597,
@@ -9549,7 +10145,8 @@
     "OperationalTo": null,
     "Capacity": 1157,
     "LastUpdatedAt": "2019-06-02T20:19:24+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 880
   },
   {
     "Id": 598,
@@ -9565,7 +10162,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 599,
@@ -9581,7 +10179,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 600,
@@ -9597,7 +10196,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 601,
@@ -9613,7 +10213,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 602,
@@ -9629,7 +10230,8 @@
     "OperationalTo": "2017-08-02",
     "Capacity": 440,
     "LastUpdatedAt": "2017-09-25T03:19:35+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 149
   },
   {
     "Id": 603,
@@ -9645,7 +10247,8 @@
     "OperationalTo": "1972-05-01",
     "Capacity": 3,
     "LastUpdatedAt": "2015-05-24T04:51:55+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 892
   },
   {
     "Id": 604,
@@ -9661,7 +10264,8 @@
     "OperationalTo": null,
     "Capacity": 1149,
     "LastUpdatedAt": "2017-02-10T23:59:16+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 727
   },
   {
     "Id": 605,
@@ -9677,7 +10281,8 @@
     "OperationalTo": null,
     "Capacity": 846,
     "LastUpdatedAt": "2015-05-24T04:51:28+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 353
   },
   {
     "Id": 606,
@@ -9693,7 +10298,8 @@
     "OperationalTo": null,
     "Capacity": 846,
     "LastUpdatedAt": "2015-05-24T04:51:29+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 363
   },
   {
     "Id": 607,
@@ -9709,7 +10315,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 608,
@@ -9725,7 +10332,8 @@
     "OperationalTo": null,
     "Capacity": 1148,
     "LastUpdatedAt": "2017-02-10T23:58:40+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 663
   },
   {
     "Id": 609,
@@ -9741,7 +10349,8 @@
     "OperationalTo": null,
     "Capacity": 1148,
     "LastUpdatedAt": "2017-02-10T23:58:43+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 664
   },
   {
     "Id": 610,
@@ -9757,7 +10366,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 611,
@@ -9773,7 +10383,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 612,
@@ -9789,7 +10400,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 613,
@@ -9805,7 +10417,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 614,
@@ -9821,7 +10434,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 615,
@@ -9837,7 +10451,8 @@
     "OperationalTo": null,
     "Capacity": 900,
     "LastUpdatedAt": "2017-02-10T23:58:59+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 704
   },
   {
     "Id": 616,
@@ -9853,7 +10468,8 @@
     "OperationalTo": null,
     "Capacity": 200,
     "LastUpdatedAt": "2015-05-24T04:51:57+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 957
   },
   {
     "Id": 617,
@@ -9869,7 +10485,8 @@
     "OperationalTo": null,
     "Capacity": 505,
     "LastUpdatedAt": "2015-05-24T04:51:29+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 375
   },
   {
     "Id": 618,
@@ -9885,7 +10502,8 @@
     "OperationalTo": null,
     "Capacity": 1304,
     "LastUpdatedAt": "2015-05-24T04:51:50+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 842
   },
   {
     "Id": 619,
@@ -9901,7 +10519,8 @@
     "OperationalTo": "2015-04-30",
     "Capacity": 439,
     "LastUpdatedAt": "2015-05-24T04:51:30+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 387
   },
   {
     "Id": 620,
@@ -9917,7 +10536,8 @@
     "OperationalTo": null,
     "Capacity": 789,
     "LastUpdatedAt": "2015-05-24T04:51:29+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 368
   },
   {
     "Id": 621,
@@ -9933,7 +10553,8 @@
     "OperationalTo": null,
     "Capacity": 1325,
     "LastUpdatedAt": "2015-05-24T04:51:51+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 862
   },
   {
     "Id": 622,
@@ -9949,7 +10570,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T05:13:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 883
   },
   {
     "Id": 623,
@@ -9965,7 +10587,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-08-23T03:28:27+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 884
   },
   {
     "Id": 624,
@@ -9981,7 +10604,8 @@
     "OperationalTo": null,
     "Capacity": 1340,
     "LastUpdatedAt": "2015-05-24T04:51:53+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 887
   },
   {
     "Id": 625,
@@ -9997,7 +10621,8 @@
     "OperationalTo": null,
     "Capacity": 1340,
     "LastUpdatedAt": "2015-05-24T04:51:53+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 888
   },
   {
     "Id": 626,
@@ -10013,7 +10638,8 @@
     "OperationalTo": null,
     "Capacity": 998,
     "LastUpdatedAt": "2015-05-24T04:51:51+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 864
   },
   {
     "Id": 627,
@@ -10029,7 +10655,8 @@
     "OperationalTo": null,
     "Capacity": 995,
     "LastUpdatedAt": "2015-05-24T04:51:51+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 865
   },
   {
     "Id": 628,
@@ -10045,7 +10672,8 @@
     "OperationalTo": null,
     "Capacity": 1340,
     "LastUpdatedAt": "2017-09-25T03:20:21+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 885
   },
   {
     "Id": 629,
@@ -10061,7 +10689,8 @@
     "OperationalTo": null,
     "Capacity": 1340,
     "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 886
   },
   {
     "Id": 630,
@@ -10077,7 +10706,8 @@
     "OperationalTo": null,
     "Capacity": 1340,
     "LastUpdatedAt": "2018-03-10T14:54:40+02:00",
-    "Source": "WNA/wikipedia/IAEA"
+    "Source": "WNA/wikipedia/IAEA",
+    "IAEAId": 1074
   },
   {
     "Id": 631,
@@ -10093,7 +10723,8 @@
     "OperationalTo": null,
     "Capacity": 1340,
     "LastUpdatedAt": "2018-10-13T22:30:47+03:00",
-    "Source": "WNA/wikipedia/IAEA"
+    "Source": "WNA/wikipedia/IAEA",
+    "IAEAId": 1075
   },
   {
     "Id": 632,
@@ -10109,7 +10740,8 @@
     "OperationalTo": "1982-10-01",
     "Capacity": 60,
     "LastUpdatedAt": "2015-05-24T04:51:54+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 890
   },
   {
     "Id": 633,
@@ -10125,7 +10757,8 @@
     "OperationalTo": "1989-05-01",
     "Capacity": 809,
     "LastUpdatedAt": "2017-02-10T23:58:37+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 659
   },
   {
     "Id": 634,
@@ -10141,7 +10774,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "wikipedia"
+    "Source": "wikipedia",
+    "IAEAId": null
   },
   {
     "Id": 635,
@@ -10157,7 +10791,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "wikipedia"
+    "Source": "wikipedia",
+    "IAEAId": null
   },
   {
     "Id": 636,
@@ -10173,7 +10808,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "wikipedia"
+    "Source": "wikipedia",
+    "IAEAId": null
   },
   {
     "Id": 637,
@@ -10189,7 +10825,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "wikipedia"
+    "Source": "wikipedia",
+    "IAEAId": null
   },
   {
     "Id": 638,
@@ -10205,7 +10842,8 @@
     "OperationalTo": "2006-12-31",
     "Capacity": 290,
     "LastUpdatedAt": "2015-05-24T04:51:10+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 235
   },
   {
     "Id": 639,
@@ -10221,7 +10859,8 @@
     "OperationalTo": "2006-12-31",
     "Capacity": 290,
     "LastUpdatedAt": "2015-05-24T04:51:11+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 236
   },
   {
     "Id": 640,
@@ -10237,7 +10876,8 @@
     "OperationalTo": null,
     "Capacity": 1188,
     "LastUpdatedAt": "2015-05-24T04:51:18+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 263
   },
   {
     "Id": 641,
@@ -10253,7 +10893,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 642,
@@ -10269,7 +10910,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 643,
@@ -10285,7 +10927,8 @@
     "OperationalTo": null,
     "Capacity": 925,
     "LastUpdatedAt": "2015-05-24T04:51:34+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 486
   },
   {
     "Id": 644,
@@ -10301,7 +10944,8 @@
     "OperationalTo": null,
     "Capacity": 925,
     "LastUpdatedAt": "2015-05-24T04:51:34+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 487
   },
   {
     "Id": 645,
@@ -10317,7 +10961,8 @@
     "OperationalTo": null,
     "Capacity": 925,
     "LastUpdatedAt": "2015-05-24T04:51:36+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 508
   },
   {
     "Id": 646,
@@ -10333,7 +10978,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 647,
@@ -10349,7 +10995,8 @@
     "OperationalTo": null,
     "Capacity": 1250,
     "LastUpdatedAt": "2017-02-10T23:59:20+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 764
   },
   {
     "Id": 648,
@@ -10365,7 +11012,8 @@
     "OperationalTo": null,
     "Capacity": 1250,
     "LastUpdatedAt": "2017-02-10T23:59:21+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 765
   },
   {
     "Id": 649,
@@ -10381,7 +11029,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 577
   },
   {
     "Id": 650,
@@ -10397,7 +11046,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 578
   },
   {
     "Id": 651,
@@ -10413,7 +11063,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 579
   },
   {
     "Id": 652,
@@ -10429,7 +11080,8 @@
     "OperationalTo": null,
     "Capacity": 1335,
     "LastUpdatedAt": "2015-05-24T04:51:00+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 204
   },
   {
     "Id": 653,
@@ -10445,7 +11097,8 @@
     "OperationalTo": null,
     "Capacity": 1335,
     "LastUpdatedAt": "2015-05-24T04:51:01+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 205
   },
   {
     "Id": 654,
@@ -10461,7 +11114,8 @@
     "OperationalTo": "1990-04-18",
     "Capacity": 480,
     "LastUpdatedAt": "2015-05-24T04:51:06+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 225
   },
   {
     "Id": 655,
@@ -10477,7 +11131,8 @@
     "OperationalTo": "1992-05-27",
     "Capacity": 515,
     "LastUpdatedAt": "2015-05-24T04:51:07+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 229
   },
   {
     "Id": 656,
@@ -10493,7 +11148,8 @@
     "OperationalTo": null,
     "Capacity": 915,
     "LastUpdatedAt": "2015-05-24T04:50:51+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 169
   },
   {
     "Id": 657,
@@ -10509,7 +11165,8 @@
     "OperationalTo": null,
     "Capacity": 880,
     "LastUpdatedAt": "2015-05-24T04:50:53+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 177
   },
   {
     "Id": 658,
@@ -10525,7 +11182,8 @@
     "OperationalTo": null,
     "Capacity": 830,
     "LastUpdatedAt": "2017-02-10T23:58:47+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 670
   },
   {
     "Id": 659,
@@ -10541,7 +11199,8 @@
     "OperationalTo": null,
     "Capacity": 830,
     "LastUpdatedAt": "2017-02-10T23:58:56+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 698
   },
   {
     "Id": 660,
@@ -10557,7 +11216,8 @@
     "OperationalTo": "2003-11-14",
     "Capacity": 630,
     "LastUpdatedAt": "2015-05-24T04:50:42+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 83
   },
   {
     "Id": 661,
@@ -10573,7 +11233,8 @@
     "OperationalTo": null,
     "Capacity": 900,
     "LastUpdatedAt": "2017-02-10T23:58:58+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 701
   },
   {
     "Id": 662,
@@ -10589,7 +11250,8 @@
     "OperationalTo": null,
     "Capacity": 1117,
     "LastUpdatedAt": "2018-03-10T14:56:12+02:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 1038
   },
   {
     "Id": 663,
@@ -10605,7 +11267,8 @@
     "OperationalTo": null,
     "Capacity": 1117,
     "LastUpdatedAt": "2018-03-10T14:56:13+02:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 1039
   },
   {
     "Id": 664,
@@ -10621,7 +11284,8 @@
     "OperationalTo": "1998-12-31",
     "Capacity": 1200,
     "LastUpdatedAt": "2015-05-24T04:50:53+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 178
   },
   {
     "Id": 665,
@@ -10637,7 +11301,8 @@
     "OperationalTo": null,
     "Capacity": 788,
     "LastUpdatedAt": "2017-02-10T23:58:10+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 631
   },
   {
     "Id": 666,
@@ -10653,7 +11318,8 @@
     "OperationalTo": null,
     "Capacity": 788,
     "LastUpdatedAt": "2017-02-10T23:58:11+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 632
   },
   {
     "Id": 667,
@@ -10669,7 +11335,8 @@
     "OperationalTo": null,
     "Capacity": 1065,
     "LastUpdatedAt": "2015-05-24T04:51:48+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 696
   },
   {
     "Id": 668,
@@ -10685,7 +11352,8 @@
     "OperationalTo": null,
     "Capacity": 1065,
     "LastUpdatedAt": "2015-05-24T04:51:48+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 697
   },
   {
     "Id": 669,
@@ -10701,7 +11369,8 @@
     "OperationalTo": null,
     "Capacity": 1660,
     "LastUpdatedAt": "2019-06-02T20:19:27+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 918
   },
   {
     "Id": 670,
@@ -10717,7 +11386,8 @@
     "OperationalTo": null,
     "Capacity": 1660,
     "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 919
   },
   {
     "Id": 671,
@@ -10733,7 +11403,8 @@
     "OperationalTo": null,
     "Capacity": 780,
     "LastUpdatedAt": "2015-05-24T04:51:30+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 388
   },
   {
     "Id": 672,
@@ -10749,7 +11420,8 @@
     "OperationalTo": null,
     "Capacity": 780,
     "LastUpdatedAt": "2015-05-24T04:51:27+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 337
   },
   {
     "Id": 673,
@@ -10765,7 +11437,8 @@
     "OperationalTo": null,
     "Capacity": 830,
     "LastUpdatedAt": "2015-05-24T04:51:28+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 354
   },
   {
     "Id": 674,
@@ -10781,7 +11454,8 @@
     "OperationalTo": null,
     "Capacity": 830,
     "LastUpdatedAt": "2015-05-24T04:51:28+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 356
   },
   {
     "Id": 675,
@@ -10797,7 +11471,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 676,
@@ -10813,7 +11488,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 677,
@@ -10829,7 +11505,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 678,
@@ -10845,7 +11522,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 679,
@@ -10861,7 +11539,8 @@
     "OperationalTo": null,
     "Capacity": 200,
     "LastUpdatedAt": "2015-05-24T04:51:21+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 285
   },
   {
     "Id": 680,
@@ -10877,7 +11556,8 @@
     "OperationalTo": null,
     "Capacity": 200,
     "LastUpdatedAt": "2015-05-24T04:51:22+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 296
   },
   {
     "Id": 681,
@@ -10893,7 +11573,8 @@
     "OperationalTo": null,
     "Capacity": 502,
     "LastUpdatedAt": "2015-05-24T04:54:06+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 300
   },
   {
     "Id": 682,
@@ -10909,7 +11590,8 @@
     "OperationalTo": null,
     "Capacity": 502,
     "LastUpdatedAt": "2015-05-24T04:54:06+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 301
   },
   {
     "Id": 683,
@@ -10925,7 +11607,8 @@
     "OperationalTo": null,
     "Capacity": 912,
     "LastUpdatedAt": "2015-05-24T04:50:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 74
   },
   {
     "Id": 684,
@@ -10941,7 +11624,8 @@
     "OperationalTo": null,
     "Capacity": 912,
     "LastUpdatedAt": "2015-05-24T04:50:41+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 75
   },
   {
     "Id": 685,
@@ -10957,7 +11641,8 @@
     "OperationalTo": "2019-09-20",
     "Capacity": 819,
     "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 637
   },
   {
     "Id": 686,
@@ -10973,7 +11658,8 @@
     "OperationalTo": "1979-03-28",
     "Capacity": 906,
     "LastUpdatedAt": "2015-05-24T04:51:44+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 657
   },
   {
     "Id": 687,
@@ -10989,7 +11675,8 @@
     "OperationalTo": "1988-09-29",
     "Capacity": 296,
     "LastUpdatedAt": "2015-05-24T04:54:05+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 92
   },
   {
     "Id": 688,
@@ -11005,7 +11692,8 @@
     "OperationalTo": null,
     "Capacity": 990,
     "LastUpdatedAt": "2015-05-24T04:51:50+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 838
   },
   {
     "Id": 689,
@@ -11021,7 +11709,8 @@
     "OperationalTo": null,
     "Capacity": 990,
     "LastUpdatedAt": "2015-05-24T04:51:50+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 839
   },
   {
     "Id": 690,
@@ -11037,7 +11726,8 @@
     "OperationalTo": null,
     "Capacity": 1060,
     "LastUpdatedAt": "2018-07-01T01:21:55+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 973
   },
   {
     "Id": 691,
@@ -11053,7 +11743,8 @@
     "OperationalTo": null,
     "Capacity": 1060,
     "LastUpdatedAt": "2019-06-02T20:19:28+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 974
   },
   {
     "Id": 692,
@@ -11069,7 +11760,8 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "LastUpdatedAt": "2016-03-09T18:44:20+02:00",
-    "Source": "WNA/wikipedia/IAEA"
+    "Source": "WNA/wikipedia/IAEA",
+    "IAEAId": 975
   },
   {
     "Id": 693,
@@ -11085,7 +11777,8 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "LastUpdatedAt": "2017-09-25T03:20:53+03:00",
-    "Source": "WNA/wikipedia/IAEA"
+    "Source": "WNA/wikipedia/IAEA",
+    "IAEAId": 976
   },
   {
     "Id": 694,
@@ -11101,7 +11794,8 @@
     "OperationalTo": null,
     "Capacity": 870,
     "LastUpdatedAt": "2015-05-24T04:54:04+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 10
   },
   {
     "Id": 695,
@@ -11117,7 +11811,8 @@
     "OperationalTo": null,
     "Capacity": 900,
     "LastUpdatedAt": "2017-02-10T23:55:40+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 13
   },
   {
     "Id": 696,
@@ -11133,7 +11828,8 @@
     "OperationalTo": null,
     "Capacity": 1020,
     "LastUpdatedAt": "2017-02-10T23:55:44+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 15
   },
   {
     "Id": 697,
@@ -11149,7 +11845,8 @@
     "OperationalTo": "1998-03-31",
     "Capacity": 159,
     "LastUpdatedAt": "2015-05-24T04:51:27+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 344
   },
   {
     "Id": 698,
@@ -11165,7 +11862,8 @@
     "OperationalTo": null,
     "Capacity": 1056,
     "LastUpdatedAt": "2015-05-24T04:51:28+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 346
   },
   {
     "Id": 699,
@@ -11181,7 +11879,8 @@
     "OperationalTo": null,
     "Capacity": 550,
     "LastUpdatedAt": "2015-05-24T04:51:29+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 370
   },
   {
     "Id": 700,
@@ -11197,7 +11896,8 @@
     "OperationalTo": null,
     "Capacity": 550,
     "LastUpdatedAt": "2015-05-24T04:51:29+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 371
   },
   {
     "Id": 701,
@@ -11213,7 +11913,8 @@
     "OperationalTo": null,
     "Capacity": 866,
     "LastUpdatedAt": "2015-05-24T04:51:50+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 856
   },
   {
     "Id": 702,
@@ -11229,7 +11930,8 @@
     "OperationalTo": null,
     "Capacity": 645,
     "LastUpdatedAt": "2015-05-24T04:51:18+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 261
   },
   {
     "Id": 703,
@@ -11245,7 +11947,8 @@
     "OperationalTo": null,
     "Capacity": 645,
     "LastUpdatedAt": "2015-05-24T04:51:18+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 262
   },
   {
     "Id": 704,
@@ -11261,7 +11964,8 @@
     "OperationalTo": "1991-02-06",
     "Capacity": 250,
     "LastUpdatedAt": "2015-05-24T04:51:20+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 273
   },
   {
     "Id": 705,
@@ -11277,7 +11981,8 @@
     "OperationalTo": "1991-02-04",
     "Capacity": 250,
     "LastUpdatedAt": "2015-05-24T04:51:20+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 274
   },
   {
     "Id": 706,
@@ -11293,7 +11998,8 @@
     "OperationalTo": null,
     "Capacity": 915,
     "LastUpdatedAt": "2015-05-24T04:50:51+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 170
   },
   {
     "Id": 707,
@@ -11309,7 +12015,8 @@
     "OperationalTo": null,
     "Capacity": 915,
     "LastUpdatedAt": "2015-05-24T04:50:51+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 171
   },
   {
     "Id": 708,
@@ -11325,7 +12032,8 @@
     "OperationalTo": null,
     "Capacity": 915,
     "LastUpdatedAt": "2015-05-24T04:50:53+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 179
   },
   {
     "Id": 709,
@@ -11341,7 +12049,8 @@
     "OperationalTo": null,
     "Capacity": 915,
     "LastUpdatedAt": "2015-05-24T04:50:53+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 180
   },
   {
     "Id": 710,
@@ -11357,7 +12066,8 @@
     "OperationalTo": null,
     "Capacity": 990,
     "LastUpdatedAt": "2015-05-24T04:50:49+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 141
   },
   {
     "Id": 712,
@@ -11373,7 +12083,8 @@
     "OperationalTo": "1992-11-09",
     "Capacity": 1130,
     "LastUpdatedAt": "2015-05-24T04:51:47+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 675
   },
   {
     "Id": 713,
@@ -11389,7 +12100,8 @@
     "OperationalTo": "2015-04-27",
     "Capacity": 341,
     "LastUpdatedAt": "2015-05-24T04:51:28+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 355
   },
   {
     "Id": 714,
@@ -11405,7 +12117,8 @@
     "OperationalTo": null,
     "Capacity": 1115,
     "LastUpdatedAt": "2015-05-24T04:51:28+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 360
   },
   {
     "Id": 715,
@@ -11421,7 +12134,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 716,
@@ -11437,7 +12151,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 717,
@@ -11453,7 +12168,8 @@
     "OperationalTo": null,
     "Capacity": 693,
     "LastUpdatedAt": "2017-02-10T23:57:56+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 613
   },
   {
     "Id": 718,
@@ -11469,7 +12185,8 @@
     "OperationalTo": null,
     "Capacity": 693,
     "LastUpdatedAt": "2017-02-10T23:57:58+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 614
   },
   {
     "Id": 725,
@@ -11485,7 +12202,8 @@
     "OperationalTo": "2011-08-06",
     "Capacity": 1230,
     "LastUpdatedAt": "2015-05-24T04:50:42+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 90
   },
   {
     "Id": 726,
@@ -11501,7 +12219,8 @@
     "OperationalTo": "1990-07-31",
     "Capacity": 480,
     "LastUpdatedAt": "2015-05-24T04:50:49+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 150
   },
   {
     "Id": 727,
@@ -11517,7 +12236,8 @@
     "OperationalTo": null,
     "Capacity": 930,
     "LastUpdatedAt": "2017-02-10T23:56:13+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 146
   },
   {
     "Id": 728,
@@ -11533,7 +12253,8 @@
     "OperationalTo": "2014-12-29",
     "Capacity": 514,
     "LastUpdatedAt": "2015-05-24T04:51:42+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 626
   },
   {
     "Id": 729,
@@ -11549,7 +12270,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 730,
@@ -11565,7 +12287,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 731,
@@ -11581,7 +12304,8 @@
     "OperationalTo": null,
     "Capacity": 1122,
     "LastUpdatedAt": "2017-02-10T23:59:15+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 718
   },
   {
     "Id": 732,
@@ -11597,7 +12321,8 @@
     "OperationalTo": null,
     "Capacity": 1101,
     "LastUpdatedAt": "2017-02-10T23:59:16+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 719
   },
   {
     "Id": 733,
@@ -11613,7 +12338,8 @@
     "OperationalTo": null,
     "Capacity": 1117,
     "LastUpdatedAt": "2015-05-24T04:51:57+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 1042
   },
   {
     "Id": 734,
@@ -11629,7 +12355,8 @@
     "OperationalTo": null,
     "Capacity": 1117,
     "LastUpdatedAt": "2015-05-24T04:51:58+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 1043
   },
   {
     "Id": 735,
@@ -11645,7 +12372,8 @@
     "OperationalTo": null,
     "Capacity": 1104,
     "LastUpdatedAt": "2017-02-10T23:58:56+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 695
   },
   {
     "Id": 736,
@@ -11661,7 +12389,8 @@
     "OperationalTo": null,
     "Capacity": 1218,
     "LastUpdatedAt": "2017-02-10T23:58:57+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 699
   },
   {
     "Id": 737,
@@ -11677,7 +12406,8 @@
     "OperationalTo": null,
     "Capacity": 1165,
     "LastUpdatedAt": "2017-02-10T23:58:57+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 700
   },
   {
     "Id": 738,
@@ -11693,7 +12423,8 @@
     "OperationalTo": "1981-04-03",
     "Capacity": 32,
     "LastUpdatedAt": "2015-05-24T04:51:19+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 268
   },
   {
     "Id": 739,
@@ -11709,7 +12440,8 @@
     "OperationalTo": "1990-09-11",
     "Capacity": 92,
     "LastUpdatedAt": "2015-05-24T04:51:12+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 239
   },
   {
     "Id": 740,
@@ -11725,7 +12457,8 @@
     "OperationalTo": null,
     "Capacity": 1170,
     "LastUpdatedAt": "2017-02-10T23:59:19+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 751
   },
   {
     "Id": 741,
@@ -11741,7 +12474,8 @@
     "OperationalTo": "2019-12-24",
     "Capacity": 629,
     "LastUpdatedAt": "2020-04-18T04:46:52+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 407
   },
   {
     "Id": 742,
@@ -11757,7 +12491,8 @@
     "OperationalTo": null,
     "Capacity": 652,
     "LastUpdatedAt": "2017-09-25T03:19:44+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 408
   },
   {
     "Id": 743,
@@ -11773,7 +12508,8 @@
     "OperationalTo": null,
     "Capacity": 665,
     "LastUpdatedAt": "2018-03-10T14:51:38+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 400
   },
   {
     "Id": 744,
@@ -11789,7 +12525,8 @@
     "OperationalTo": null,
     "Capacity": 669,
     "LastUpdatedAt": "2015-05-24T05:13:27+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 401
   },
   {
     "Id": 745,
@@ -11805,7 +12542,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 746,
@@ -11821,7 +12559,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 747,
@@ -11837,7 +12576,8 @@
     "OperationalTo": "1994-08-26",
     "Capacity": 640,
     "LastUpdatedAt": "2015-05-24T04:50:48+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 136
   },
   {
     "Id": 748,
@@ -11853,7 +12593,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 749,
@@ -11869,7 +12610,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 750,
@@ -11885,7 +12627,8 @@
     "OperationalTo": "2015-12-30",
     "Capacity": 550,
     "LastUpdatedAt": "2016-03-09T18:43:09+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 240
   },
   {
     "Id": 751,
@@ -11901,7 +12644,8 @@
     "OperationalTo": "2012-04-25",
     "Capacity": 550,
     "LastUpdatedAt": "2015-05-24T04:51:13+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 241
   },
   {
     "Id": 752,
@@ -11917,7 +12661,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA/wikipedia"
+    "Source": "WNA/wikipedia",
+    "IAEAId": null
   },
   {
     "Id": 753,
@@ -11933,7 +12678,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA/wikipedia"
+    "Source": "WNA/wikipedia",
+    "IAEAId": null
   },
   {
     "Id": 754,
@@ -11949,7 +12695,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 755,
@@ -11965,7 +12712,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 756,
@@ -11981,7 +12729,8 @@
     "OperationalTo": null,
     "Capacity": 1021,
     "LastUpdatedAt": "2015-05-24T04:51:52+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 881
   },
   {
     "Id": 757,
@@ -11997,7 +12746,8 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "LastUpdatedAt": "2015-08-23T03:28:27+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 882
   },
   {
     "Id": 758,
@@ -12013,7 +12763,8 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "LastUpdatedAt": "2016-03-09T18:43:57+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 931
   },
   {
     "Id": 759,
@@ -12029,7 +12780,8 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "LastUpdatedAt": "2017-09-25T03:20:38+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 932
   },
   {
     "Id": 760,
@@ -12045,7 +12797,8 @@
     "OperationalTo": null,
     "Capacity": 1021,
     "LastUpdatedAt": "2019-06-02T20:19:31+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 933
   },
   {
     "Id": 761,
@@ -12061,7 +12814,8 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 934
   },
   {
     "Id": 762,
@@ -12077,7 +12831,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 763,
@@ -12093,7 +12848,8 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA"
+    "Source": "WNA",
+    "IAEAId": null
   },
   {
     "Id": 764,
@@ -12109,7 +12865,8 @@
     "OperationalTo": "1991-10-01",
     "Capacity": 175,
     "LastUpdatedAt": "2015-05-24T04:51:43+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 638
   },
   {
     "Id": 771,
@@ -12125,7 +12882,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 584
   },
   {
     "Id": 772,
@@ -12141,7 +12899,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 586
   },
   {
     "Id": 773,
@@ -12157,7 +12916,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 594
   },
   {
     "Id": 774,
@@ -12173,7 +12933,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:40+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 595
   },
   {
     "Id": 775,
@@ -12189,7 +12950,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:39+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 566
   },
   {
     "Id": 776,
@@ -12205,7 +12967,8 @@
     "OperationalTo": null,
     "Capacity": 950,
     "LastUpdatedAt": "2015-05-24T04:51:39+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 567
   },
   {
     "Id": 777,
@@ -12221,7 +12984,8 @@
     "OperationalTo": null,
     "Capacity": 1126,
     "LastUpdatedAt": "2020-04-18T14:45:45+03:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 1083
   },
   {
     "Id": 778,
@@ -12237,7 +13001,8 @@
     "OperationalTo": "1998-02-13",
     "Capacity": 1040,
     "LastUpdatedAt": "2017-02-10T23:58:20+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 640
   },
   {
     "Id": 779,
@@ -12253,7 +13018,8 @@
     "OperationalTo": "1998-02-13",
     "Capacity": 1040,
     "LastUpdatedAt": "2017-02-10T23:58:24+02:00",
-    "Source": "WNA/IAEA"
+    "Source": "WNA/IAEA",
+    "IAEAId": 646
   },
   {
     "Id": 780,
@@ -12269,7 +13035,8 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "LastUpdatedAt": "2016-03-09T18:44:20+02:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 945
   },
   {
     "Id": 781,
@@ -12285,7 +13052,8 @@
     "OperationalTo": null,
     "Capacity": 1345,
     "LastUpdatedAt": "2016-03-09T18:44:24+02:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 1053
   },
   {
     "Id": 783,
@@ -12301,7 +13069,8 @@
     "OperationalTo": null,
     "Capacity": 1014,
     "LastUpdatedAt": "2017-02-10T23:59:38+02:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 1067
   },
   {
     "Id": 784,
@@ -12317,7 +13086,8 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "LastUpdatedAt": "2017-02-10T23:59:38+02:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 946
   },
   {
     "Id": 785,
@@ -12333,7 +13103,8 @@
     "OperationalTo": null,
     "Capacity": 1014,
     "LastUpdatedAt": "2017-02-10T23:59:39+02:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 1068
   },
   {
     "Id": 786,
@@ -12349,7 +13120,8 @@
     "OperationalTo": null,
     "Capacity": 1080,
     "LastUpdatedAt": "2018-03-10T20:52:25+02:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 1078
   },
   {
     "Id": 787,
@@ -12365,7 +13137,8 @@
     "OperationalTo": null,
     "Capacity": 1175,
     "LastUpdatedAt": "2019-06-02T20:19:00+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 903
   },
   {
     "Id": 788,
@@ -12381,7 +13154,8 @@
     "OperationalTo": null,
     "Capacity": 1080,
     "LastUpdatedAt": "2018-10-13T22:30:35+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 1079
   },
   {
     "Id": 789,
@@ -12397,6 +13171,7 @@
     "OperationalTo": null,
     "Capacity": 1175,
     "LastUpdatedAt": "2019-06-02T20:19:04+03:00",
-    "Source": "IAEA"
+    "Source": "IAEA",
+    "IAEAId": 1008
   }
 ]
