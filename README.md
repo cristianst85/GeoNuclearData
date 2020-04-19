@@ -1,10 +1,27 @@
 # GeoNuclearData
 
-This repository contains a database in MySQL format with information about nuclear power plants around the world.
+This repository contains a database with information about Nuclear Power Plants worldwide.
+
+### Version
+Database version: **0.17.0** (**2020/04/19**)  
+Dataset last updated in version: **0.16.3** (**2020/04/18**)
 
 ### Data formats
 
-Data is also available in formats like JSON and CSV, including a denormalized form.
+Data is available in multiple formats (MySQL, JSON, and CSV).
+
+### Quick database summary (by reactor status)
+
+|**Status**            |**Count**|
+|----------------------|--------:|
+|Unknown               |        1|
+|Planned               |       88|
+|Under Construction    |       53|
+|Operational           |      442|
+|Shutdown              |      187|
+|Suspended Construction|        2|
+|Cancelled Construction|        2|
+|**Total**             |  **775**|
 
 ## Tables structure
 
@@ -36,27 +53,28 @@ Data is also available in formats like JSON and CSV, including a denormalized fo
 - `capacity` - nuclear power plant capacity (design net capacity in MWe)
 - `source` - source of the information
 - `last_updated_at` - date and time when information was last updated
+- `iaea_id` - IAEA PRIS reactor id
  
 ## Notes
-Do not use the data from `source` and `last_updated_at` columns as it is for maintenance purpose only.
+Data from `source`, `last_updated_at`, and `iaea_id` columns is for maintenance purposes only and is not recommended to be used.
  
 ## Usage
-	SELECT npp.`id`
-		,npp.`name`
-		,npp.latitude
-		,npp.longitude
-		,c.`name` 'country'
-		,s.type 'status'
-		,r.type 'reactor_type'
-		,npp.reactor_model
-		,npp.construction_start_at
-		,npp.operational_from
-		,npp.operational_to
-	FROM nuclear_power_plants npp
-	INNER JOIN countries AS c ON npp.country_code = c.`code`
-	INNER JOIN nuclear_power_plant_status_type AS s ON npp.status_id = s.id
-	LEFT OUTER JOIN nuclear_reactor_type AS r ON npp.reactor_type_id = r.id
-	ORDER BY npp.`id`
+    SELECT npp.`id`
+        , npp.`name`
+        , npp.latitude
+        , npp.longitude
+        , c.`name` 'country'
+        , s.type 'status'
+        , r.type 'reactor_type'
+        , npp.reactor_model
+        , npp.construction_start_at
+        , npp.operational_from
+        , npp.operational_to
+    FROM nuclear_power_plants npp
+    INNER JOIN countries AS c ON npp.country_code = c.`code`
+    INNER JOIN nuclear_power_plant_status_type AS s ON npp.status_id = s.id
+    LEFT OUTER JOIN nuclear_reactor_type AS r ON npp.reactor_type_id = r.id
+    ORDER BY npp.`id`
 
 ## License
 The GeoNuclearData database is made available under the Open Database License whose full text can be found at https://opendatacommons.org/licenses/odbl/1.0/.
@@ -66,7 +84,7 @@ Any rights in individual contents of the database are licensed under the Databas
 ## Sources
 Countries data is taken from [Unicode Common Locale Data Repository](https://github.com/unicode-cldr/cldr-localenames-full/blob/master/main/en/territories.json).
 
-Nuclear power plants data is taken from [WNA](http://www.world-nuclear.org/information-library/facts-and-figures/reactor-database.aspx)/[IAEA](https://www.iaea.org/pris/), but some of it comes from [Wikipedia](https://en.wikipedia.org/wiki/List_of_nuclear_power_stations).
+Nuclear power plants data is taken from [WNA](http://www.world-nuclear.org/information-library/facts-and-figures/reactor-database.aspx)/[IAEA](https://www.iaea.org/pris/), but some other sources are used, e.g., [Wikipedia](https://en.wikipedia.org/wiki/List_of_nuclear_power_stations).
  
 ## Showcase
 - [uRADMonitor - Global Environmental Monitoring Network](http://www.uradmonitor.com).
