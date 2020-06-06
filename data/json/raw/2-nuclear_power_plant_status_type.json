@@ -1,42 +1,42 @@
 [
   {
-    "Type": "Unknown",
-    "Id": 0
+    "Id": 0,
+    "Type": "Unknown"
   },
   {
-    "Type": "Planned",
-    "Id": 1
+    "Id": 1,
+    "Type": "Planned"
   },
   {
-    "Type": "Under Construction",
-    "Id": 2
+    "Id": 2,
+    "Type": "Under Construction"
   },
   {
-    "Type": "Operational",
-    "Id": 3
+    "Id": 3,
+    "Type": "Operational"
   },
   {
-    "Type": "Suspended Operation",
-    "Id": 4
+    "Id": 4,
+    "Type": "Suspended Operation"
   },
   {
-    "Type": "Shutdown",
-    "Id": 5
+    "Id": 5,
+    "Type": "Shutdown"
   },
   {
-    "Type": "Unfinished",
-    "Id": 6
+    "Id": 6,
+    "Type": "Unfinished"
   },
   {
-    "Type": "Never Built",
-    "Id": 7
+    "Id": 7,
+    "Type": "Never Built"
   },
   {
-    "Type": "Suspended Construction",
-    "Id": 8
+    "Id": 8,
+    "Type": "Suspended Construction"
   },
   {
-    "Type": "Cancelled Construction",
-    "Id": 9
+    "Id": 9,
+    "Type": "Cancelled Construction"
   }
 ]

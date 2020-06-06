@@ -1,11 +1,11 @@
-Type;Id
-Unknown;0
-Planned;1
-Under Construction;2
-Operational;3
-Suspended Operation;4
-Shutdown;5
-Unfinished;6
-Never Built;7
-Suspended Construction;8
-Cancelled Construction;9
+Id;Type
+0;Unknown
+1;Planned
+2;Under Construction
+3;Operational
+4;Suspended Operation
+5;Shutdown
+6;Unfinished
+7;Never Built
+8;Suspended Construction
+9;Cancelled Construction

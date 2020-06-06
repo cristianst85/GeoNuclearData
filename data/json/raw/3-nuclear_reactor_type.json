@@ -1,122 +1,122 @@
 [
   {
+    "Id": 1,
     "Type": "ABWR",
-    "Description": "Advanced Boiling Water Reactor",
-    "Id": 1
+    "Description": "Advanced Boiling Water Reactor"
   },
   {
+    "Id": 2,
     "Type": "APR",
-    "Description": "Advanced Power Reactor",
-    "Id": 2
+    "Description": "Advanced Power Reactor"
   },
   {
+    "Id": 3,
     "Type": "APWR",
-    "Description": "Advanced Pressurized Water Reactor",
-    "Id": 3
+    "Description": "Advanced Pressurized Water Reactor"
   },
   {
+    "Id": 4,
     "Type": "AGR",
-    "Description": "Advanced Gas-cooled Reactor",
-    "Id": 4
+    "Description": "Advanced Gas-cooled Reactor"
   },
   {
+    "Id": 5,
     "Type": "BWR",
-    "Description": "Boiling Water Reactor",
-    "Id": 5
+    "Description": "Boiling Water Reactor"
   },
   {
+    "Id": 6,
     "Type": "EPR",
-    "Description": "Evolutionary Power Reactor",
-    "Id": 6
+    "Description": "Evolutionary Power Reactor"
   },
   {
+    "Id": 7,
     "Type": "FBR",
-    "Description": "Fast Breeder Reactor",
-    "Id": 7
+    "Description": "Fast Breeder Reactor"
   },
   {
+    "Id": 8,
     "Type": "GCR",
-    "Description": "Gas-Cooled Reactor",
-    "Id": 8
+    "Description": "Gas-Cooled Reactor"
   },
   {
+    "Id": 9,
     "Type": "HTGR",
-    "Description": "High-Temperature Gas-cooled Reactor",
-    "Id": 9
+    "Description": "High-Temperature Gas-cooled Reactor"
   },
   {
+    "Id": 10,
     "Type": "HTR-PM",
-    "Description": "High Temperature Reactor - Pebble Module",
-    "Id": 10
+    "Description": "High Temperature Reactor - Pebble Module"
   },
   {
+    "Id": 11,
     "Type": "HWGCR",
-    "Description": "Heavy Water Gas Cooled Reactor",
-    "Id": 11
+    "Description": "Heavy Water Gas Cooled Reactor"
   },
   {
+    "Id": 12,
     "Type": "HWLWR",
-    "Description": "Heavy Water Light Water Reactor",
-    "Id": 12
+    "Description": "Heavy Water Light Water Reactor"
   },
   {
+    "Id": 13,
     "Type": "HWOCR",
-    "Description": "Heavy Water Organic Cooled Reactor",
-    "Id": 13
+    "Description": "Heavy Water Organic Cooled Reactor"
   },
   {
+    "Id": 14,
     "Type": "LFR",
-    "Description": "Lead-cooled Fast Reactor",
-    "Id": 14
+    "Description": "Lead-cooled Fast Reactor"
   },
   {
+    "Id": 15,
     "Type": "LMFBR",
-    "Description": "Liquid Metal Fast Breeder Reactor",
-    "Id": 15
+    "Description": "Liquid Metal Fast Breeder Reactor"
   },
   {
+    "Id": 16,
     "Type": "LMFR",
-    "Description": "Liquid Metal Fast Reactor",
-    "Id": 16
+    "Description": "Liquid Metal Fast Reactor"
   },
   {
+    "Id": 17,
     "Type": "LWGR",
-    "Description": "Light Water Graphite Reactor",
-    "Id": 17
+    "Description": "Light Water Graphite Reactor"
   },
   {
+    "Id": 18,
     "Type": "MSR",
-    "Description": "Molten Salt Reactor",
-    "Id": 18
+    "Description": "Molten Salt Reactor"
   },
   {
+    "Id": 19,
     "Type": "OCR",
-    "Description": "Organic Cooled Reactor",
-    "Id": 19
+    "Description": "Organic Cooled Reactor"
   },
   {
+    "Id": 20,
     "Type": "PHWR",
-    "Description": "Pressurized Heavy Water Reactor",
-    "Id": 20
+    "Description": "Pressurized Heavy Water Reactor"
   },
   {
+    "Id": 21,
     "Type": "PWR",
-    "Description": "Pressurized Water Reactor",
-    "Id": 21
+    "Description": "Pressurized Water Reactor"
   },
   {
+    "Id": 23,
     "Type": "SGR",
-    "Description": "Sodium-Graphite Reactor",
-    "Id": 23
+    "Description": "Sodium-Graphite Reactor"
   },
   {
+    "Id": 24,
     "Type": "SGHWR",
-    "Description": "Steam Generating Heavy Water Reactor",
-    "Id": 24
+    "Description": "Steam Generating Heavy Water Reactor"
   },
   {
+    "Id": 25,
     "Type": "TWR",
-    "Description": "Traveling-Wave Reactor",
-    "Id": 25
+    "Description": "Traveling-Wave Reactor"
   }
 ]
