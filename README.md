@@ -4,7 +4,11 @@ This repository contains a database with information about Nuclear Power Plants 
 
 ### Version
 Database version: **0.17.0** (**2020/04/19**)  
-Dataset last updated in version: **0.17.2** (**2020/08/29**)
+Dataset last updated in version: **0.17.3** (**2021/01/09**)
+
+### Changelog
+
+See [CHANGELOG](https://github.com/cristianst85/GeoNuclearData/blob/master/CHANGELOG.md) file for details.
 
 ### Data formats
 
@@ -15,13 +19,13 @@ Data is available in multiple formats (MySQL, JSON, and CSV).
 |**Status**            |**Count**|
 |----------------------|--------:|
 |Unknown               |        1|
-|Planned               |       87|
-|Under Construction    |       53|
-|Operational           |      442|
-|Shutdown              |      189|
+|Planned               |       86|
+|Under Construction    |       52|
+|Operational           |      443|
+|Shutdown              |      191|
 |Suspended Construction|        2|
 |Cancelled Construction|        2|
-|**Total**             |  **776**|
+|**Total**             |  **777**|
 
 ## Tables structure
 
