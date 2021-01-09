@@ -5,11 +5,12 @@ SET FOREIGN_KEY_CHECKS=0;
 -- ----------------------------
 DROP TABLE IF EXISTS `countries`;
 CREATE TABLE `countries` (
-  `code` char(2) COLLATE utf8_unicode_ci NOT NULL DEFAULT '' COMMENT 'ISO 3166-1 alpha-2 codes',
+  `code` varchar(2) COLLATE utf8_unicode_ci NOT NULL DEFAULT '' COMMENT 'ISO 3166-1 alpha-2 codes',
   `name` varchar(64) COLLATE utf8_unicode_ci NOT NULL,
   PRIMARY KEY (`code`),
-  UNIQUE KEY `idx_name` (`name`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci COMMENT='v1.1.2 2015/04/24\r\n- added Unique index ''idx_name''.\r\n\r\nv1.1.1 2015/05/10\r\n- changed ''code'' column data type from varchar(2) to char(2);\r\n- removed additional columns.\r\n\r\nv1.1 2015/04/26\r\n- added AC, CP, BL, TA and ZZ codes;\r\n- minor name corrections.\r\n\r\nv1.0 2015/04/21\r\n- initial version.\r\n\r\nResources\r\nhttps://github.com/unicode-cldr/cldr-localenames-full/blob/master/main/en/territories.json\r\n';
+  UNIQUE KEY `idx_code` (`code`) USING BTREE,
+  UNIQUE KEY `idx_name` (`name`) USING BTREE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci COMMENT='GeoNuclearData\r\n\r\n# https://github.com/cristianst85/GeoNuclearData\r\n\r\nVERSION\r\n\r\n# Database version: 0.17.0 (2020/04/19)\r\n# Dataset last updated in version: 0.17.3 (2021/01/09)\r\n\r\nCHANGELOG\r\n\r\n# For full changelog see:\r\n# https://github.com/cristianst85/GeoNuclearData/blob/master/CHANGELOG.md\r\n\r\nLICENSE\r\n\r\n# Copyright (C) 2015-2021, Cristian Stoica.\r\n#\r\n# The GeoNuclearData database is made available under the\r\n# Open Database License whose full text can be found at\r\n# http://opendatacommons.org/licenses/odbl/1.0/.\r\n#\r\n# Any rights in individual contents of the database are licensed\r\n# under the Database Contents License whose full text can be\r\n# found at http://opendatacommons.org/licenses/dbcl/1.0/. \r\n';
 
 -- ----------------------------
 -- Records of countries
