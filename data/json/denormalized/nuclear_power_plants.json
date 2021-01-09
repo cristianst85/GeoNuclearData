@@ -12008,8 +12008,8 @@
   {
     "Id": 669,
     "Name": "Taishan-1",
-    "Latitude": 21.949000,
-    "Longitude": 112.956000,
+    "Latitude": 21.917778,
+    "Longitude": 112.981944,
     "Country": "People's Republic of China",
     "CountryCode": "CN",
     "Status": "Operational",
@@ -12019,15 +12019,15 @@
     "OperationalFrom": "2018-12-13",
     "OperationalTo": null,
     "Capacity": 1660,
-    "LastUpdatedAt": "2019-06-02T20:19:27+03:00",
-    "Source": "WNA/IAEA",
+    "LastUpdatedAt": "2021-01-09T20:00:00+02:00",
+    "Source": "WNA/IAEA/wikipedia",
     "IAEAId": 918
   },
   {
     "Id": 670,
     "Name": "Taishan-2",
-    "Latitude": 21.949000,
-    "Longitude": 112.956000,
+    "Latitude": 21.917778,
+    "Longitude": 112.981944,
     "Country": "People's Republic of China",
     "CountryCode": "CN",
     "Status": "Operational",
@@ -12037,8 +12037,8 @@
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": 1660,
-    "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
-    "Source": "WNA/IAEA",
+    "LastUpdatedAt": "2021-01-09T20:00:00+02:00",
+    "Source": "WNA/IAEA/wikipedia",
     "IAEAId": 919
   },
   {
@@ -13718,8 +13718,8 @@
   {
     "Id": 777,
     "Name": "Zhangzhou-1",
-    "Latitude": 23.824444,
-    "Longitude": 117.479167,
+    "Latitude": 23.829167,
+    "Longitude": 117.491667,
     "Country": "People's Republic of China",
     "CountryCode": "CN",
     "Status": "Under Construction",
@@ -13729,8 +13729,8 @@
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": 1126,
-    "LastUpdatedAt": "2020-04-18T14:45:45+03:00",
-    "Source": "WNA/IAEA",
+    "LastUpdatedAt": "2021-01-09T20:00:00+02:00",
+    "Source": "WNA/IAEA/wikipedia",
     "IAEAId": 1083
   },
   {
@@ -13952,8 +13952,8 @@
   {
     "Id": 791,
     "Name": "Zhangzhou-2",
-    "Latitude": 23.824444,
-    "Longitude": 117.479167,
+    "Latitude": 23.829167,
+    "Longitude": 117.491667,
     "Country": "People's Republic of China",
     "CountryCode": "CN",
     "Status": "Under Construction",
@@ -13963,8 +13963,8 @@
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": 1126,
-    "LastUpdatedAt": "2021-01-06T01:19:47+02:00",
-    "Source": "IAEA",
+    "LastUpdatedAt": "2021-01-09T20:00:00+02:00",
+    "Source": "IAEA/wikipedia",
     "IAEAId": 1090
   },
   {
