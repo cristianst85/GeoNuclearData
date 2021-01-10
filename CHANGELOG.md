@@ -13,7 +13,7 @@
 ## 0.17.1 (2020-06-06)
 
 - updated with data from PRIS database (update 2020/06/06);
-- added CountryCode to denormalized csv/json files - Issue #2;
+- added CountryCode to denormalized CSV/JSON files - Issue #2;
 - fixed inconsistencies with column naming/ordering in raw files.
 
 ## 0.17.0 (2020-04-19)
@@ -27,7 +27,6 @@
 - updated with data from PRIS database (update 2020/04/18);
 - fixed nuclear power plants names;
 - fixed nuclear reactor types names;
-- removed RBMK from `nuclear_reactor_type` table;
 - removed duplicated reactors;
 - updated status for Darkhovin NPP to Unknown;
 
@@ -69,7 +68,7 @@
 
 - updated with data from PRIS database (update 2017/02/10).
 
-## 0.8.0 (2016/10/03)
+## 0.8.0 (2016-10-03)
 
 - updated with data from PRIS database (update 2016/10/02).
 
@@ -88,7 +87,7 @@
 ## 0.4.0 (2015-08-23)
 
 - updated with data from PRIS database (update 2015/08/20);
-- corrected coordinates for Hongyanhe.
+- corrected coordinates for Hongyanhe NPP.
 
 ## 0.3.3 (2015-05-24)
 
@@ -97,11 +96,11 @@
 
 ## 0.3.2 (2015-05-24)
 
-- reordered/reindexed by name.
+- reordered/re-indexed by name.
 
 ## 0.3.1 (2015-05-24)
 
-- updated missing coordinates with data from wikipedia.
+- updated missing coordinates with data from Wikipedia.
 
 ## 0.3 (2015-05-24)
 
