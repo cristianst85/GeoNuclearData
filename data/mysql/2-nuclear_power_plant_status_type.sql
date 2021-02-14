@@ -24,3 +24,4 @@ INSERT INTO `nuclear_power_plant_status_type` VALUES ('6', 'Unfinished');
 INSERT INTO `nuclear_power_plant_status_type` VALUES ('7', 'Never Built');
 INSERT INTO `nuclear_power_plant_status_type` VALUES ('8', 'Suspended Construction');
 INSERT INTO `nuclear_power_plant_status_type` VALUES ('9', 'Cancelled Construction');
+INSERT INTO `nuclear_power_plant_status_type` VALUES ('10', 'Never Commissioned');
