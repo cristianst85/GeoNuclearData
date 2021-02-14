@@ -104,7 +104,7 @@
     "OperationalTo": null,
     "Capacity": 1114,
     "LastUpdatedAt": "2018-07-01T01:21:08+03:00",
-    "Source": "WNA/wikipedia/IAEA",
+    "Source": "WNA/Wikipedia/IAEA",
     "IAEAId": 553
   },
   {
@@ -122,7 +122,7 @@
     "OperationalTo": null,
     "Capacity": 1114,
     "LastUpdatedAt": "2020-08-31T01:39:56+03:00",
-    "Source": "wikipedia/IAEA",
+    "Source": "Wikipedia/IAEA",
     "IAEAId": 1080
   },
   {
@@ -140,7 +140,7 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "wikipedia",
+    "Source": "Wikipedia",
     "IAEAId": null
   },
   {
@@ -158,7 +158,7 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "wikipedia",
+    "Source": "Wikipedia",
     "IAEAId": null
   },
   {
@@ -228,8 +228,8 @@
     "ConstructionStartAt": "1971-05-01",
     "OperationalFrom": "1985-01-01",
     "OperationalTo": null,
-    "Capacity": 626,
-    "LastUpdatedAt": "2017-02-10T23:55:45+02:00",
+    "Capacity": 609,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 24
   },
@@ -426,8 +426,8 @@
     "ConstructionStartAt": "1968-06-01",
     "OperationalFrom": "1974-06-24",
     "OperationalTo": null,
-    "Capacity": 319,
-    "LastUpdatedAt": "2015-05-24T04:50:04+03:00",
+    "Capacity": 340,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 3
   },
@@ -747,11 +747,11 @@
     "Status": "Cancelled Construction",
     "ReactorType": "PWR",
     "ReactorModel": null,
-    "ConstructionStartAt": null,
+    "ConstructionStartAt": "1987-01-01",
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": 953,
-    "LastUpdatedAt": "2018-03-10T13:41:44+02:00",
+    "LastUpdatedAt": "2021-02-14T00:57:00+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": null
   },
@@ -765,11 +765,11 @@
     "Status": "Cancelled Construction",
     "ReactorType": "PWR",
     "ReactorModel": null,
-    "ConstructionStartAt": null,
+    "ConstructionStartAt": "1987-03-31",
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": 953,
-    "LastUpdatedAt": "2018-03-10T13:41:49+02:00",
+    "LastUpdatedAt": "2021-02-14T00:57:00+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": null
   },
@@ -896,7 +896,7 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA/wikipedia",
+    "Source": "WNA/Wikipedia",
     "IAEAId": null
   },
   {
@@ -966,8 +966,8 @@
     "ConstructionStartAt": "1968-01-01",
     "OperationalFrom": "1972-03-04",
     "OperationalTo": null,
-    "Capacity": 350,
-    "LastUpdatedAt": "2017-02-10T23:56:05+02:00",
+    "Capacity": 365,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 57
   },
@@ -1218,8 +1218,8 @@
     "ConstructionStartAt": "1976-12-01",
     "OperationalFrom": "1985-02-14",
     "OperationalTo": null,
-    "Capacity": 408,
-    "LastUpdatedAt": "2015-05-24T04:51:38+03:00",
+    "Capacity": 466,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 546
   },
@@ -1236,8 +1236,8 @@
     "ConstructionStartAt": "1976-12-01",
     "OperationalFrom": "1985-12-18",
     "OperationalTo": null,
-    "Capacity": 408,
-    "LastUpdatedAt": "2015-05-24T04:51:38+03:00",
+    "Capacity": 466,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 547
   },
@@ -2198,19 +2198,19 @@
   {
     "Id": 124,
     "Name": "Cernavoda-3",
-    "Latitude": 44.324300,
-    "Longitude": 28.057800,
+    "Latitude": 44.322000,
+    "Longitude": 28.061000,
     "Country": "Romania",
     "CountryCode": "RO",
-    "Status": "Planned",
+    "Status": "Suspended Construction",
     "ReactorType": "PHWR",
     "ReactorModel": null,
-    "ConstructionStartAt": null,
+    "ConstructionStartAt": "1984-02-09",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": null,
-    "LastUpdatedAt": null,
-    "Source": "WNA",
+    "Capacity": 655,
+    "LastUpdatedAt": "2021-02-14T00:59:00+02:00",
+    "Source": "WNA/IAEA/Wikipedia",
     "IAEAId": null
   },
   {
@@ -3002,7 +3002,7 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "wikipedia",
+    "Source": "Wikipedia",
     "IAEAId": null
   },
   {
@@ -3252,8 +3252,8 @@
     "ConstructionStartAt": "1975-01-01",
     "OperationalFrom": "1982-10-01",
     "OperationalTo": null,
-    "Capacity": 890,
-    "LastUpdatedAt": "2017-02-10T23:55:35+02:00",
+    "Capacity": 1006,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 12
   },
@@ -3450,8 +3450,8 @@
     "ConstructionStartAt": "1979-01-01",
     "OperationalFrom": "1985-05-03",
     "OperationalTo": null,
-    "Capacity": 420,
-    "LastUpdatedAt": "2015-05-24T04:50:41+03:00",
+    "Capacity": 468,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 78
   },
@@ -4334,7 +4334,7 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "LastUpdatedAt": "2016-03-09T18:44:14+02:00",
-    "Source": "WNA/wikipedia/IAEA",
+    "Source": "WNA/Wikipedia/IAEA",
     "IAEAId": 938
   },
   {
@@ -5268,8 +5268,8 @@
     "ConstructionStartAt": "1983-01-26",
     "OperationalFrom": "1988-09-10",
     "OperationalTo": null,
-    "Capacity": 903,
-    "LastUpdatedAt": "2015-05-24T05:20:28+03:00",
+    "Capacity": 966,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "IAEA",
     "IAEAId": 413
   },
@@ -5952,8 +5952,8 @@
     "ConstructionStartAt": "1977-05-01",
     "OperationalFrom": "1985-05-01",
     "OperationalTo": "2004-12-31",
-    "Capacity": 1500,
-    "LastUpdatedAt": "2015-05-24T04:51:31+03:00",
+    "Capacity": 1185,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 415
   },
@@ -5970,8 +5970,8 @@
     "ConstructionStartAt": "1978-01-01",
     "OperationalFrom": "1987-12-01",
     "OperationalTo": "2009-12-31",
-    "Capacity": 1500,
-    "LastUpdatedAt": "2015-05-24T04:51:31+03:00",
+    "Capacity": 1185,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 416
   },
@@ -5982,15 +5982,15 @@
     "Longitude": 26.562000,
     "Country": "Lithuania",
     "CountryCode": "LT",
-    "Status": "Planned",
+    "Status": "Cancelled Construction",
     "ReactorType": "LWGR",
     "ReactorModel": "RBMK-1500",
-    "ConstructionStartAt": null,
+    "ConstructionStartAt": "1985-06-01",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": null,
-    "LastUpdatedAt": null,
-    "Source": "WNA",
+    "Capacity": 1380,
+    "LastUpdatedAt": "2021-02-14T01:18:00+02:00",
+    "Source": "WNA/IAEA",
     "IAEAId": null
   },
   {
@@ -6152,7 +6152,7 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA/wikipedia",
+    "Source": "WNA/Wikipedia",
     "IAEAId": null
   },
   {
@@ -6170,7 +6170,7 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA/wikipedia",
+    "Source": "WNA/Wikipedia",
     "IAEAId": null
   },
   {
@@ -6414,14 +6414,14 @@
     "Longitude": 73.351000,
     "Country": "India",
     "CountryCode": "IN",
-    "Status": "Under Construction",
+    "Status": "Operational",
     "ReactorType": "PHWR",
     "ReactorModel": "PHWR-700",
     "ConstructionStartAt": "2010-11-22",
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": 630,
-    "LastUpdatedAt": "2015-05-24T04:51:57+03:00",
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 986
   },
@@ -6607,7 +6607,7 @@
   },
   {
     "Id": 369,
-    "Name": "Karachi-1 (Kanupp-1 / Kanupp)",
+    "Name": "Kanupp-1",
     "Latitude": 24.845000,
     "Longitude": 66.790000,
     "Country": "Pakistan",
@@ -6619,7 +6619,7 @@
     "OperationalFrom": "1972-12-07",
     "OperationalTo": null,
     "Capacity": 125,
-    "LastUpdatedAt": "2015-05-24T04:51:31+03:00",
+    "LastUpdatedAt": "2021-02-14T00:07:00+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 427
   },
@@ -7664,7 +7664,7 @@
     "OperationalTo": null,
     "Capacity": 1085,
     "LastUpdatedAt": null,
-    "Source": "wikipedia",
+    "Source": "Wikipedia",
     "IAEAId": null
   },
   {
@@ -7682,7 +7682,7 @@
     "OperationalTo": null,
     "Capacity": 1085,
     "LastUpdatedAt": null,
-    "Source": "wikipedia",
+    "Source": "Wikipedia",
     "IAEAId": null
   },
   {
@@ -7914,8 +7914,8 @@
     "ConstructionStartAt": "1964-10-01",
     "OperationalFrom": "1968-10-01",
     "OperationalTo": "1977-01-05",
-    "Capacity": 240,
-    "LastUpdatedAt": "2015-05-24T04:54:05+03:00",
+    "Capacity": 183,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 133
   },
@@ -8016,14 +8016,14 @@
     "Longitude": 121.924000,
     "Country": "Taiwan, Province of China",
     "CountryCode": "TW",
-    "Status": "Under Construction",
+    "Status": "Suspended Construction",
     "ReactorType": "BWR",
     "ReactorModel": "ABWR",
     "ConstructionStartAt": "1999-03-31",
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": 1300,
-    "LastUpdatedAt": "2015-05-24T04:51:39+03:00",
+    "LastUpdatedAt": "2021-02-04T04:51:39+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 560
   },
@@ -8034,14 +8034,14 @@
     "Longitude": 121.924000,
     "Country": "Taiwan, Province of China",
     "CountryCode": "TW",
-    "Status": "Under Construction",
+    "Status": "Suspended Construction",
     "ReactorType": "BWR",
     "ReactorModel": "ABWR",
     "ConstructionStartAt": "1999-08-30",
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": 1300,
-    "LastUpdatedAt": "2015-05-24T04:51:39+03:00",
+    "LastUpdatedAt": "2021-02-04T04:51:39+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 561
   },
@@ -8274,8 +8274,8 @@
     "ConstructionStartAt": "1983-10-13",
     "OperationalFrom": "2000-04-11",
     "OperationalTo": null,
-    "Capacity": 408,
-    "LastUpdatedAt": "2015-05-24T04:51:38+03:00",
+    "Capacity": 469,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 551
   },
@@ -8600,7 +8600,7 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA/wikipedia",
+    "Source": "WNA/Wikipedia",
     "IAEAId": null
   },
   {
@@ -8618,7 +8618,7 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA/wikipedia",
+    "Source": "WNA/Wikipedia",
     "IAEAId": null
   },
   {
@@ -9138,8 +9138,8 @@
     "ConstructionStartAt": "1980-07-08",
     "OperationalFrom": "1984-06-01",
     "OperationalTo": "2018-12-21",
-    "Capacity": 496,
-    "LastUpdatedAt": "2019-11-22T00:00:00+02:00",
+    "Capacity": 498,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 347
   },
@@ -10356,14 +10356,14 @@
     "Longitude": 12.111000,
     "Country": "Sweden",
     "CountryCode": "SE",
-    "Status": "Operational",
+    "Status": "Shutdown",
     "ReactorType": "BWR",
     "ReactorModel": "AA-I",
     "ConstructionStartAt": "1969-02-01",
     "OperationalFrom": "1976-01-01",
-    "OperationalTo": null,
-    "Capacity": 760,
-    "LastUpdatedAt": "2018-03-10T14:51:57+02:00",
+    "OperationalTo": "2020-12-31",
+    "Capacity": 881,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 536
   },
@@ -11100,8 +11100,8 @@
     "ConstructionStartAt": "2001-08-20",
     "OperationalFrom": "2006-03-15",
     "OperationalTo": null,
-    "Capacity": 1304,
-    "LastUpdatedAt": "2015-05-24T04:51:50+03:00",
+    "Capacity": 1108,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 842
   },
@@ -11151,11 +11151,11 @@
     "Status": "Under Construction",
     "ReactorType": "BWR",
     "ReactorModel": "ABWR",
-    "ConstructionStartAt": "2007-10-12",
+    "ConstructionStartAt": "2006-10-24",
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": 1325,
-    "LastUpdatedAt": "2015-05-24T04:51:51+03:00",
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 862
   },
@@ -11172,8 +11172,8 @@
     "ConstructionStartAt": "2007-11-20",
     "OperationalFrom": "2012-07-31",
     "OperationalTo": null,
-    "Capacity": 950,
-    "LastUpdatedAt": "2015-05-24T05:13:40+03:00",
+    "Capacity": 997,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 883
   },
@@ -11244,8 +11244,8 @@
     "ConstructionStartAt": "2006-06-16",
     "OperationalFrom": "2011-02-28",
     "OperationalTo": null,
-    "Capacity": 998,
-    "LastUpdatedAt": "2015-05-24T04:51:51+03:00",
+    "Capacity": 996,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 864
   },
@@ -11262,8 +11262,8 @@
     "ConstructionStartAt": "2007-06-05",
     "OperationalFrom": "2012-07-20",
     "OperationalTo": null,
-    "Capacity": 995,
-    "LastUpdatedAt": "2015-05-24T04:51:51+03:00",
+    "Capacity": 996,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 865
   },
@@ -11318,7 +11318,7 @@
     "OperationalTo": null,
     "Capacity": 1340,
     "LastUpdatedAt": "2018-03-10T14:54:40+02:00",
-    "Source": "WNA/wikipedia/IAEA",
+    "Source": "WNA/Wikipedia/IAEA",
     "IAEAId": 1074
   },
   {
@@ -11336,7 +11336,7 @@
     "OperationalTo": null,
     "Capacity": 1340,
     "LastUpdatedAt": "2018-10-13T22:30:47+03:00",
-    "Source": "WNA/wikipedia/IAEA",
+    "Source": "WNA/Wikipedia/IAEA",
     "IAEAId": 1075
   },
   {
@@ -11390,7 +11390,7 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "wikipedia",
+    "Source": "Wikipedia",
     "IAEAId": null
   },
   {
@@ -11408,7 +11408,7 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "wikipedia",
+    "Source": "Wikipedia",
     "IAEAId": null
   },
   {
@@ -11426,7 +11426,7 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "wikipedia",
+    "Source": "Wikipedia",
     "IAEAId": null
   },
   {
@@ -11444,7 +11444,7 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "wikipedia",
+    "Source": "Wikipedia",
     "IAEAId": null
   },
   {
@@ -11590,24 +11590,6 @@
     "LastUpdatedAt": "2015-05-24T04:51:36+03:00",
     "Source": "WNA/IAEA",
     "IAEAId": 508
-  },
-  {
-    "Id": 646,
-    "Name": "Sosnovy Bor-1",
-    "Latitude": null,
-    "Longitude": null,
-    "Country": "Russian Federation",
-    "CountryCode": "RU",
-    "Status": "Planned",
-    "ReactorType": "PWR",
-    "ReactorModel": "VVER",
-    "ConstructionStartAt": null,
-    "OperationalFrom": null,
-    "OperationalTo": null,
-    "Capacity": null,
-    "LastUpdatedAt": null,
-    "Source": "WNA",
-    "IAEAId": null
   },
   {
     "Id": 647,
@@ -12020,7 +12002,7 @@
     "OperationalTo": null,
     "Capacity": 1660,
     "LastUpdatedAt": "2021-01-09T20:00:00+02:00",
-    "Source": "WNA/IAEA/wikipedia",
+    "Source": "WNA/IAEA/Wikipedia",
     "IAEAId": 918
   },
   {
@@ -12038,7 +12020,7 @@
     "OperationalTo": null,
     "Capacity": 1660,
     "LastUpdatedAt": "2021-01-09T20:00:00+02:00",
-    "Source": "WNA/IAEA/wikipedia",
+    "Source": "WNA/IAEA/Wikipedia",
     "IAEAId": 919
   },
   {
@@ -12270,8 +12252,8 @@
     "ConstructionStartAt": "1987-02-01",
     "OperationalFrom": "2002-06-10",
     "OperationalTo": null,
-    "Capacity": 912,
-    "LastUpdatedAt": "2015-05-24T04:50:40+03:00",
+    "Capacity": 1027,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 74
   },
@@ -12288,8 +12270,8 @@
     "ConstructionStartAt": "1987-02-01",
     "OperationalFrom": "2003-04-18",
     "OperationalTo": null,
-    "Capacity": 912,
-    "LastUpdatedAt": "2015-05-24T04:50:41+03:00",
+    "Capacity": 1029,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 75
   },
@@ -12434,7 +12416,7 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "LastUpdatedAt": "2021-01-06T01:19:47+02:00",
-    "Source": "WNA/wikipedia/IAEA",
+    "Source": "WNA/Wikipedia/IAEA",
     "IAEAId": 975
   },
   {
@@ -12452,7 +12434,7 @@
     "OperationalTo": null,
     "Capacity": 1000,
     "LastUpdatedAt": "2017-09-25T03:20:53+03:00",
-    "Source": "WNA/wikipedia/IAEA",
+    "Source": "WNA/Wikipedia/IAEA",
     "IAEAId": 976
   },
   {
@@ -13206,8 +13188,8 @@
     "ConstructionStartAt": "1992-09-25",
     "OperationalFrom": "1997-07-01",
     "OperationalTo": null,
-    "Capacity": 652,
-    "LastUpdatedAt": "2017-09-25T03:19:44+03:00",
+    "Capacity": 596,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 408
   },
@@ -13224,8 +13206,8 @@
     "ConstructionStartAt": "1994-03-17",
     "OperationalFrom": "1998-07-01",
     "OperationalTo": null,
-    "Capacity": 665,
-    "LastUpdatedAt": "2018-03-10T14:51:38+02:00",
+    "Capacity": 627,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 400
   },
@@ -13242,8 +13224,8 @@
     "ConstructionStartAt": "1994-07-22",
     "OperationalFrom": "1999-10-01",
     "OperationalTo": null,
-    "Capacity": 669,
-    "LastUpdatedAt": "2015-05-24T05:13:27+03:00",
+    "Capacity": 600,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
     "Source": "WNA/IAEA",
     "IAEAId": 401
   },
@@ -13388,7 +13370,7 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA/wikipedia",
+    "Source": "WNA/Wikipedia",
     "IAEAId": null
   },
   {
@@ -13406,7 +13388,7 @@
     "OperationalTo": null,
     "Capacity": null,
     "LastUpdatedAt": null,
-    "Source": "WNA/wikipedia",
+    "Source": "WNA/Wikipedia",
     "IAEAId": null
   },
   {
@@ -13730,7 +13712,7 @@
     "OperationalTo": null,
     "Capacity": 1126,
     "LastUpdatedAt": "2021-01-09T20:00:00+02:00",
-    "Source": "WNA/IAEA/wikipedia",
+    "Source": "WNA/IAEA/Wikipedia",
     "IAEAId": 1083
   },
   {
@@ -13964,7 +13946,7 @@
     "OperationalTo": null,
     "Capacity": 1126,
     "LastUpdatedAt": "2021-01-09T20:00:00+02:00",
-    "Source": "IAEA/wikipedia",
+    "Source": "IAEA/Wikipedia",
     "IAEAId": 1090
   },
   {
@@ -13984,5 +13966,131 @@
     "LastUpdatedAt": "2021-01-09T17:57:48+02:00",
     "Source": "IAEA",
     "IAEAId": 1091
+  },
+  {
+    "Id": 793,
+    "Name": "Xiapu-1",
+    "Latitude": 26.803611,
+    "Longitude": 120.155000,
+    "Country": "People's Republic of China",
+    "CountryCode": "CN",
+    "Status": "Under Construction",
+    "ReactorType": "FBR",
+    "ReactorModel": "CFR-600",
+    "ConstructionStartAt": "2017-12-29",
+    "OperationalFrom": null,
+    "OperationalTo": null,
+    "Capacity": 600,
+    "LastUpdatedAt": "2021-02-14T00:08:00+02:00",
+    "Source": "WNA/Wikipedia",
+    "IAEAId": null
+  },
+  {
+    "Id": 794,
+    "Name": "Xiapu-2",
+    "Latitude": 26.803611,
+    "Longitude": 120.155000,
+    "Country": "People's Republic of China",
+    "CountryCode": "CN",
+    "Status": "Under Construction",
+    "ReactorType": "FBR",
+    "ReactorModel": "CFR-600",
+    "ConstructionStartAt": "2020-12-27",
+    "OperationalFrom": null,
+    "OperationalTo": null,
+    "Capacity": 600,
+    "LastUpdatedAt": "2021-02-14T00:09:00+02:00",
+    "Source": "WNA/Wikipedia",
+    "IAEAId": null
+  },
+  {
+    "Id": 795,
+    "Name": "Cernavoda-4",
+    "Latitude": 44.322000,
+    "Longitude": 28.061000,
+    "Country": "Romania",
+    "CountryCode": "RO",
+    "Status": "Suspended Construction",
+    "ReactorType": "PHWR",
+    "ReactorModel": null,
+    "ConstructionStartAt": "1985-08-15",
+    "OperationalFrom": null,
+    "OperationalTo": null,
+    "Capacity": 655,
+    "LastUpdatedAt": "2021-02-14T01:00:00+02:00",
+    "Source": "IAEA/Wikipedia",
+    "IAEAId": null
+  },
+  {
+    "Id": 796,
+    "Name": "Cernavoda-5",
+    "Latitude": 44.322000,
+    "Longitude": 28.061000,
+    "Country": "Romania",
+    "CountryCode": "RO",
+    "Status": "Cancelled Construction",
+    "ReactorType": "PHWR",
+    "ReactorModel": null,
+    "ConstructionStartAt": "1987-05-12",
+    "OperationalFrom": null,
+    "OperationalTo": null,
+    "Capacity": 655,
+    "LastUpdatedAt": "2021-02-14T01:01:00+02:00",
+    "Source": "IAEA/Wikipedia",
+    "IAEAId": null
+  },
+  {
+    "Id": 797,
+    "Name": "Zwentendorf",
+    "Latitude": 48.354400,
+    "Longitude": 15.884700,
+    "Country": "Austria",
+    "CountryCode": "AT",
+    "Status": "Never Commissioned",
+    "ReactorType": "BWR",
+    "ReactorModel": null,
+    "ConstructionStartAt": "1972-04-04",
+    "OperationalFrom": null,
+    "OperationalTo": null,
+    "Capacity": 692,
+    "LastUpdatedAt": "2021-02-14T02:59:00+02:00",
+    "Source": "IAEA/Wikipedia",
+    "IAEAId": null
+  },
+  {
+    "Id": 798,
+    "Name": "SNR-300 (Kalkar)",
+    "Latitude": 51.763056,
+    "Longitude": 6.326944,
+    "Country": "Germany",
+    "CountryCode": "DE",
+    "Status": "Never Commissioned",
+    "ReactorType": "FBR",
+    "ReactorModel": "SNR-300",
+    "ConstructionStartAt": "1973-04-23",
+    "OperationalFrom": null,
+    "OperationalTo": null,
+    "Capacity": 295,
+    "LastUpdatedAt": "2021-02-14T02:59:00+02:00",
+    "Source": "IAEA/Wikipedia",
+    "IAEAId": null
+  },
+  {
+    "Id": 799,
+    "Name": "Sanaocun-1",
+    "Latitude": 27.201487,
+    "Longitude": 120.517974,
+    "Country": "People's Republic of China",
+    "CountryCode": "CN",
+    "Status": "Under Construction",
+    "ReactorType": "PWR",
+    "ReactorModel": "HRP1000",
+    "ConstructionStartAt": "2020-12-31",
+    "OperationalFrom": null,
+    "OperationalTo": null,
+    "Capacity": 1117,
+    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
+    "Source": "IAEA/WNA",
+    "IAEAId": 1094
   }
 ]

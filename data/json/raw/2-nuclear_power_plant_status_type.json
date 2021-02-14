@@ -38,5 +38,9 @@
   {
     "Id": 9,
     "Type": "Cancelled Construction"
+  },
+  {
+    "Id": 10,
+    "Type": "Never Commissioned"
   }
 ]
