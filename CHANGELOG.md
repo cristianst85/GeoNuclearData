@@ -1,5 +1,20 @@
 # Changelog
 
+## 0.17.4 (2021-02-14)
+
+ - updated coordinates for Taishan-1, Taishan-2, Zhangzhou-1, and Zhangzhou-2;
+ - updated the construction start dates for Belene-1 and 2;
+ - updated the status for Cernavoda-3 to Suspended Construction, also updated the construction start date and coordinates;
+ - added missing reactors Cernavoda-4 (Suspended Construction) and Cernavoda-5 (Cancelled Construction);
+ - updated the status for Ignalina-3 to Cancelled Construction, also updated the construction start date;
+ - renamed Karachi-1 (Kanupp-1 / Kanupp) to Kanupp-1 to be consistent with the name of the other two reactors (Kanupp-2 and Kanupp-3);
+ - updated the status for Lungmen-1 and 2 to Suspended Construction;
+ - removed Sosnovy Bor-1 (646) - possible duplicate entry for the already planned Leningrad II reactors;
+ - added Xiapu-1 and Xiapu-2 reactors;
+ - added new status Never Commissioned (10) to be used for NPPs that were finished, but never went operational;
+ - added missing power plants Zwentendorf (797) and SNR-300 (Kalkar) (798) - these NPPs were finished, but they never went operational - Issue #3;
+ - updated with data from PRIS database (update 2021/02/14).
+
 ## 0.17.3 (2021-01-09)
 
 - updated with data from PRIS database (update 2021/01/06);
