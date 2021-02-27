@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.17.5 (2021-02-16)
+
+ - updated country data from Unicode Common Locale Data Repository (CLDR version 37);
+ - CSV files are using commas (,) to separate items.
+
 ## 0.17.4 (2021-02-14)
 
  - updated coordinates for Taishan-1, Taishan-2, Zhangzhou-1, and Zhangzhou-2;
