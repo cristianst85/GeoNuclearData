@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.17.6 (2021-04-20)
+
+ - updated with data from PRIS database (update 2021/04/19);
+ - corrected coordinates for Changjiang-1, Changjiang-2, and Shidao Bay-1;
+ - updated coordinates for CAP1400-1, CAP1400-2, and Changjiang-3.
+
 ## 0.17.5 (2021-02-16)
 
  - updated country data from Unicode Common Locale Data Repository (CLDR version 37);
