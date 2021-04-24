@@ -87,7 +87,7 @@ The GeoNuclearData database is made available under the Open Database License wh
 Any rights in individual contents of the database are licensed under the Database Contents License whose full text can be found at https://opendatacommons.org/licenses/dbcl/1.0/.
  
 ## Sources
-Countries data is taken from [Unicode Common Locale Data Repository](https://github.com/unicode-cldr/cldr-localenames-full/blob/master/main/en/territories.json).
+Countries data is taken from [Unicode Common Locale Data Repository](https://github.com/unicode-org/cldr-json/blob/master/cldr-json/cldr-localenames-full/main/en/territories.json).
 
 Nuclear power plants data is taken from [WNA](http://www.world-nuclear.org/information-library/facts-and-figures/reactor-database.aspx)/[IAEA](https://www.iaea.org/pris/), but some other sources are used, e.g., [Wikipedia](https://en.wikipedia.org/wiki/List_of_nuclear_power_stations).
  
