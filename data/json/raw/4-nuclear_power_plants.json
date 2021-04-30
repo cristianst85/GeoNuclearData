@@ -7217,11 +7217,11 @@
     "ReactorTypeId": 21,
     "ReactorModel": "VVER V-491",
     "ConstructionStartAt": "2010-04-15",
-    "OperationalFrom": null,
+    "OperationalFrom": "2021-03-18",
     "OperationalTo": null,
     "Capacity": 1066,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2021-01-06T01:19:47+02:00",
+    "LastUpdatedAt": "2021-04-30T21:49:18+03:00",
     "IAEAId": 901
   },
   {
@@ -13199,14 +13199,14 @@
     "CountryCode": "CN",
     "StatusId": 2,
     "ReactorTypeId": 7,
-    "ReactorModel": "CFR-600",
+    "ReactorModel": "CFR600",
     "ConstructionStartAt": "2017-12-29",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": 600,
-    "Source": "WNA/Wikipedia",
-    "LastUpdatedAt": "2021-02-14T00:08:00+02:00",
-    "IAEAId": null
+    "Capacity": 642,
+    "Source": "WNA/Wikipedia/IAEA",
+    "LastUpdatedAt": "2021-04-30T21:49:18+03:00",
+    "IAEAId": 1101
   },
   {
     "Id": 794,

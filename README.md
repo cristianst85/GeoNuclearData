@@ -4,7 +4,7 @@ This repository contains a database with information about Nuclear Power Plants 
 
 ### Version
 Database version: **0.17.0** (**2020/04/19**)  
-Dataset last updated in version: **0.17.6** (**2021/04/20**)
+Dataset last updated in version: **0.17.7** (**2021/04/30**)
 
 ### Changelog
 
