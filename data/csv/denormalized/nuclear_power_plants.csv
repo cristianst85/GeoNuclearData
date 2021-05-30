@@ -785,3 +785,15 @@ Id,Name,Latitude,Longitude,Country,CountryCode,Status,ReactorType,ReactorModel,C
 800,CAP1400-1,36.965556,122.520000,China,CN,Under Construction,PWR,CAP1400,2013-03-22,,,1534,2021-04-20T02:47:37+03:00,IAEA/Wikipedia,1085
 801,CAP1400-2,36.965556,122.520000,China,CN,Under Construction,PWR,CAP1400,2013-03-22,,,1534,2021-04-20T02:47:37+03:00,IAEA/Wikipedia,1086
 802,Changjiang-3,19.460750,108.899917,China,CN,Under Construction,PWR,Hualong One,2021-03-31,,,610,2021-04-20T02:47:37+03:00,IAEA/Wikipedia,941
+803,Xudabao-1,40.351389,120.545833,China,CN,Planned,PWR,AP1000,,,,,2021-05-29,Wikipedia,
+804,Xudabao-2,40.351389,120.545833,China,CN,Planned,PWR,AP1000,,,,,2021-05-29,Wikipedia,
+805,Xudabao-3,40.351389,120.545833,China,CN,Under Construction,PWR,VVER V-491,2021-05-19,,,,2021-05-29,WNA/Wikipedia,
+806,Xudabao-4,40.351389,120.545833,China,CN,Planned,PWR,VVER-1200,,,,,2021-05-29,Wikipedia,
+807,Tianwan-7,34.682800,119.456000,China,CN,Under Construction,PWR,VVER V-491,2021-05-19,,,,2021-05-29,WNA/Wikipedia,
+808,Tianwan-8,34.682800,119.456000,China,CN,Planned,PWR,VVER-1200,,,,,2021-05-29,Wikipedia,
+809,Changjiang-4,19.460750,108.899917,China,CN,Planned,PWR,Hualong One,,,,,2021-05-29,Wikipedia,
+810,Changjiang SMR-1,19.460070,108.889920,China,CN,Under Construction,PWR,ACP100,,,,,2021-05-29,WNA,
+811,Changjiang SMR-2,,,China,CN,Planned,PWR,ACP100,,,,,2021-05-29,WNA,
+812,Bohai Shipyard FNPP,,,China,CN,Planned,PWR,ACPR50S,,,,,2021-05-29,WNA,
+813,Jiaodong Shipyard FNPP,,,China,CN,Planned,PWR,ACP100S,,,,,2021-05-29,WNA,
+814,Shanwei-2,,,China,CN,Planned,PWR,,,,,,2021-05-29,WNA,
