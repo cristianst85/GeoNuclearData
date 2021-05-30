@@ -34,8 +34,8 @@ CREATE TABLE `nuclear_power_plants` (
 -- Records of nuclear_power_plants
 -- ----------------------------
 INSERT INTO `nuclear_power_plants` VALUES ('1', 'Ågesta', '59.206000', '18.082900', 'SE', '5', '20', null, '1957-12-01', '1964-05-01', '1974-06-02', '9', 'WNA/IAEA', '2015-05-24 04:51:37', '528');
-INSERT INTO `nuclear_power_plants` VALUES ('2', 'Akademik Lomonosov-1 (Vilyuchinsk)', '59.919000', '30.261000', 'RU', '3', '21', 'KLT-40S \'Floating\'', '2007-04-15', '2020-05-22', null, '30', 'WNA/IAEA', '2020-06-06 02:15:57', '895');
-INSERT INTO `nuclear_power_plants` VALUES ('3', 'Akademik Lomonosov-2 (Vilyuchinsk)', '59.919000', '30.261000', 'RU', '3', '21', 'KLT-40S \'Floating\'', '2007-04-15', '2020-05-22', null, '30', 'WNA/IAEA', '2020-06-06 02:15:57', '896');
+INSERT INTO `nuclear_power_plants` VALUES ('2', 'Akademik Lomonosov-1', '69.709579', '170.306250', 'RU', '3', '21', 'KLT-40S \'Floating\'', '2007-04-15', '2020-05-22', null, '30', 'WNA/IAEA/Google Maps', '2021-05-31 00:00:00', '895');
+INSERT INTO `nuclear_power_plants` VALUES ('3', 'Akademik Lomonosov-2', '69.709579', '170.306250', 'RU', '3', '21', 'KLT-40S \'Floating\'', '2007-04-15', '2020-05-22', null, '30', 'WNA/IAEA/Google Maps', '2021-05-31 00:00:00', '896');
 INSERT INTO `nuclear_power_plants` VALUES ('4', 'Akhvaz-1', null, null, 'IR', '1', null, null, null, null, null, null, 'WNA', null, null);
 INSERT INTO `nuclear_power_plants` VALUES ('5', 'Akhvaz-2', null, null, 'IR', '1', null, null, null, null, null, null, 'WNA', null, null);
 INSERT INTO `nuclear_power_plants` VALUES ('6', 'Akkuyu-1', '36.144444', '33.541111', 'TR', '2', '21', 'VVER V-509', '2018-04-03', null, null, '1114', 'WNA/Wikipedia/IAEA', '2018-07-01 01:21:08', '553');

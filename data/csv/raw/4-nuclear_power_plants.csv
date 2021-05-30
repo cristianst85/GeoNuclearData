@@ -1,7 +1,7 @@
 Id,Name,Latitude,Longitude,CountryCode,StatusId,ReactorTypeId,ReactorModel,ConstructionStartAt,OperationalFrom,OperationalTo,Capacity,Source,LastUpdatedAt,IAEAId
 1,Ågesta,59.206000,18.082900,SE,5,20,,1957-12-01,1964-05-01,1974-06-02,9,WNA/IAEA,2015-05-24T04:51:37+03:00,528
-2,Akademik Lomonosov-1 (Vilyuchinsk),59.919000,30.261000,RU,3,21,KLT-40S 'Floating',2007-04-15,2020-05-22,,30,WNA/IAEA,2020-06-06T02:15:57+03:00,895
-3,Akademik Lomonosov-2 (Vilyuchinsk),59.919000,30.261000,RU,3,21,KLT-40S 'Floating',2007-04-15,2020-05-22,,30,WNA/IAEA,2020-06-06T02:15:57+03:00,896
+2,Akademik Lomonosov-1,69.709579,170.306250,RU,3,21,KLT-40S 'Floating',2007-04-15,2020-05-22,,30,WNA/IAEA/Google Maps,2021-05-31,895
+3,Akademik Lomonosov-2,69.709579,170.306250,RU,3,21,KLT-40S 'Floating',2007-04-15,2020-05-22,,30,WNA/IAEA/Google Maps,2021-05-31,896
 4,Akhvaz-1,,,IR,1,,,,,,,WNA,,
 5,Akhvaz-2,,,IR,1,,,,,,,WNA,,
 6,Akkuyu-1,36.144444,33.541111,TR,2,21,VVER V-509,2018-04-03,,,1114,WNA/Wikipedia/IAEA,2018-07-01T01:21:08+03:00,553
