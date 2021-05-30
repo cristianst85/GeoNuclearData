@@ -334,9 +334,9 @@
     "ConstructionStartAt": "1975-07-01",
     "OperationalFrom": "1980-05-03",
     "OperationalTo": null,
-    "Capacity": 423,
+    "Capacity": 430,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2021-04-20T02:47:37+03:00",
+    "LastUpdatedAt": "2021-05-30T17:38:32+03:00",
     "IAEAId": 2
   },
   {
@@ -519,11 +519,11 @@
     "ReactorTypeId": 21,
     "ReactorModel": "APR-1400",
     "ConstructionStartAt": "2012-07-19",
-    "OperationalFrom": null,
+    "OperationalFrom": "2021-04-01",
     "OperationalTo": null,
     "Capacity": 1345,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2020-08-31T01:39:56+03:00",
+    "LastUpdatedAt": "2021-05-30T17:38:32+03:00",
     "IAEAId": 1050
   },
   {
@@ -5751,15 +5751,15 @@
     "Latitude": 41.270000,
     "Longitude": -73.950000,
     "CountryCode": "US",
-    "StatusId": 3,
+    "StatusId": 5,
     "ReactorTypeId": 21,
     "ReactorModel": "WH 4LP (DRYAMB)",
     "ConstructionStartAt": "1968-11-01",
     "OperationalFrom": "1976-08-30",
-    "OperationalTo": null,
+    "OperationalTo": "2021-04-30",
     "Capacity": 965,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2017-02-10T23:58:17+02:00",
+    "LastUpdatedAt": "2021-05-30T17:38:32+03:00",
     "IAEAId": 635
   },
   {

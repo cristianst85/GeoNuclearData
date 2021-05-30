@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.17.8 (2021-05-30)
+
+ - added reactors planned or under construction in China (Xudabao-1, Xudabao-2, Xudabao-3, Xudabao-4, Tianwan-7, Tianwan-8, Changjiang-4, Changjiang SMR-1, Changjiang SMR-2, Bohai Shipyard FNPP, Jiaodong Shipyard FNPP, and Shanwei-2);
+ - updated with data from PRIS database (update 2021/05/29).
+
 ## 0.17.7 (2021-04-30)
 
  - updated with data from PRIS database (update 2021/04/30).
