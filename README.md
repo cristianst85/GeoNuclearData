@@ -94,7 +94,7 @@ _Naming_
 _Coordinates_
 
 - the coordinates found in GeoNuclearData database are approximate;
-- the original source for the existing coordinates is an old Excel file from WNA dating back to 2012. Since the inception of this database some of the coordinates were manually corrected using Wikipedia/GeoHack and/or satellite imagery from Google Maps;
+- the original source for the existing coordinates was an old Google Fusion Table dating back to March 2012 (probably sourced from WNA). Since the inception of this database some of the coordinates were manually corrected using Wikipedia/GeoHack and/or satellite imagery from Google Maps;
 - the operational [Akademik Lomonosov-1](https://www.world-nuclear.org/reactor/default.aspx/AKADEMIK%20LOMONOSOV-1) and [2](https://www.world-nuclear.org/reactor/default.aspx/AKADEMIK%20LOMONOSOV-2) reactors (Russia) and planned Bohai Shipyard FNPP and Jiaodong Shipyard FNPP (China) reactors are floating nuclear power plants thus the coordinates from this database may not necessarily indicate their current location.
 
 ## Usage
