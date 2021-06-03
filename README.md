@@ -73,7 +73,7 @@ _Operational Reactors_
 _Reactors Under Construction_
 
 - The number of reactors listed as being under construction in the GeoNuclearData database does not match with either the number of reactors under construction from WNA's database or with the number from the PRIS database:
-  - [BALTIC-1](https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=968) reactor (Rusia) is shown as under construction in PRIS, but it was removed from the WNA's database in November 2000 ([see here](https://www.world-nuclear.org/information-library/country-profiles/countries-o-s/russia-nuclear-power.aspx));
+  - [BALTIC-1](https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=968) reactor (Russia) is shown as under construction in PRIS, but it was removed from the WNA's database in November 2000 ([see here](https://www.world-nuclear.org/information-library/country-profiles/countries-o-s/russia-nuclear-power.aspx));
   - [TIANWAN-6](https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=976) reactor (China) is shown as under construction in PRIS, but it is listed as operable in WNA's database ([see here](https://www.world-nuclear.org/reactor/default.aspx/TIANWAN-6));
 - In addition to the list of reactors under construction from the PRIS database, the GeoNuclearData database also contains the following reactors (as in WNA's database): 
   - CAP1400-1 ([Shidaowan 1](https://www.world-nuclear.org/reactor/default.aspx/SHIDAOWAN-1));
