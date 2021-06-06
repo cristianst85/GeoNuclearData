@@ -325,7 +325,7 @@
   },
   {
     "Id": 19,
-    "Name": "Armenia-1 (Armenian-1 / Metsamor)",
+    "Name": "Armenian-1",
     "Latitude": 40.182000,
     "Longitude": 44.147000,
     "Country": "Armenia",
@@ -337,13 +337,13 @@
     "OperationalFrom": "1977-10-06",
     "OperationalTo": "1989-02-25",
     "Capacity": 376,
-    "LastUpdatedAt": "2015-05-24T04:48:59+03:00",
+    "LastUpdatedAt": "2021-06-07T00:00:00+03:00",
     "Source": "WNA/IAEA",
     "IAEAId": 1
   },
   {
     "Id": 20,
-    "Name": "Armenia-2 (Armenian-2 / Metsamor)",
+    "Name": "Armenian-2",
     "Latitude": 40.182000,
     "Longitude": 44.147000,
     "Country": "Armenia",
@@ -355,13 +355,13 @@
     "OperationalFrom": "1980-05-03",
     "OperationalTo": null,
     "Capacity": 430,
-    "LastUpdatedAt": "2021-05-30T17:38:32+03:00",
+    "LastUpdatedAt": "2021-06-07T00:00:00+03:00",
     "Source": "WNA/IAEA",
     "IAEAId": 2
   },
   {
     "Id": 21,
-    "Name": "Armenia-3 (Armenian-3 / Metsamor)",
+    "Name": "Armenian-3",
     "Latitude": 40.180800,
     "Longitude": 44.147200,
     "Country": "Armenia",
@@ -373,7 +373,7 @@
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": null,
-    "LastUpdatedAt": null,
+    "LastUpdatedAt": "2021-06-07T00:00:00+03:00",
     "Source": "WNA",
     "IAEAId": null
   },
@@ -595,7 +595,7 @@
   },
   {
     "Id": 34,
-    "Name": "Bargi-1 (Chutka-1)",
+    "Name": "Chutka-1",
     "Latitude": null,
     "Longitude": null,
     "Country": "India",
@@ -607,13 +607,13 @@
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": null,
-    "LastUpdatedAt": null,
+    "LastUpdatedAt": "2021-06-07T00:00:00+03:00",
     "Source": "WNA",
     "IAEAId": null
   },
   {
     "Id": 35,
-    "Name": "Bargi-2 (Chutka-2)",
+    "Name": "Chutka-2",
     "Latitude": null,
     "Longitude": null,
     "Country": "India",
@@ -625,7 +625,7 @@
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": null,
-    "LastUpdatedAt": null,
+    "LastUpdatedAt": "2021-06-07T00:00:00+03:00",
     "Source": "WNA",
     "IAEAId": null
   },
@@ -1261,7 +1261,7 @@
   },
   {
     "Id": 71,
-    "Name": "Bonus",
+    "Name": "BONUS",
     "Latitude": 18.365000,
     "Longitude": -67.268000,
     "Country": "United States",
@@ -1273,7 +1273,7 @@
     "OperationalFrom": "1965-09-01",
     "OperationalTo": "1968-06-01",
     "Capacity": 17,
-    "LastUpdatedAt": "2015-05-24T04:51:48+03:00",
+    "LastUpdatedAt": "2021-06-06T00:00:00+03:00",
     "Source": "WNA/IAEA",
     "IAEAId": 703
   },
@@ -2143,7 +2143,7 @@
   },
   {
     "Id": 121,
-    "Name": "CEFR (Chinese Experimental Fast Reactor)",
+    "Name": "CEFR (China Experimental Fast Reactor)",
     "Latitude": 39.739000,
     "Longitude": 116.030000,
     "Country": "China",
@@ -2155,7 +2155,7 @@
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": 20,
-    "LastUpdatedAt": "2015-05-24T04:51:58+03:00",
+    "LastUpdatedAt": "2021-06-12T00:00:00+03:00",
     "Source": "WNA/IAEA",
     "IAEAId": 1047
   },
@@ -2323,7 +2323,7 @@
   },
   {
     "Id": 131,
-    "Name": "Chasma-1 (Chasnupp-1)",
+    "Name": "CHASNUPP-1",
     "Latitude": 32.392000,
     "Longitude": 71.463000,
     "Country": "Pakistan",
@@ -2335,13 +2335,13 @@
     "OperationalFrom": "2000-09-15",
     "OperationalTo": null,
     "Capacity": 300,
-    "LastUpdatedAt": "2015-05-24T04:51:31+03:00",
+    "LastUpdatedAt": "2021-06-07T00:00:00+03:00",
     "Source": "WNA/IAEA",
     "IAEAId": 428
   },
   {
     "Id": 132,
-    "Name": "Chasma-2 (Chasnupp-2)",
+    "Name": "CHASNUPP-2",
     "Latitude": 32.392000,
     "Longitude": 71.463000,
     "Country": "Pakistan",
@@ -2353,13 +2353,13 @@
     "OperationalFrom": "2011-05-18",
     "OperationalTo": null,
     "Capacity": 300,
-    "LastUpdatedAt": "2015-05-24T04:51:31+03:00",
+    "LastUpdatedAt": "2021-06-07T00:00:00+03:00",
     "Source": "WNA/IAEA",
     "IAEAId": 429
   },
   {
     "Id": 133,
-    "Name": "Chasma-3 (Chasnupp-3)",
+    "Name": "CHASNUPP-3",
     "Latitude": 32.392000,
     "Longitude": 71.465000,
     "Country": "Pakistan",
@@ -2371,13 +2371,13 @@
     "OperationalFrom": "2016-12-06",
     "OperationalTo": null,
     "Capacity": 315,
-    "LastUpdatedAt": "2020-08-31T01:39:56+03:00",
+    "LastUpdatedAt": "2021-06-07T00:00:00+03:00",
     "Source": "WNA/IAEA",
     "IAEAId": 1044
   },
   {
     "Id": 134,
-    "Name": "Chasma-4 (Chasnupp-4)",
+    "Name": "CHASNUPP-4",
     "Latitude": 32.391944,
     "Longitude": 71.461667,
     "Country": "Pakistan",
@@ -2389,7 +2389,7 @@
     "OperationalFrom": "2017-09-19",
     "OperationalTo": null,
     "Capacity": 313,
-    "LastUpdatedAt": "2018-03-10T14:53:16+02:00",
+    "LastUpdatedAt": "2021-06-07T00:00:00+03:00",
     "Source": "IAEA",
     "IAEAId": 1045
   },
@@ -4393,7 +4393,7 @@
   },
   {
     "Id": 246,
-    "Name": "Ge Vallecitos",
+    "Name": "GE Vallecitos",
     "Latitude": 37.613056,
     "Longitude": -121.840000,
     "Country": "United States",
@@ -4405,7 +4405,7 @@
     "OperationalFrom": "1957-10-19",
     "OperationalTo": "1963-12-09",
     "Capacity": 24,
-    "LastUpdatedAt": "2015-05-24T04:51:55+03:00",
+    "LastUpdatedAt": "2021-06-06T00:00:00+03:00",
     "Source": "IAEA",
     "IAEAId": 893
   },
@@ -4519,7 +4519,7 @@
   },
   {
     "Id": 253,
-    "Name": "GKN Dodewaard",
+    "Name": "Dodewaard",
     "Latitude": 51.899000,
     "Longitude": 5.687000,
     "Country": "Netherlands",
@@ -4531,7 +4531,7 @@
     "OperationalFrom": "1969-03-26",
     "OperationalTo": "1997-03-26",
     "Capacity": 54,
-    "LastUpdatedAt": "2015-05-24T04:51:31+03:00",
+    "LastUpdatedAt": "2021-06-07T00:00:00+03:00",
     "Source": "WNA/IAEA",
     "IAEAId": 422
   },
@@ -5509,7 +5509,7 @@
   },
   {
     "Id": 308,
-    "Name": "Higashi-Dori-1 (Tohoku)",
+    "Name": "Higashi Dori-1 (Tohoku)",
     "Latitude": 41.188000,
     "Longitude": 141.393000,
     "Country": "Japan",
@@ -5521,13 +5521,13 @@
     "OperationalFrom": "2005-12-08",
     "OperationalTo": null,
     "Capacity": 1067,
-    "LastUpdatedAt": "2015-05-24T04:51:50+03:00",
+    "LastUpdatedAt": "2021-06-07T00:00:00+03:00",
     "Source": "WNA/IAEA",
     "IAEAId": 841
   },
   {
     "Id": 309,
-    "Name": "Higashi-Dori-1 (Tokyo)",
+    "Name": "Higashi Dori-1 (Tokyo)",
     "Latitude": 41.185600,
     "Longitude": 141.388000,
     "Country": "Japan",
@@ -5545,7 +5545,7 @@
   },
   {
     "Id": 310,
-    "Name": "Higashi-Dori-2 (Tohoku)",
+    "Name": "Higashi Dori-2 (Tohoku)",
     "Latitude": 41.185600,
     "Longitude": 141.390000,
     "Country": "Japan",
@@ -5563,7 +5563,7 @@
   },
   {
     "Id": 311,
-    "Name": "Higashi-Dori-2 (Tokyo)",
+    "Name": "Higashi Dori-2 (Tokyo)",
     "Latitude": 41.185600,
     "Longitude": 141.389000,
     "Country": "Japan",
@@ -6229,7 +6229,7 @@
   },
   {
     "Id": 348,
-    "Name": "Juelich",
+    "Name": "AVR Juelich",
     "Latitude": 50.903000,
     "Longitude": 6.421000,
     "Country": "Germany",
@@ -6241,7 +6241,7 @@
     "OperationalFrom": "1969-05-19",
     "OperationalTo": "1988-12-31",
     "Capacity": 13,
-    "LastUpdatedAt": "2015-05-24T04:54:05+03:00",
+    "LastUpdatedAt": "2021-06-07T00:00:00+03:00",
     "Source": "WNA/IAEA",
     "IAEAId": 114
   },
@@ -6607,7 +6607,7 @@
   },
   {
     "Id": 369,
-    "Name": "Kanupp-1",
+    "Name": "KANUPP-1",
     "Latitude": 24.845000,
     "Longitude": 66.790000,
     "Country": "Pakistan",
@@ -6619,13 +6619,13 @@
     "OperationalFrom": "1972-12-07",
     "OperationalTo": null,
     "Capacity": 125,
-    "LastUpdatedAt": "2021-02-14T00:07:00+02:00",
+    "LastUpdatedAt": "2021-06-07T00:00:00+03:00",
     "Source": "WNA/IAEA",
     "IAEAId": 427
   },
   {
     "Id": 370,
-    "Name": "Karlsruhe MZFR",
+    "Name": "MZFR",
     "Latitude": 49.104000,
     "Longitude": 8.432000,
     "Country": "Germany",
@@ -6637,7 +6637,7 @@
     "OperationalFrom": "1966-12-19",
     "OperationalTo": "1984-05-03",
     "Capacity": 50,
-    "LastUpdatedAt": "2015-05-24T04:50:44+03:00",
+    "LastUpdatedAt": "2021-06-07T00:00:00+03:00",
     "Source": "WNA/IAEA",
     "IAEAId": 93
   },
@@ -8623,7 +8623,7 @@
   },
   {
     "Id": 481,
-    "Name": "Nizhegorod-1",
+    "Name": "Nizhny Novgorod-1",
     "Latitude": 55.786863,
     "Longitude": 42.372150,
     "Country": "Russia",
@@ -8635,13 +8635,13 @@
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": null,
-    "LastUpdatedAt": null,
+    "LastUpdatedAt": "2021-06-07T00:00:00+03:00",
     "Source": "WNA",
     "IAEAId": null
   },
   {
     "Id": 482,
-    "Name": "Nizhegorod-2",
+    "Name": "Nizhny Novgorod-2",
     "Latitude": 55.787102,
     "Longitude": 42.372150,
     "Country": "Russia",
@@ -8653,7 +8653,7 @@
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": null,
-    "LastUpdatedAt": null,
+    "LastUpdatedAt": "2021-06-07T00:00:00+03:00",
     "Source": "WNA",
     "IAEAId": null
   },
@@ -11161,7 +11161,7 @@
   },
   {
     "Id": 622,
-    "Name": "Shin Wolsong-1",
+    "Name": "Shin-Wolsong-1",
     "Latitude": 35.722000,
     "Longitude": 129.479000,
     "Country": "South Korea",
@@ -11173,13 +11173,13 @@
     "OperationalFrom": "2012-07-31",
     "OperationalTo": null,
     "Capacity": 997,
-    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
+    "LastUpdatedAt": "2021-06-06T00:00:00+03:00",
     "Source": "WNA/IAEA",
     "IAEAId": 883
   },
   {
     "Id": 623,
-    "Name": "Shin Wolsong-2",
+    "Name": "Shin-Wolsong-2",
     "Latitude": 35.722000,
     "Longitude": 129.479000,
     "Country": "South Korea",
@@ -11191,7 +11191,7 @@
     "OperationalFrom": "2015-07-24",
     "OperationalTo": null,
     "Capacity": 993,
-    "LastUpdatedAt": "2021-04-20T02:47:37+03:00",
+    "LastUpdatedAt": "2021-06-06T00:00:00+03:00",
     "Source": "WNA/IAEA",
     "IAEAId": 884
   },
@@ -13789,7 +13789,7 @@
   },
   {
     "Id": 783,
-    "Name": "Kanupp-2",
+    "Name": "KANUPP-2",
     "Latitude": 24.845000,
     "Longitude": 66.790000,
     "Country": "Pakistan",
@@ -13801,7 +13801,7 @@
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": 1014,
-    "LastUpdatedAt": "2021-04-20T02:47:37+03:00",
+    "LastUpdatedAt": "2021-06-07T00:00:00+03:00",
     "Source": "IAEA",
     "IAEAId": 1067
   },
@@ -13825,7 +13825,7 @@
   },
   {
     "Id": 785,
-    "Name": "Kanupp-3",
+    "Name": "KANUPP-3",
     "Latitude": 24.845000,
     "Longitude": 66.790000,
     "Country": "Pakistan",
@@ -13837,7 +13837,7 @@
     "OperationalFrom": null,
     "OperationalTo": null,
     "Capacity": 1014,
-    "LastUpdatedAt": "2017-02-10T23:59:39+02:00",
+    "LastUpdatedAt": "2021-06-07T00:00:00+03:00",
     "Source": "IAEA",
     "IAEAId": 1068
   },
