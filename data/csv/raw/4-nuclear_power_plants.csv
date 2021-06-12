@@ -792,7 +792,7 @@ Id,Name,Latitude,Longitude,CountryCode,StatusId,ReactorTypeId,ReactorModel,Const
 807,Tianwan-7,34.682800,119.456000,CN,2,21,VVER V-491,2021-05-19,,,,WNA/Wikipedia,2021-05-29,
 808,Tianwan-8,34.682800,119.456000,CN,1,21,VVER-1200,,,,,Wikipedia,2021-05-29,
 809,Changjiang-4,19.460750,108.899917,CN,1,21,Hualong One,,,,,Wikipedia,2021-05-29,
-810,Changjiang SMR-1,19.460070,108.889920,CN,2,21,ACP100,,,,,WNA,2021-05-29,
+810,Changjiang SMR-1,19.460070,108.889920,CN,1,21,ACP100,,,,,WNA,2021-06-12,
 811,Changjiang SMR-2,,,CN,1,21,ACP100,,,,,WNA,2021-05-29,
 812,Bohai Shipyard FNPP,,,CN,1,21,ACPR50S,,,,,WNA,2021-05-29,
 813,Jiaodong Shipyard FNPP,,,CN,1,21,ACP100S,,,,,WNA,2021-05-29,

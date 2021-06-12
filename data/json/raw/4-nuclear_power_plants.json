@@ -13486,7 +13486,7 @@
     "Latitude": 19.460070,
     "Longitude": 108.889920,
     "CountryCode": "CN",
-    "StatusId": 2,
+    "StatusId": 1,
     "ReactorTypeId": 21,
     "ReactorModel": "ACP100",
     "ConstructionStartAt": null,
@@ -13494,7 +13494,7 @@
     "OperationalTo": null,
     "Capacity": null,
     "Source": "WNA",
-    "LastUpdatedAt": "2021-05-29T00:00:00+03:00",
+    "LastUpdatedAt": "2021-06-12T00:00:00+03:00",
     "IAEAId": null
   },
   {

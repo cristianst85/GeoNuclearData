@@ -826,7 +826,7 @@ INSERT INTO `nuclear_power_plants` VALUES ('806', 'Xudabao-4', '40.351389', '120
 INSERT INTO `nuclear_power_plants` VALUES ('807', 'Tianwan-7', '34.682800', '119.456000', 'CN', '2', '21', 'VVER V-491', '2021-05-19', null, null, null, 'WNA/Wikipedia', '2021-05-29 00:00:00', null);
 INSERT INTO `nuclear_power_plants` VALUES ('808', 'Tianwan-8', '34.682800', '119.456000', 'CN', '1', '21', 'VVER-1200', null, null, null, null, 'Wikipedia', '2021-05-29 00:00:00', null);
 INSERT INTO `nuclear_power_plants` VALUES ('809', 'Changjiang-4', '19.460750', '108.899917', 'CN', '1', '21', 'Hualong One', null, null, null, null, 'Wikipedia', '2021-05-29 00:00:00', null);
-INSERT INTO `nuclear_power_plants` VALUES ('810', 'Changjiang SMR-1', '19.460070', '108.889920', 'CN', '2', '21', 'ACP100', null, null, null, null, 'WNA', '2021-05-29 00:00:00', null);
+INSERT INTO `nuclear_power_plants` VALUES ('810', 'Changjiang SMR-1', '19.460070', '108.889920', 'CN', '1', '21', 'ACP100', null, null, null, null, 'WNA', '2021-06-12 00:00:00', null);
 INSERT INTO `nuclear_power_plants` VALUES ('811', 'Changjiang SMR-2', null, null, 'CN', '1', '21', 'ACP100', null, null, null, null, 'WNA', '2021-05-29 00:00:00', null);
 INSERT INTO `nuclear_power_plants` VALUES ('812', 'Bohai Shipyard FNPP', null, null, 'CN', '1', '21', 'ACPR50S', null, null, null, null, 'WNA', '2021-05-29 00:00:00', null);
 INSERT INTO `nuclear_power_plants` VALUES ('813', 'Jiaodong Shipyard FNPP', null, null, 'CN', '1', '21', 'ACP100S', null, null, null, null, 'WNA', '2021-05-29 00:00:00', null);
