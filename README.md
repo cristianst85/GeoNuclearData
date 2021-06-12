@@ -5,7 +5,7 @@ This repository contains a database with information about Nuclear Power Plants 
 ### Version
 
 Database version: **0.17.0** (**2020/04/19**)  
-Dataset last updated in version: **0.17.8** (**2021/05/30**)
+Dataset last updated in version: **0.17.9** (**2021/06/12**)
 
 ### Changelog
 
@@ -20,8 +20,8 @@ Data is available in multiple formats (MySQL, JSON, and CSV).
 |**Status**            |**Count**|
 |----------------------|--------:|
 |Unknown               |        1|
-|Planned               |       91|
-|Under Construction    |       58|
+|Planned               |       92|
+|Under Construction    |       57|
 |Operational           |      443|
 |Shutdown              |      193|
 |Suspended Construction|        6|
@@ -78,7 +78,6 @@ _Reactors Under Construction_
 - In addition to the list of reactors under construction from the PRIS database, the GeoNuclearData database also contains the following reactors (as in WNA's database): 
   - CAP1400-1 ([Shidaowan 1](https://www.world-nuclear.org/reactor/default.aspx/SHIDAOWAN-1));
   - CAP1400-1 ([Shidaowan 2](https://www.world-nuclear.org/reactor/default.aspx/SHIDAOWAN-2));
-  - [Changjiang SMR-1](https://www.world-nuclear.org/reactor/default.aspx/CHANGJIANG%20SMR);
   - Xiapu-2 ([Xiapu 2](https://www.world-nuclear.org/reactor/default.aspx/XIAPU-2));
   - Xudabao-3 ([Xudabao 3](https://www.world-nuclear.org/reactor/default.aspx/XUDABAO-3));
   - Tianwan-7 ([Tianwan 7](https://www.world-nuclear.org/reactor/default.aspx/TIANWAN-7)).

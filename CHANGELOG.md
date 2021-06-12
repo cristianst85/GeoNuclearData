@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.17.9 (2021-06-12)
+
+ - updated coordinates for Akademik Lomonosov-1 and 2;
+ - updated or corrected reactor names to match the naming from PRIS or with the one used by WNA where PRIS data is not yet available;
+ - updated status for Changjiang SMR-1 from Under Construction to Planned (WNA).
+
 ## 0.17.8 (2021-05-30)
 
  - added reactors planned or under construction in China (Xudabao-1, Xudabao-2, Xudabao-3, Xudabao-4, Tianwan-7, Tianwan-8, Changjiang-4, Changjiang SMR-1, Changjiang SMR-2, Bohai Shipyard FNPP, Jiaodong Shipyard FNPP, and Shanwei-2);
