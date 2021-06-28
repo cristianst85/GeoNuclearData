@@ -5,7 +5,7 @@ This repository contains a database with information about Nuclear Power Plants 
 ### Version
 
 Database version: **0.17.0** (**2020/04/19**)  
-Dataset last updated in version: **0.17.9** (**2021/06/12**)
+Dataset last updated in version: **0.17.10** (**2021/06/29**)
 
 ### Changelog
 
@@ -21,8 +21,8 @@ Data is available in multiple formats (MySQL, JSON, and CSV).
 |----------------------|--------:|
 |Unknown               |        1|
 |Planned               |       92|
-|Under Construction    |       57|
-|Operational           |      443|
+|Under Construction    |       56|
+|Operational           |      444|
 |Shutdown              |      193|
 |Suspended Construction|        6|
 |Cancelled Construction|        4|
@@ -68,13 +68,12 @@ Data from `source`, `last_updated_at`, and `iaea_id` columns is for maintenance 
 
 _Operational Reactors_
 
-* There are currently 443 reactors listed as being operational in the GeoNuclearData database, the same number as in the PRIS database. Although the China Experimental Fast Reactor ([CEFR](https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=1047)) is grid-connected and occasionally producing 20 MWe net, it is omitted from the WNA's operating nuclear power reactors table ([see here](https://www.world-nuclear.org/information-library/country-profiles/countries-a-f/china-nuclear-power.aspx)) because it is considered minor and experimental, but it is included in IAEA figures for operational reactors ([see here](https://pris.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=CN)).
+* There are currently 444 reactors listed as being operational in the GeoNuclearData database, the same number as in the PRIS database. Although the China Experimental Fast Reactor ([CEFR](https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=1047)) is grid-connected and occasionally producing 20 MWe net, it is omitted from the WNA's operating nuclear power reactors table ([see here](https://www.world-nuclear.org/information-library/country-profiles/countries-a-f/china-nuclear-power.aspx)) because it is considered minor and experimental, but it is included in IAEA figures for operational reactors ([see here](https://pris.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=CN)).
 
 _Reactors Under Construction_
 
 - The number of reactors listed as being under construction in the GeoNuclearData database does not match with either the number of reactors under construction from WNA's database or with the number from the PRIS database:
   - [BALTIC-1](https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=968) reactor (Russia) is shown as under construction in PRIS, but it was removed from the WNA's database in November 2000 ([see here](https://www.world-nuclear.org/information-library/country-profiles/countries-o-s/russia-nuclear-power.aspx));
-  - [TIANWAN-6](https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=976) reactor (China) is shown as under construction in PRIS, but it is listed as operable in WNA's database ([see here](https://www.world-nuclear.org/reactor/default.aspx/TIANWAN-6));
 - In addition to the list of reactors under construction from the PRIS database, the GeoNuclearData database also contains the following reactors (as in WNA's database): 
   - CAP1400-1 ([Shidaowan 1](https://www.world-nuclear.org/reactor/default.aspx/SHIDAOWAN-1));
   - CAP1400-1 ([Shidaowan 2](https://www.world-nuclear.org/reactor/default.aspx/SHIDAOWAN-2));

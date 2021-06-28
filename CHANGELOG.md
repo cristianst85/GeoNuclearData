@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.17.10 (2021-06-29)
+
+ - updated with data from PRIS database (update 2021/06/26).
+
 ## 0.17.9 (2021-06-12)
 
  - updated coordinates for Akademik Lomonosov-1 and 2;
