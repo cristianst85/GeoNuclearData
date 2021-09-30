@@ -162,11 +162,11 @@
     "ReactorTypeId": 7,
     "ReactorModel": "BN-350",
     "ConstructionStartAt": "1964-10-01",
-    "OperationalFrom": null,
+    "OperationalFrom": "1973-07-16",
     "OperationalTo": "1999-04-22",
     "Capacity": 52,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2021-04-20T02:47:37+03:00",
+    "LastUpdatedAt": "2021-10-01T00:14:53+03:00",
     "IAEAId": 414
   },
   {
@@ -532,7 +532,7 @@
     "Latitude": 23.952748,
     "Longitude": 52.193298,
     "CountryCode": "AE",
-    "StatusId": 2,
+    "StatusId": 3,
     "ReactorTypeId": 21,
     "ReactorModel": "APR-1400",
     "ConstructionStartAt": "2013-04-16",
@@ -540,7 +540,7 @@
     "OperationalTo": null,
     "Capacity": 1345,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2015-12-27T17:05:52+02:00",
+    "LastUpdatedAt": "2021-10-01T00:14:53+03:00",
     "IAEAId": 1051
   },
   {
@@ -672,11 +672,11 @@
     "ReactorTypeId": 21,
     "ReactorModel": "VVER V-491",
     "ConstructionStartAt": "2013-11-08",
-    "OperationalFrom": null,
+    "OperationalFrom": "2021-06-10",
     "OperationalTo": null,
     "Capacity": 1110,
     "Source": "IAEA",
-    "LastUpdatedAt": "2021-01-06T01:19:47+02:00",
+    "LastUpdatedAt": "2021-10-01T00:14:53+03:00",
     "IAEAId": 1056
   },
   {
@@ -6975,15 +6975,15 @@
     "Latitude": 25.203000,
     "Longitude": 121.662000,
     "CountryCode": "TW",
-    "StatusId": 3,
+    "StatusId": 5,
     "ReactorTypeId": 5,
     "ReactorModel": "BWR-6",
     "ConstructionStartAt": "1975-11-19",
     "OperationalFrom": "1981-12-28",
-    "OperationalTo": null,
-    "Capacity": 985,
+    "OperationalTo": "2021-07-02",
+    "Capacity": 948,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2021-04-20T02:47:37+03:00",
+    "LastUpdatedAt": "2021-10-01T00:14:53+03:00",
     "IAEAId": 556
   },
   {
@@ -7797,9 +7797,9 @@
     "ConstructionStartAt": "1983-10-13",
     "OperationalFrom": "1998-10-29",
     "OperationalTo": null,
-    "Capacity": 436,
+    "Capacity": 408,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2021-01-06T01:19:47+02:00",
+    "LastUpdatedAt": "2021-10-01T00:14:53+03:00",
     "IAEAId": 550
   },
   {
@@ -7814,9 +7814,9 @@
     "ConstructionStartAt": "1983-10-13",
     "OperationalFrom": "2000-04-11",
     "OperationalTo": null,
-    "Capacity": 469,
+    "Capacity": 408,
     "Source": "WNA/IAEA",
-    "LastUpdatedAt": "2021-02-14T03:47:53+02:00",
+    "LastUpdatedAt": "2021-10-01T00:14:53+03:00",
     "IAEAId": 551
   },
   {
@@ -13403,14 +13403,14 @@
     "CountryCode": "CN",
     "StatusId": 2,
     "ReactorTypeId": 21,
-    "ReactorModel": "VVER V-491",
-    "ConstructionStartAt": "2021-05-19",
+    "ReactorModel": "AES-2006",
+    "ConstructionStartAt": "2021-07-28",
     "OperationalFrom": null,
     "OperationalTo": null,
-    "Capacity": null,
-    "Source": "WNA/Wikipedia",
-    "LastUpdatedAt": "2021-05-29T00:00:00+03:00",
-    "IAEAId": null
+    "Capacity": 1200,
+    "Source": "WNA/Wikipedia/IAEA",
+    "LastUpdatedAt": "2021-10-01T00:14:53+03:00",
+    "IAEAId": 1104
   },
   {
     "Id": 806,

@@ -5,7 +5,7 @@ This repository contains a database with information about Nuclear Power Plants 
 ### Version
 
 Database version: **0.17.0** (**2020/04/19**)  
-Dataset last updated in version: **0.17.10** (**2021/06/29**)
+Dataset last updated in version: **0.17.11** (**2021/09/30**)
 
 ### Changelog
 
@@ -21,9 +21,9 @@ Data is available in multiple formats (MySQL, JSON, and CSV).
 |----------------------|--------:|
 |Unknown               |        1|
 |Planned               |       92|
-|Under Construction    |       56|
+|Under Construction    |       55|
 |Operational           |      444|
-|Shutdown              |      193|
+|Shutdown              |      194|
 |Suspended Construction|        6|
 |Cancelled Construction|        4|
 |Never Commissioned    |        2|
@@ -78,7 +78,6 @@ _Reactors Under Construction_
   - CAP1400-1 ([Shidaowan 1](https://www.world-nuclear.org/reactor/default.aspx/SHIDAOWAN-1));
   - CAP1400-1 ([Shidaowan 2](https://www.world-nuclear.org/reactor/default.aspx/SHIDAOWAN-2));
   - Xiapu-2 ([Xiapu 2](https://www.world-nuclear.org/reactor/default.aspx/XIAPU-2));
-  - Xudabao-3 ([Xudabao 3](https://www.world-nuclear.org/reactor/default.aspx/XUDABAO-3));
   - Tianwan-7 ([Tianwan 7](https://www.world-nuclear.org/reactor/default.aspx/TIANWAN-7)).
 
 _Naming_
