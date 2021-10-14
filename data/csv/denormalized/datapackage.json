@@ -23,14 +23,14 @@
           },
           {
             "name": "Latitude",
-            "type": "integer",
+            "type": "number",
             "format": "default",
             "title": "Latitude",
             "description": "The North/South position of the plant"
           },
           {
             "name": "Longitude",
-            "type": "integer",
+            "type": "number",
             "format": "default",
             "description": "The East/West position of the plant",
             "title": "Longitude"
