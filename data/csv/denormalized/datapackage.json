@@ -1,0 +1,144 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "nuclear-power-plants",
+      "path": "nuclear_power_plants.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Id",
+            "type": "integer",
+            "format": "default",
+            "title": "ID",
+            "description": "Unique identifier used in this nuclear power plants database"
+          },
+          {
+            "name": "Name",
+            "type": "string",
+            "format": "default",
+            "title": "Name",
+            "description": "The common name of the power plant "
+          },
+          {
+            "name": "Latitude",
+            "type": "number",
+            "format": "default",
+            "title": "Latitude",
+            "description": "The North/South position of the plant"
+          },
+          {
+            "name": "Longitude",
+            "type": "number",
+            "format": "default",
+            "description": "The East/West position of the plant",
+            "title": "Longitude"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "format": "default",
+            "title": "Country",
+            "description": "The country in which the power plant is located"
+          },
+          {
+            "name": "CountryCode",
+            "type": "string",
+            "format": "default",
+            "title": "Country  Code",
+            "description": "The ISO alpha-2 country codes"
+          },
+          {
+            "name": "Status",
+            "type": "string",
+            "format": "default",
+            "title": "Status",
+            "description": "The operational status of the plant"
+          },
+          {
+            "name": "ReactorType",
+            "type": "string",
+            "format": "default",
+            "title": "Reactor Type",
+            "description": "The type of nuclear reactor used in the plant"
+          },
+          {
+            "name": "ReactorModel",
+            "type": "string",
+            "format": "default",
+            "title": "Reactor Model",
+            "description": "The model of nuclear reactor used in the plant"
+          },
+          {
+            "name": "ConstructionStartAt",
+            "type": "date",
+            "format": "%Y-%m-%d",
+            "title": "Construction Start Date",
+            "description": "The date on which construction began"
+          },
+          {
+            "name": "OperationalFrom",
+            "type": "date",
+            "format": "%Y-%m-%d",
+            "title": "Operational Start Date",
+            "description": "The date on which the site began operation"
+          },
+          {
+            "name": "OperationalTo",
+            "type": "date",
+            "format": "%Y-%m-%d",
+            "title": "Operational End Date",
+            "description": "The date on which the site was shutdown"
+          },
+          {
+            "name": "Capacity",
+            "type": "integer",
+            "format": "default",
+            "title": "Capacity (MW)",
+            "description": "The maximum power output capacity of the plant"
+          },
+          {
+            "name": "LastUpdatedAt",
+            "type": "datetime",
+            "format": "%Y-%m-%dT%H:%M:%S%z",
+            "title": "Last Updated Datetime",
+            "description": "The datetime when the data on the specified plant was last updated"
+          },
+          {
+            "name": "Source",
+            "type": "string",
+            "format": "default",
+            "title": "Data Source",
+            "description": "The source from which the data on this plant was extracted"
+          },
+          {
+            "name": "IAEAId",
+            "type": "integer",
+            "format": "default",
+            "title": "IAEA ID",
+            "description": "The unique identifier used by the IAEA"
+          }
+        ]
+      }
+    }
+  ],
+  "name": "nuclear-power-plants",
+  "title": "Nuclear Power Plants Database",
+  "description": "This repository contains a database with information about Nuclear Power Plants worldwide.",
+  "homepage": "https://github.com/cristianst85/GeoNuclearData",
+  "licenses": [
+    {
+      "name": "ODbL-1.0",
+      "title": "Open Data Commons Open Database License 1.0",
+      "path": "http://www.opendefinition.org/licenses/odc-odbl"
+    }
+  ],
+  "version": "0.17.0",
+  "contributors": [
+    {
+      "title": "Cristian Stoica",
+      "role": "author"
+    }
+  ]
+}
