@@ -26,14 +26,16 @@
             "type": "number",
             "format": "default",
             "title": "Latitude",
-            "description": "The North/South position of the plant"
+            "description": "The North/South position of the plant",
+            "rdfType": "http://www.w3.org/2003/01/geo/wgs84_pos#lat"
           },
           {
             "name": "Longitude",
             "type": "number",
             "format": "default",
             "description": "The East/West position of the plant",
-            "title": "Longitude"
+            "title": "Longitude",
+            "rdfType": "http://www.w3.org/2003/01/geo/wgs84_pos#long"
           },
           {
             "name": "Country",
@@ -96,7 +98,8 @@
             "type": "integer",
             "format": "default",
             "title": "Capacity (MW)",
-            "description": "The maximum power output capacity of the plant"
+            "description": "The maximum power output capacity of the plant",
+            "rdfType": "http://openenergy-platform.org/ontology/oeo/OEO_00230003"
           },
           {
             "name": "LastUpdatedAt",
