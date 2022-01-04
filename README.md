@@ -5,7 +5,7 @@ This repository contains a database with information about Nuclear Power Plants 
 ### Version
 
 Database version: **0.17.0** (**2020/04/19**)  
-Dataset last updated in version: **0.17.11** (**2021/09/30**)
+Dataset last updated in version: **0.17.12** (**2022/01/05**)
 
 ### Changelog
 
@@ -21,13 +21,13 @@ Data is available in multiple formats (MySQL, JSON, and CSV).
 |----------------------|--------:|
 |Unknown               |        1|
 |Planned               |       92|
-|Under Construction    |       55|
-|Operational           |      444|
-|Shutdown              |      194|
+|Under Construction    |       54|
+|Operational           |      442|
+|Shutdown              |      198|
 |Suspended Construction|        6|
 |Cancelled Construction|        4|
 |Never Commissioned    |        2|
-|**Total**             |  **798**|
+|**Total**             |  **799**|
 
 ## Tables structure
 
@@ -68,7 +68,7 @@ Data from `source`, `last_updated_at`, and `iaea_id` columns is for maintenance 
 
 _Operational Reactors_
 
-* There are currently 444 reactors listed as being operational in the GeoNuclearData database, the same number as in the PRIS database. Although the China Experimental Fast Reactor ([CEFR](https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=1047)) is grid-connected and occasionally producing 20 MWe net, it is omitted from the WNA's operating nuclear power reactors table ([see here](https://www.world-nuclear.org/information-library/country-profiles/countries-a-f/china-nuclear-power.aspx)) because it is considered minor and experimental, but it is included in IAEA figures for operational reactors ([see here](https://pris.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=CN)).
+* There are currently 442 reactors listed as being operational in the GeoNuclearData database, the same number as in the PRIS database. Although the China Experimental Fast Reactor ([CEFR](https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=1047)) is grid-connected and occasionally producing 20 MWe net, it is omitted from the WNA's operating nuclear power reactors table ([see here](https://www.world-nuclear.org/information-library/country-profiles/countries-a-f/china-nuclear-power.aspx)) because it is considered minor and experimental, but it is included in IAEA figures for operational reactors ([see here](https://pris.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=CN)).
 
 _Reactors Under Construction_
 
@@ -77,8 +77,7 @@ _Reactors Under Construction_
 - In addition to the list of reactors under construction from the PRIS database, the GeoNuclearData database also contains the following reactors (as in WNA's database): 
   - CAP1400-1 ([Shidaowan 1](https://www.world-nuclear.org/reactor/default.aspx/SHIDAOWAN-1));
   - CAP1400-1 ([Shidaowan 2](https://www.world-nuclear.org/reactor/default.aspx/SHIDAOWAN-2));
-  - Xiapu-2 ([Xiapu 2](https://www.world-nuclear.org/reactor/default.aspx/XIAPU-2));
-  - Tianwan-7 ([Tianwan 7](https://www.world-nuclear.org/reactor/default.aspx/TIANWAN-7)).
+  - Xiapu-2 ([Xiapu 2](https://www.world-nuclear.org/reactor/default.aspx/XIAPU-2)).
 
 _Naming_
 
