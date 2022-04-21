@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.17.13 (2022-04-21)
+
+ - updated with data from PRIS database (update 2022/04/19).
+
 ## 0.17.12 (2022-01-05)
 
  - updated with data from PRIS database (update 2022/01/03).

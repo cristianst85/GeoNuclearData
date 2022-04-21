@@ -5,7 +5,7 @@ This repository contains a database with information about Nuclear Power Plants 
 ### Version
 
 Database version: **0.17.0** (**2020/04/19**)  
-Dataset last updated in version: **0.17.12** (**2022/01/05**)
+Dataset last updated in version: **0.17.13** (**2022/04/21**)
 
 ### Changelog
 
@@ -20,14 +20,14 @@ Data is available in multiple formats (MySQL, JSON, and CSV).
 |**Status**            |**Count**|
 |----------------------|--------:|
 |Unknown               |        1|
-|Planned               |       92|
-|Under Construction    |       54|
-|Operational           |      442|
-|Shutdown              |      198|
+|Planned               |       89|
+|Under Construction    |       55|
+|Operational           |      441|
+|Shutdown              |      202|
 |Suspended Construction|        6|
 |Cancelled Construction|        4|
 |Never Commissioned    |        2|
-|**Total**             |  **799**|
+|**Total**             |  **800**|
 
 ## Tables structure
 
@@ -68,7 +68,7 @@ Data from `source`, `last_updated_at`, and `iaea_id` columns is for maintenance 
 
 _Operational Reactors_
 
-* There are currently 442 reactors listed as being operational in the GeoNuclearData database, the same number as in the PRIS database. Although the China Experimental Fast Reactor ([CEFR](https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=1047)) is grid-connected and occasionally producing 20 MWe net, it is omitted from the WNA's operating nuclear power reactors table ([see here](https://www.world-nuclear.org/information-library/country-profiles/countries-a-f/china-nuclear-power.aspx)) because it is considered minor and experimental, but it is included in IAEA figures for operational reactors ([see here](https://pris.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=CN)).
+* There are currently 441 reactors listed as being operational in the GeoNuclearData database, the same number as in the PRIS database. Although the China Experimental Fast Reactor ([CEFR](https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=1047)) is grid-connected and occasionally producing 20 MWe net, it is omitted from the WNA's operating nuclear power reactors table ([see here](https://www.world-nuclear.org/information-library/country-profiles/countries-a-f/china-nuclear-power.aspx)) because it is considered minor and experimental, but it is included in IAEA figures for operational reactors ([see here](https://pris.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=CN)).
 
 _Reactors Under Construction_
 
@@ -83,7 +83,6 @@ _Naming_
 
 - The GeoNuclearData database usually follows the naming conventions from PRIS for reactors, but in WNA's database some nuclear reactors have completely different names. Some examples are:
   - [BELARUSIAN-1](https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=1056) and [2](https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=1061) reactors (Belarus) are named in WNA's database [Ostrovets 1](https://www.world-nuclear.org/reactor/default.aspx/BELARUSIAN-1) and  [2](https://www.world-nuclear.org/reactor/default.aspx/BELARUSIAN-1), respectively;
-  - [SANAOCUN-1](https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=1094) reactor (China) is named in WNA's database [San'oa 1](https://www.world-nuclear.org/reactor/default.aspx/SANOA-1);
   - [CAP1400-1](https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=1085) and [2](https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=1086) reactors (China) (they were unlisted from PRIS as of 30 April 2021) are named in WNA's database [Shidaowan 1](https://www.world-nuclear.org/reactor/default.aspx/SHIDAOWAN-1) and [2](https://www.world-nuclear.org/reactor/default.aspx/SHIDAOWAN-2), respectively;
   - [KANUPP-1](https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=427), [2](https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=1067), and [3](https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=1068) reactors (Pakistan) are named in WNA's database [Karachi 1](https://www.world-nuclear.org/reactor/default.aspx/KANUPP-1), [2](https://www.world-nuclear.org/reactor/default.aspx/KANUPP-2), and [3](https://www.world-nuclear.org/reactor/default.aspx/KANUPP-3).
 
