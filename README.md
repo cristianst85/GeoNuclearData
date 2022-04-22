@@ -121,5 +121,3 @@ Nuclear power plants data is taken from [WNA](http://www.world-nuclear.org/infor
 
 WNA data is also taken from the IAEA PRIS reactor database, with more recent information added if available ([see here](https://www.world-nuclear.org/information-library/facts-and-figures/reactor-database-guide.aspx)).
 
-## Showcase
-- [uRADMonitor - Global Environmental Monitoring Network](http://www.uradmonitor.com).
