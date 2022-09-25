@@ -18,7 +18,7 @@ Data is available in multiple formats (MySQL, JSON, and CSV).
 ### Quick database summary (by reactor status)
 
 |**Status**            |**Count**|**Diff**|
-|----------------------|---------|-------:|
+|----------------------|--------:|-------:|
 |Unknown               |        1|        |
 |Planned               |       82|      -7|
 |Under Construction    |       60|      +5|
