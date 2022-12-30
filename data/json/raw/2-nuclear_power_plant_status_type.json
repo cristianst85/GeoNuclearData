@@ -42,5 +42,9 @@
   {
     "Id": 10,
     "Type": "Never Commissioned"
+  },
+  {
+    "Id": 11,
+    "Type": "Decommissioning Completed"
   }
 ]
