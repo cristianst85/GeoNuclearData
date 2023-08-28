@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.17.16 (2023-08-28)
+
+ - updated with data from PRIS database (update 2023/08/27);
+ - updated reactors names to match the naming from PRIS database;
+ - updated country data from Unicode Common Locale Data Repository (CLDR version 43).
+
 ## 0.17.15 (2022-12-30)
 
  - updated with data from PRIS database (update 2022/12/29).

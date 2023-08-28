@@ -204,6 +204,10 @@
     "Name": "Clipperton Island"
   },
   {
+    "Code": "CQ",
+    "Name": "Sark"
+  },
+  {
     "Code": "CR",
     "Name": "Costa Rica"
   },
@@ -925,7 +929,7 @@
   },
   {
     "Code": "TR",
-    "Name": "Turkey"
+    "Name": "Türkiye"
   },
   {
     "Code": "TT",

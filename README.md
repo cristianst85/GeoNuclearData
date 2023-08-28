@@ -5,7 +5,7 @@ This repository contains a database with information about Nuclear Power Plants 
 ### Version
 
 Database version: **0.17.0** (**2020/04/19**)  
-Dataset last updated in version: **0.17.15** (**2022/12/30**)
+Dataset last updated in version: **0.17.16** (**2023/08/28**)
 
 ### Changelog
 
@@ -20,16 +20,16 @@ Data is available in multiple formats (MySQL, JSON, and CSV).
 |**Status**               |**Count**|**Diff**|
 |-------------------------|--------:|-------:|
 |Unknown                  |        1|        |
-|Planned                  |       82|        |
+|Planned                  |       80|      -2|
 |Under Construction       |       60|        |
-|Operational              |      422|      -8|
-|Suspended Operation      |       17|      +8|
-|Shutdown                 |      204|      -2|
+|Operational              |      411|     -11|
+|Suspended Operation      |       27|     +10|
+|Shutdown                 |      209|      +5|
 |Suspended Construction   |        6|        |
 |Cancelled Construction   |        4|        |
 |Never Commissioned       |        2|        |
-|Decommissioning Completed|        3|      +3|
-|**Total**                |  **801**|      +1|
+|Decommissioning Completed|        3|       0|
+|**Total**                |  **803**|      +2|
 
 ## Tables structure
 
@@ -70,7 +70,8 @@ Data from `source`, `last_updated_at`, and `iaea_id` columns is for maintenance 
 
 _Operational Reactors_
 
-* There are currently 422 reactors listed as being operational in the GeoNuclearData database, the same number as in the PRIS database. Although the China Experimental Fast Reactor ([CEFR](https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=1047)) is grid-connected and occasionally producing 20 MWe net, it is omitted from the WNA's operating nuclear power reactors table ([see here](https://www.world-nuclear.org/information-library/country-profiles/countries-a-f/china-nuclear-power.aspx)) because it is considered minor and experimental, but it is included in IAEA figures for operational reactors ([see here](https://pris.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=CN)).
+- there are currently 411 reactors listed as being operational in the GeoNuclearData database, including China Experimental Fast Reactor (CEFR);
+- the PRIS database lists only 410 reactors as being operational (China Experimental Fast Reactor (CEFR) is not listed anymore) while the WNA's database has a slightly distinct category named _Operable Reactors_ that probably also includes reactors in Suspended Operation.
 
 _Reactors Under Construction_
 
