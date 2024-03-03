@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.17.17 (2024-03-03)
+
+ - updated with data from PRIS database (update 2024/03/02);
+ - updated reactors names to match the naming from PRIS database.
+
 ## 0.17.16 (2023-08-28)
 
  - updated with data from PRIS database (update 2023/08/27);

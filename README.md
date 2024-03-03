@@ -5,7 +5,7 @@ This repository contains a database with information about Nuclear Power Plants 
 ### Version
 
 Database version: **0.17.0** (**2020/04/19**)  
-Dataset last updated in version: **0.17.16** (**2023/08/28**)
+Dataset last updated in version: **0.17.17** (**2024/03/03**)
 
 ### Changelog
 
@@ -20,16 +20,16 @@ Data is available in multiple formats (MySQL, JSON, and CSV).
 |**Status**               |**Count**|**Diff**|
 |-------------------------|--------:|-------:|
 |Unknown                  |        1|        |
-|Planned                  |       80|      -2|
-|Under Construction       |       60|        |
-|Operational              |      411|     -11|
-|Suspended Operation      |       27|     +10|
-|Shutdown                 |      209|      +5|
+|Planned                  |       79|      -1|
+|Under Construction       |       61|      +1|
+|Operational              |      414|      +3|
+|Suspended Operation      |       25|      -2|
+|Shutdown                 |      209|        |
 |Suspended Construction   |        6|        |
 |Cancelled Construction   |        4|        |
 |Never Commissioned       |        2|        |
 |Decommissioning Completed|        3|       0|
-|**Total**                |  **803**|      +2|
+|**Total**                |  **804**|      +1|
 
 ## Tables structure
 
@@ -70,8 +70,8 @@ Data from `source`, `last_updated_at`, and `iaea_id` columns is for maintenance 
 
 _Operational Reactors_
 
-- there are currently 411 reactors listed as being operational in the GeoNuclearData database, including China Experimental Fast Reactor (CEFR);
-- the PRIS database lists only 410 reactors as being operational (China Experimental Fast Reactor (CEFR) is not listed anymore) while the WNA's database has a slightly distinct category named _Operable Reactors_ that probably also includes reactors in Suspended Operation.
+- there are currently 414 reactors listed as being operational in the GeoNuclearData database, including China Experimental Fast Reactor (CEFR);
+- the PRIS database lists only 413 reactors as being operational (China Experimental Fast Reactor (CEFR) is not listed anymore) while the WNA's database has a slightly distinct category named _Operable Reactors_ that probably also includes reactors in Suspended Operation.
 
 _Reactors Under Construction_
 
